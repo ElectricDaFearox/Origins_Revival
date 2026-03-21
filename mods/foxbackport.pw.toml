@@ -1,0 +1,13 @@
+name = "FOX's Misc Figura Backport"
+filename = "fox-backport-fabric-0.1.0+1.20.6-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cneOwVpP/versions/HOYxjHfe/fox-backport-fabric-0.1.0%2B1.20.6-1.21.1.jar"
+hash-format = "sha512"
+hash = "bab7a3c495b88fcc2edd60f49355574d945d68f0b30e29207ef1df61b49ebb36f04d2129d664070202a6b083faba415bb6b71a005f19c5378077acfbc0ab424d"
+
+[update]
+[update.modrinth]
+mod-id = "cneOwVpP"
+version = "HOYxjHfe"

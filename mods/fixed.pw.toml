@@ -1,0 +1,13 @@
+name = "Fixed"
+filename = "fixedminecraft-1.6.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3rOtjaMW/versions/RnpX7Wfv/fixedminecraft-1.6.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "85669d670c218eedb3f3f503904a038b5b678d7ba6081c00ac9f9100d4e4f185402f3252c03387fc9519b24a1389c317f465a9ed15a92a1cc46cb51b8bfb6e2b"
+
+[update]
+[update.modrinth]
+mod-id = "3rOtjaMW"
+version = "RnpX7Wfv"

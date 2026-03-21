@@ -1,0 +1,156 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/backport-copper-age.pw.toml"
+hash = "c6c07b0c2e1118289d736ee0f0760b8ff53f21d071305987052dc5687d03d8fb"
+metafile = true
+
+[[files]]
+file = "mods/backported-spears.pw.toml"
+hash = "aa2f89677ca50cd654e59459ae85732063cfc0adcde28d0dec2d68c78e4685f6"
+metafile = true
+
+[[files]]
+file = "mods/civillis.pw.toml"
+hash = "7571218adaa55c411ad77cfb6fc6fc799d25d8cd10c9feb10eeb7c2bda3ca976"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "1fbcec6fae4237b80bf2becfc06fb52a49512821f402b5928b1e2533c73b3142"
+metafile = true
+
+[[files]]
+file = "mods/extra-origins.pw.toml"
+hash = "1e798425ae488bc75394b02c116ba953b769eeb780bd10c5b2491ba81d033681"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6ec22733a32cf6e59584fbf2a855e24ea2c05f46026e0799f34f34c0915c8367"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "a1d5fa4cd13ba5aea50ce6d3615ee8c1710881913ba9f8c4c72777cc572eda95"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "4ed0328f3789ce169f8a338f2889f47ebb3b2de44dc9a3fe5934ddf2f4141179"
+metafile = true
+
+[[files]]
+file = "mods/fixed.pw.toml"
+hash = "f735e3b600ed044c9705f98007c2f84c83b67b190a6c6095c8f2621a4c3f9d69"
+metafile = true
+
+[[files]]
+file = "mods/foxbackport.pw.toml"
+hash = "30985dfb08773730686430de65b6d037f497e5ab1dc88a016e06d3d10f5d92a7"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "d3d2671a3e69ed7f31a5f0a608ff078e69b83bb12430cf6b0047a041cd31bd18"
+metafile = true
+
+[[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "a55e547f30226037a2bc5bd534904234f91189b5102a61f13596941cbf8d5654"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "dce0df1d0cb1a7f05811ba502f3a3de0458e0c5154f1b72ae493a339f3866083"
+metafile = true
+
+[[files]]
+file = "mods/immersive-winds.pw.toml"
+hash = "8053381400929774954f569baf89dfd0e14c1e21177b830f26fa17eb9870eb01"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "a4f56c3d8627a08745b04caebbd360c2fcf344c3712f3e5398ecd087b2d54da7"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "23de0cbbfd28d752eb662c00a907406bac3e3ad529dd2ac250b41b4b0ef734ce"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "2ceff6f8ca608ea7fd52f5f36fb1ffb23b6362039ecb747f00343584c6e7dfc4"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "7c6d0be08b6650983ddb921903772e802735fb0f05d920d5dd2f7c9ffdab0302"
+metafile = true
+
+[[files]]
+file = "mods/platform.pw.toml"
+hash = "10238f8ae3b18160abd09bee959ef7f4e856d9cc401489ec95cefb2f531048d3"
+metafile = true
+
+[[files]]
+file = "mods/rearm.pw.toml"
+hash = "07c18a72fc817e3f62348222fa1e1b8a65b363238b120802f4f84f92a4be8cde"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "e42572fc721676972c9e562a0b1811de7bd8a646696213316f9e113de8a527a4"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "a0ff1e6d6842d3508510d29d97d1fbf8ef0f6b4c2b7b0a874cba1ba3c7021b90"
+metafile = true
+
+[[files]]
+file = "mods/trailier-tales.pw.toml"
+hash = "b45fcd239d9787c7f3d104c300cc61979e7f0cd8363d59716b603d4adb36b202"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "bc0d1ea3cca663a27bff40733726dc9dfdbfe43cc8ee41db58dde3eacd329962"
+metafile = true
+
+[[files]]
+file = "mods/wilder-wild.pw.toml"
+hash = "41fa2e2fabc81ff476dbe940ab94818c25cb5553c81d8f3441396a80bfdbdb41"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
+metafile = true
