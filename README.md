@@ -1,4 +1,3 @@
-# Your Packwiz Modpack
-This is a modpack created by PW-GUI via packwiz.
+# Origins Revival Modpack
 
-You can switch over to **Plain Text** above if you'd like to modify this file!
+Just a kinda kitchen sink modpack (with bit of config) for frens :3
