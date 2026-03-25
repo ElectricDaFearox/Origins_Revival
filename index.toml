@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/auroraslanterns.pw.toml"
+hash = "3c22eaa2470d77f1ec55acdfba17a07aef9d6b3c5add762cb281613af4b589cc"
+metafile = true
+
+[[files]]
 file = "mods/backport-copper-age.pw.toml"
 hash = "c6c07b0c2e1118289d736ee0f0760b8ff53f21d071305987052dc5687d03d8fb"
 metafile = true
@@ -11,13 +16,38 @@ hash = "aa2f89677ca50cd654e59459ae85732063cfc0adcde28d0dec2d68c78e4685f6"
 metafile = true
 
 [[files]]
-file = "mods/civillis.pw.toml"
-hash = "7571218adaa55c411ad77cfb6fc6fc799d25d8cd10c9feb10eeb7c2bda3ca976"
+file = "mods/betterdays.pw.toml"
+hash = "d46575451d68d82636d1c1ac06d68b647113ae13c881cd27f5f74e10bc7c7bf5"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "941c3f358ef74f4fc99727e550106b8905d77cb4971321fd8ca4406e33b704a6"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
+hash = "4f5fa8f414a522e519113b9c938abb7fe5d827f8c1f039fc77649f1c0623c94e"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
+hash = "994a188c1acaae5d441895f388396b50fedaab6e0a18c1c0fe131a31c32a6132"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-dimensions-nether.pw.toml"
+hash = "381dcc6ed39a221bbcb3601f778490b4d81077e18eeb6847505c5f1a017e660c"
 metafile = true
 
 [[files]]
@@ -28,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "1fbcec6fae4237b80bf2becfc06fb52a49512821f402b5928b1e2533c73b3142"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "a39f23604dbc90c0303990a4887c10f6363625a2850084231c3213ccbce1e31e"
 metafile = true
 
 [[files]]
@@ -56,8 +91,12 @@ hash = "4ed0328f3789ce169f8a338f2889f47ebb3b2de44dc9a3fe5934ddf2f4141179"
 metafile = true
 
 [[files]]
-file = "mods/fixed.pw.toml"
-hash = "f735e3b600ed044c9705f98007c2f84c83b67b190a6c6095c8f2621a4c3f9d69"
+file = "mods/fixedminecraft-1.6.1-1.21.1-resourceless.jar"
+hash = "57d550ab76239a085789c9de8efc51e347c27b3b99f79e12c8fea2ee61671d3c"
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
 metafile = true
 
 [[files]]
@@ -91,6 +130,11 @@ hash = "a4f56c3d8627a08745b04caebbd360c2fcf344c3712f3e5398ecd087b2d54da7"
 metafile = true
 
 [[files]]
+file = "mods/katters-structures-only-village.pw.toml"
+hash = "dd606dfb3fe322d370c53799e84b7e895d99ce7133a8f10089d229ed2881d85b"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "23de0cbbfd28d752eb662c00a907406bac3e3ad529dd2ac250b41b4b0ef734ce"
 metafile = true
@@ -98,6 +142,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "2ceff6f8ca608ea7fd52f5f36fb1ffb23b6362039ecb747f00343584c6e7dfc4"
+metafile = true
+
+[[files]]
+file = "mods/more-delight.pw.toml"
+hash = "f1a7bff7a5ed9e9f88a02786b33737a99852a5e4f5e6c05b6269a63daf9f1e72"
 metafile = true
 
 [[files]]
@@ -141,6 +190,11 @@ hash = "b45fcd239d9787c7f3d104c300cc61979e7f0cd8363d59716b603d4adb36b202"
 metafile = true
 
 [[files]]
+file = "mods/underground-worlds.pw.toml"
+hash = "060fe16f03834d7edd3d74ad56f82df596f87bb39738b9fe4f5b7f47394c8cbf"
+metafile = true
+
+[[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "bc0d1ea3cca663a27bff40733726dc9dfdbfe43cc8ee41db58dde3eacd329962"
 metafile = true
@@ -153,4 +207,14 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "4d98bdba90cdeae788a747bb6fe7d438ba49fdc4eb67c38d4573304eec4a2ef8"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "ffcf32caf3dda8f05adb109dc86c477cf1bb768bac6232bc5bcf0d60a7861bcb"
 metafile = true

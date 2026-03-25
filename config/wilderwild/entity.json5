@@ -31,7 +31,7 @@
 	"crab": {
 		"spawnCrabs": true,
 		"crabSpawnCap": 6,
-		"reachAffectsAttack": true,
+		"reachAffectsAttack": false,
 		"crabClawGivesReach": true,
 	},
 	"ostrich": {
