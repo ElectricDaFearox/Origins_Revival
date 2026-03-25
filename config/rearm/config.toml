@@ -97,7 +97,7 @@ toughnessPerEnchantment = [
 defenseBasedKnockbackResist = true
 
 [protection]
-meleeProtection = flase
+meleeProtection = false
 elementalProtection = false
 magicProtection = false
 normalizeEnchantmentCosts = true
