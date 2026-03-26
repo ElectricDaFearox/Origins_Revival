@@ -1,0 +1,13 @@
+name = "Penchant"
+filename = "penchant-0.3.4+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BTORUTmf/versions/V63Pp6Xv/penchant-0.3.4%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "7e4893f93d910b7ec95df4f2580f96f6dbd1240c97910630454aa69114f4ffc6b774f631db0b917834de150cf43914a24d76e64a8894d8e00076aa656fd11536"
+
+[update]
+[update.modrinth]
+mod-id = "BTORUTmf"
+version = "V63Pp6Xv"

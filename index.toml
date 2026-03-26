@@ -48,6 +48,11 @@ hash = "aa2f89677ca50cd654e59459ae85732063cfc0adcde28d0dec2d68c78e4685f6"
 metafile = true
 
 [[files]]
+file = "mods/better-nether-map.pw.toml"
+hash = "514481fc4f12367693f94991655a570e501c043c70064d50e39e22ef7c41519a"
+metafile = true
+
+[[files]]
 file = "mods/betterdays.pw.toml"
 hash = "d46575451d68d82636d1c1ac06d68b647113ae13c881cd27f5f74e10bc7c7bf5"
 metafile = true
@@ -75,11 +80,6 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
 hash = "994a188c1acaae5d441895f388396b50fedaab6e0a18c1c0fe131a31c32a6132"
-metafile = true
-
-[[files]]
-file = "mods/dungeons-dimensions-nether.pw.toml"
-hash = "381dcc6ed39a221bbcb3601f778490b4d81077e18eeb6847505c5f1a017e660c"
 metafile = true
 
 [[files]]
@@ -157,6 +157,11 @@ hash = "8053381400929774954f569baf89dfd0e14c1e21177b830f26fa17eb9870eb01"
 metafile = true
 
 [[files]]
+file = "mods/immersivethunder.pw.toml"
+hash = "086d8b88627ca2b5eb4457a26a8894d1b0861e7b8e909e461a02b054814914da"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "a4f56c3d8627a08745b04caebbd360c2fcf344c3712f3e5398ecd087b2d54da7"
 metafile = true
@@ -182,8 +187,18 @@ hash = "f1a7bff7a5ed9e9f88a02786b33737a99852a5e4f5e6c05b6269a63daf9f1e72"
 metafile = true
 
 [[files]]
+file = "mods/my-nethers-delight-refabricated.pw.toml"
+hash = "f97c81eb19dc444c3276e1e4d506310d037bde71ba2da6311ec3ec7ccb2d34d8"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "7c6d0be08b6650983ddb921903772e802735fb0f05d920d5dd2f7c9ffdab0302"
+metafile = true
+
+[[files]]
+file = "mods/penchant.pw.toml"
+hash = "480a78a0d99194916910100e0b308f20b751f92045af5511f88f203c20ad54f1"
 metafile = true
 
 [[files]]
@@ -202,13 +217,13 @@ hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "e42572fc721676972c9e562a0b1811de7bd8a646696213316f9e113de8a527a4"
+file = "mods/sodium.pw.toml"
+hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "4ea85fa7d750bf5a167fe9652f2ac896d12ab068dacb8b04539e316ba5b74042"
 metafile = true
 
 [[files]]
