@@ -1,6 +1,38 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/friendsandfoes.json"
+hash = "d168b6ad59b48addd7bb401cbf7efadf108f7042d136e46b7acc97911d7abe31"
+
+[[files]]
+file = "config/immersivewind.json"
+hash = "7ad9cbe9cd21171b560c4ab2eecfb6f4652f6563f6fd246bd9b5166847df346b"
+
+[[files]]
+file = "config/rearm/armor_materials.txt"
+hash = "41b932262d2a53a649beaecea5d2c01f7a9cef34ee7d417d3aa7dc9467f0a7a7"
+
+[[files]]
+file = "config/rearm/config.toml"
+hash = "4f80a0fd01136f33e55c4abb2895d0a28ee9cf1ff6e01c5c05ba51338f6e7603"
+
+[[files]]
+file = "config/spears-common.toml"
+hash = "1dd28c044c1e4ee11bca10499f67d5b7041880639097a070e9c18b4efe435ea7"
+
+[[files]]
+file = "config/trailiertales/worldgen.json5"
+hash = "ba4503ebc69b390604ea62fb406c52ccdb6cd76f9b899c642f733cb2d36f557b"
+
+[[files]]
+file = "config/undergroundworlds-common.toml"
+hash = "6c2866fc0aa9f34baaee74b46f3e16f37ab9b13691bc972d9bac42eadf971b52"
+
+[[files]]
+file = "config/wilderwild/entity.json5"
+hash = "b4032b7c5e500b56d0e68d00a0ed6d7b2fac39d2198522b3a446bc84df690901"
+
+[[files]]
 file = "mods/auroraslanterns.pw.toml"
 hash = "3c22eaa2470d77f1ec55acdfba17a07aef9d6b3c5add762cb281613af4b589cc"
 metafile = true
