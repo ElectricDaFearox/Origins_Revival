@@ -21,6 +21,10 @@ file = "config/immersivewind.json"
 hash = "7ad9cbe9cd21171b560c4ab2eecfb6f4652f6563f6fd246bd9b5166847df346b"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "e80f559e3a2676b050876046a00a998e82327b6c09fb9245a59a96fcad5b2325"
+
+[[files]]
 file = "config/rearm/armor_materials.txt"
 hash = "41b932262d2a53a649beaecea5d2c01f7a9cef34ee7d417d3aa7dc9467f0a7a7"
 
@@ -47,6 +51,1282 @@ hash = "6c2866fc0aa9f34baaee74b46f3e16f37ab9b13691bc972d9bac42eadf971b52"
 [[files]]
 file = "config/wilderwild/entity.json5"
 hash = "b4032b7c5e500b56d0e68d00a0ed6d7b2fac39d2198522b3a446bc84df690901"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/fixedminecraft/default_components/chipped_netherite_anvil.json"
+hash = "5cf8caed7857495a25bbfe8b6bf480e388ea2c9103f2019383b8bc031c1a9b6f"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/fixedminecraft/default_components/damaged_netherite_anvil.json"
+hash = "5cf8caed7857495a25bbfe8b6bf480e388ea2c9103f2019383b8bc031c1a9b6f"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/fixedminecraft/default_components/netherite_anvil.json"
+hash = "5cf8caed7857495a25bbfe8b6bf480e388ea2c9103f2019383b8bc031c1a9b6f"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/fixedminecraft/recipe/azalea_stairs.json"
+hash = "6ce9196872a6249c9d50ecabe8ce4a60e85a079901c557eb771fb326d2532e24"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/herbalbrews/recipe/kettle_brewing/black_tea.json"
+hash = "cd8806219ff1e68d6d201d8142019cd7fb39c69f12d78b4656499eefa67f4e99"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/herbalbrews/recipe/kettle_brewing/coffee.json"
+hash = "763984e22ff79c08301408f2dd8f0d3192211814e1fe03b378acc0cbc9d9d8cf"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/herbalbrews/recipe/kettle_brewing/green_tea.json"
+hash = "535324f23ded7cc88fd70630cdef7a5b0ae781dc966762ae25c4e2abf0bffba6"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/herbalbrews/recipe/kettle_brewing/hibiscus_tea.json"
+hash = "2c4792dd1892eb661c303461225be5ee7746c052eb545a78a7161eaafe2481df"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/herbalbrews/recipe/kettle_brewing/lavender_tea.json"
+hash = "3406aa28efeeb53f1aa0f3f12c8e8b74aadb69184da9b3e795ba66be8781514a"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/herbalbrews/recipe/kettle_brewing/milk_coffee.json"
+hash = "91fc91d9b9eda3ff5513c614872347eb1c599c1b76d4e5ee9cd8827313de19af"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/herbalbrews/recipe/kettle_brewing/oolong_tea.json"
+hash = "024d59a7d6029d5fc27887e98d2c679c35c6037f01bfdb891490ac6119c8541e"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/herbalbrews/recipe/kettle_brewing/rooibos_tea.json"
+hash = "a866434cef3d49e640f57aa1aedb0ba96db8d7cc179bf484b39a7db0b52da327"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/herbalbrews/recipe/kettle_brewing/yerba_mate_tea.json"
+hash = "1a65d2ba8b54889126549f363c6ec6adb375b68ae402eb26a826a7b89bca2100"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/acacia_stairs.json"
+hash = "2cf3e983ddd70ef65633235f8bdde86a1d60ff4f66a3a8a21b9be8d59b75c955"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/andesite_stairs.json"
+hash = "9f90f0a8c12cfd3dc3b463acfd2b9893f97b2301827ccaf26d64466d14bc25f4"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/bamboo_mosaic_stairs.json"
+hash = "e3f7073d8a5c79b763ce359859dafe51fd3de226dfabca2d1525e7b704eb40a6"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/bamboo_stairs.json"
+hash = "d6d710ebb72eb0f1c2b1b95c648256526077c7ce203ec8969b1416474936a2f9"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/birch_stairs.json"
+hash = "aa730890b93dd72efdec09f4d32a586c7bd1e621cab0800d66c6a60c2b4ff65f"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/birch_trapdoor.json"
+hash = "b65910582f1b353bef999d47b03a11614a939a91b5a1e3356834e175997ede46"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/blackstone_stairs.json"
+hash = "f0a1101e710c846ac83789f33e4454e792e0f0f449ecb0f4c76ccee350d81fbf"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/brick_stairs.json"
+hash = "eb3deb55994e23556ce358733b4399b78ed00086b9fe9f9a1bb73c72d34b1e3c"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/cherry_stairs.json"
+hash = "5187a7740e9044c32e44199c25de47a2c29f7a4492a389d4015b510900f5fe88"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/cobbled_deepslate_stairs.json"
+hash = "5053085a0bf80c831cebeb329f5cae921cdced05fdbaeaa7e656e74d0d5198a5"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/cobblestone_stairs.json"
+hash = "8a46b3877747cf63f2ebdfafed2309d95cb34c0a48a7f9e1880e953b0e077852"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/copper_trapdoor.json"
+hash = "e51718cfa34aca204635f1478de960bfb7211e9c15ac2064cdb9f39afe069abe"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/crimson_stairs.json"
+hash = "80f222dedbbaf1f5d9fcf71e327bf0eae0fe7fcfafc549170b118905d389ab31"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/cut_copper_stairs.json"
+hash = "7817aa13feb5e4d6a6919b3b3ba8e97cff0ee34b708b79b7112600660a1ae730"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/dark_oak_stairs.json"
+hash = "9e1005dd8876ee6403fe9c6d2237c3115c3b15838d4fe29bd83edb3147f23c25"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/dark_prismarine_stairs.json"
+hash = "2a623d4d57ea8f305257f836cac6db43c1ac1ce633fa1a468dc28ddd196965de"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/deepslate_brick_stairs.json"
+hash = "e0780554dd708a046193c521c92c65efa50215bbdc66eb5f65400ab27a8a48c8"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/deepslate_tile_stairs.json"
+hash = "17b1c36473eb6418a01682d92f05c8ad363b466c6ed183d53aa165fb6592b79d"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/diorite_stairs.json"
+hash = "53066f1494f92c6d9ef151681bfa19ff678ee4457727a33b02ba794d7176350a"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/end_stone_brick_stairs.json"
+hash = "1fd16b72225189467f82d7f83f8fa09e5dfc8f181defad58e28de4aefe9b3198"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/exposed_cut_copper_stairs.json"
+hash = "6480333ca4db9a3cc8e670df9e0126f4bedd56b0b202e8d6bbbef544f082a294"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/granite_stairs.json"
+hash = "a9d399f7051955a8340ff6459d5adb3b368579e78cc32366758d7a4aae140c07"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/jungle_stairs.json"
+hash = "ab9cb6bfb005fbff8f2e7216dcd655894cd6be9690c9ac328e60d5c88bf0e643"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/mangrove_stairs.json"
+hash = "27dd5407fa6ae30d3714c374aeabe35e9948f1dac2db986856ebb83f2859ca97"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/map.json"
+hash = "b71bdd47009e3cdfdc8dbdd9235d8bf5cd2338adca754736ffb4f3ffa63c9c39"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/mapink.json"
+hash = "6ff98550f945c46218ada2d318d7a5ded48819edeb5af6cf3e89750c63e840e0"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/mossy_cobblestone_stairs.json"
+hash = "22225070bee15b68dd1a0ce55f41228ed81a6a2f0da9c8e510433ebf02cbab58"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/mossy_stone_brick_stairs.json"
+hash = "9f21e109b7aae4035e1604b094eb23055c87cfd560bebbe642f533fb693f5770"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/mud_brick_stairs.json"
+hash = "bfc1c0df7a166fcff602e11da8394e5dcdfe0918f1ace964fde14bda9a8512d1"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/nether_brick_stairs.json"
+hash = "5e5247788af373fba723fe82c52eccd349d121a89309702e4ff3896c757afbba"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/oak_stairs.json"
+hash = "b894a88076524fd4abe730eea7eebe392944c7088538033ef5c1beaf5c207b8d"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/oxidized_cut_copper_stairs.json"
+hash = "7db6449ec833a9deff6692033014b128af09fa295c6d49052fd0c22334f01d92"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_button.json"
+hash = "2db9fa114a0371a17774e002dcd7c4092be2652b4322d84dd53598e6c1aa0ac1"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_button_stonecut.json"
+hash = "51821d389d66be8232bd6304ca54df97e5c563a225bf5108729dcde7af82da81"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_door.json"
+hash = "d324fd9ae4c530c789117b96ac14b54d5a4010747a123569d2224f314b1f8fa2"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_door_stonecut.json"
+hash = "62f9d8d12101b00b0a831c0cd1c8e38c6c848d55a253de6ac99419d819d6e627"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_fence.json"
+hash = "066415f556c1018e8c435811c3f8b7fdeff42a5181b7bddbdfae4c4262a4bf48"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_fence_gate.json"
+hash = "738c239eff0e656e415d8352d0b36ae762c6aa3079c9b49a453c4b8daff4b620"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_fence_gate_stonecut.json"
+hash = "741c285c83536ef14d52511d8a28dd8f7dc24eff33c9a4f884a3845b81aaead7"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_fence_stonecut.json"
+hash = "876f6a6645297194760968ee4e28dbd06162c445d35b4f98eee63d92596c93c8"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_hanging_sign.json"
+hash = "c40f4e9109a0b1bf4a3908029ad574beabbcbaf05dbd7a02aae256587fef7814"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_hanging_sign_stonecut.json"
+hash = "09fe2af8ff6e628003919af4633d875f39e13a23959a70849f058ce4e5a44df1"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_pressure_plate.json"
+hash = "841f88d0eae1abf5f6c7ef8ee6ee5fa11e0f7738934870600aad5bbf6f191371"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_pressure_plate_stonecut.json"
+hash = "a744f8a4be61cd8f168bbf3c22d1fdb810800a85553512637adcf193a989acc3"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_sign.json"
+hash = "89e0fcd133bc044969f2c05567ad43524029bbd02de9846c25a5f24dae70dd0a"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_sign_stonecut.json"
+hash = "08bfd81fba7438a0cd0b2355dd1153eede6a8bcccde074662c1834c5c5672246"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_slab.json"
+hash = "0df896fa1d994c667c01e896b6b1fc1e50c70765ae35315415a7e9e870491d1c"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_slab_stonecut.json"
+hash = "9e62ccbb0c4ac6574e54845f6fe98a407a93ca64a352f5c75cba5e1f054749ca"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_stairs.json"
+hash = "7ce78ad372ade4694ee62f0c48a3789ecae7769fdf3555f1c43ae9bc01950ee3"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_stairs_stonecut.json"
+hash = "8a8b9e2879084a0f1c96ea472cb3474f8a64e292117739cf7a78cad8428e39cc"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_trapdoor.json"
+hash = "28b14965bfd925578482da7dc1b96ef807b6e5cfad35f68886918c2b5b4a0b36"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/pale_oak_trapdoor_stonecut.json"
+hash = "0ec24f81e6c83d7d7471b011b54117e9758d7e59c2fbfeeea7169aa1b2049cdd"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/polished_andesite_stairs.json"
+hash = "b4cd443b17fcf512303a392594ca0c2ecda2619a7c1d7187e4ee8805ba83ed72"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/polished_blackstone_brick_stairs.json"
+hash = "e2a67d8ad8a32ef61f97a7b440cb023b865c60e34eb2e7a04b5b0fc32183e670"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/polished_blackstone_stairs.json"
+hash = "77e7c4a1585f3d1ca3ac835e68584aada2d54d50c727ddb82030db08f376118e"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/polished_deepslate_stairs.json"
+hash = "8be23d2282dfba92256fb55ef540fd3ab042912bfbe7299e19ed42eea8330ba0"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/polished_diorite_stairs.json"
+hash = "89ff8e50b048f270cf1758b24e331fc99eeab99007c30795bfe57d260e13213e"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/polished_granite_stairs.json"
+hash = "a7c240461132980ce403394f714dc11b8f970148be074f5afcc339023db84337"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/polished_tuff_stairs.json"
+hash = "c235442f2ed11ceed9d9f0cad192bbbc0f4987fc6d8dcb0cd8a9cb44edb558f9"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/prismarine_brick_stairs.json"
+hash = "3ce1015867ac6ce8e9ad32cc9f103f266f8d82f4e4630b0245f109570ae2ac6f"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/prismarine_stairs.json"
+hash = "6fdec3bd24a70756f250ed0805f2e0371760c70b8184f8dacb2e259c2f7ef3da"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/purpur_stairs.json"
+hash = "af4e626ac8a99c1e3947b314878e41343569845fc5560b58b577c4445d9745bf"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/quartz_stairs.json"
+hash = "417f6f44b198186e0342ea3f037e4272967b8aedff50e63f137524f730bce68e"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/red_nether_brick_stairs.json"
+hash = "e38cf4b728cacc118c3f6cbfdf3bd97de6d2131ffca0d5c5ee254163cb9d6917"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/red_sandstone_stairs.json"
+hash = "b0038bd26921015c30dddd62e94e4029e2b7fdb71a6bf4b578eeb1a206111db7"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/resin_brick_stairs.json"
+hash = "bac0309b07a346212a4c98d6e7cb4c0d1fad557132dcff16e332a33ac0ea9a45"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/sandstone_stairs.json"
+hash = "6034edcfe3ecbc83ae99a2943ac82eee4eca1356f5bf3f7a1282725e0c7e2e58"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/smooth_quartz_stairs.json"
+hash = "d11d2b7f63b80114010bad5f55d1138ace1003e1dc691f0b0dd03bd09abe8710"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/smooth_red_sandstone_stairs.json"
+hash = "24f055dc69b5cf0e2bdc5c800b55ea019c845e9326a85dd46ade61b2f033e2ef"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/smooth_sandstone_stairs.json"
+hash = "0997ec7b8f0831479a88e9bed02126d3a5e8ec81bacbb842465b8cd019eaf2a9"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/spruce_stairs.json"
+hash = "11c339e3e6a5c82e2a04615efe54c5585014d243a3ab3b2a56dddaa2a6ca01bc"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/stone_brick_stairs.json"
+hash = "be605dd47dfb63381d559cf95d9d61f79f131fc5270db981e794245a6c953566"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/stone_stairs.json"
+hash = "808493bec1b6cf0b15b685690d3e88de7d18a3fb542a143339a9aafd0cef6d59"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/tuff_brick_stairs.json"
+hash = "fdf9e65df9294a87d0d540eb60f49ff33c55ef29bf5f3b70bd02e353e226450e"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/tuff_stairs.json"
+hash = "cfc8bd0cf360b92359cdd3c9873114767f805287feb30420d3feafc16663c1f1"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/warped_stairs.json"
+hash = "1edd0addb3d3e12e007e817aa3d24cde8affbaf32feb92154af850cb92f6ccdd"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/waxed_cut_copper_stairs.json"
+hash = "32fb678636fc9889802e785f36f2599cc5ddfdd1fc6a59c57452caa69c248849"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/waxed_exposed_cut_copper_stairs.json"
+hash = "6995448c095b0c7d02cb353083a06d34d81ef01147d4a84686ed99ee2a69bc2a"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/waxed_oxidized_cut_copper_stairs.json"
+hash = "4eedde32f0fd94da8e33fc42cfcde0b34b0450125dbab9184aa7173759f293fb"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/waxed_weathered_cut_copper_stairs.json"
+hash = "bc0823ea6eed0110480cf0bd1a2ca0de2b9dc22d5627011aa731b86c4b582dee"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/recipe/weathered_cut_copper_stairs.json"
+hash = "be4e2224a11e36b8d6cbc0ef315e9bc3411466994cba937aa22f19ac8f61ace8"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/minecraft/tags/block/climbable.json"
+hash = "66fa3a49ea65cd52c75f81af344e2a13d4c7756bc84292badae890c3cb54cf3d"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_button.json"
+hash = "a68f28f9c555e80a0b33ff305a97b325ce2d04919eadf30bf9e644bf44b1439b"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_button_stonecut.json"
+hash = "435cf36bb48340fbc0f61379fae0a1f3471222b7b5c5025646fc7833804414b2"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_door.json"
+hash = "d5d575c0a5feca3c24412381b333da00e2c4f4f0ef069220c0f48390f2357490"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_door_stonecut.json"
+hash = "c804618fc7eed7af42e10278826a20ce31fc39618f5fa87f7e45ef734a03194c"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_fence.json"
+hash = "c943c71c750f259243b42de04e39218ee35b6ba6034f67bd2df6d6671ef5b722"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_fence_gate.json"
+hash = "e2fbc6ebbdc6fb2f09a5a0b5d452f323ef17b83b1e1241143b4b86e1ebf59768"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_fence_gate_stonecut.json"
+hash = "89ef5ba8ca76a92c73249770fb88ffa1fc4a18a016e1c7cf064fd757a0279777"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_fence_stonecut.json"
+hash = "6b760534d3068bdba33efeca44ed4c4458f98c6a8fe1a45697730006ce602984"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_hanging_sign.json"
+hash = "81b934124a84cbcab455378a3e9d2e95ad3dfddfd6a51322ae59b270b908ebd4"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_hanging_sign_stonecut.json"
+hash = "8ee224af9efa1c710dace8372775a6431b9953eac74d89be27a24111f8e0b939"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_pressure_plate.json"
+hash = "2a4d51084da64c173885b515870efb8d73071cd6b0c4605b783ae0b6a4d607b9"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_pressure_plate_stonecut.json"
+hash = "4c3d69e05298650512a8efde4eeadff9a83a5f17ceb0dd25e53ea2c73d76f30b"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_sign.json"
+hash = "f42ece1071e07160d9fd0ed2daf6071396945625da6115744f50b0490c9f8c95"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_sign_stonecut.json"
+hash = "b735fe62cb288a38f913da3f8d3d41e933d6f13b24ff311b980a952001649d76"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_slab.json"
+hash = "8c009a337fe80be4cd977e32b2f92fb672d326f426025517a2b4647b5f2f4942"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_slab_stonecut.json"
+hash = "2305ec7761313d0f38078778ec942cd37f7205172607aab1b327a29cc125fa4a"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_stairs.json"
+hash = "0ea61b01ba53e1239f3c00f1f9567edb818e4f3c7469b14e40372ed0c7949ef0"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_stairs_stonecut.json"
+hash = "91fb7fe9f7e5fc4db1095c1ecb98a92334678333687d5129d610aa2b05edd045"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_trapdoor.json"
+hash = "047d209b3489379d4e49b86f099431b62da2137e49c7a1ca39427c503ed845c4"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/mynethersdelight/recipe/powdery_trapdoor_stonecut.json"
+hash = "57f8f5c80461c8984b9daf3814c4b9b8a19b781f2da94bfc957bc42d3259bd45"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_button.json"
+hash = "916f981c032f1869b3b9016dfe2e7871dcd858a8ec65f7548586b94f83f1f8bf"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_button_stonecut.json"
+hash = "602a72e734cc4550c7a479f3bac972b35dd71ebc9bfc1ad265be90ecfe317553"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_door.json"
+hash = "fc4de69ac087c757b0c3d040c4994d160adab9fc6d6de718bb905b49255701b6"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_door_stonecut.json"
+hash = "4328c61eae7dac7eab1d26f926a7f3a75dcfddf809a9f1e41142badcc15121b7"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_fence.json"
+hash = "dde10e0ea6f8516cf8f9ef3a9b034651ec63b1d1d6cd1584291f97225b8e0537"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_fence_gate.json"
+hash = "a4238cf449ac436bb40734c2f060212a4888095f1ddc8833d7560c7be75577c7"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_fence_gate_stonecut.json"
+hash = "8965a5d199f3c0f364906f9ff6de30b513dc212cbb2783a79f4eb70e448045b6"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_fence_stonecut.json"
+hash = "df0cecf82dbe2dfc5fdc06c5fae86ec6ca7e0cad2029b4ab55a512bc2c046256"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_hanging_sign.json"
+hash = "3032a9dbcfb6ab1613ae8796ac5806e7391d4e586980f29985f6b20d7c8a6a7b"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_hanging_sign_stonecut.json"
+hash = "bbcb555a53fb31b659f5aee70327db6a9a3e22df44ef1f2847c8ce612da890be"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_pressure_plate.json"
+hash = "cf1fb940d7b2ed0aad2e8f579667a950e924fa3320df171d9d8b4d10a2c58fc8"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_pressure_plate_stonecut.json"
+hash = "0bbe5ba2aec82d0a1993a8e4fcd8e7e6a46edf099aff22ed9cb0c0f626b40319"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_sign.json"
+hash = "550a362e3d7fe1dd8b6b90fef9ad774296cab0a153f1529159b497a3f1dbffa0"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_sign_stonecut.json"
+hash = "aad05aa6eba532f5509094117a4179f87ec3264eed7ed287dfb6f82ecf496a06"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_slab.json"
+hash = "8d1a497f9738728ad61c7e83dbe7c9b3093dfd5275b37a51667e666d91049b3b"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_slab_stonecut.json"
+hash = "20c49b813ce7bd8feb47a6cd7e684071be93e48594245ce746b0e839b4bfa1ea"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_stairs.json"
+hash = "b209b7023255abf5fdf47ba9b3ccda13a6e8e2996e606d143aa5bd9b971801d5"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_stairs_stonecut.json"
+hash = "300cd937c2d7f4b0e793c32e1e1ae51df8e143bccf99d368f341193194464b88"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_trapdoor.json"
+hash = "e88822055fac21e659d07c8c3f8da74f4cb20a5b42e443cf832ea020210b32a8"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/burning_trapdoor_stonecut.json"
+hash = "aa1094318092fbe10ff1954dc2c8d6d8b8ce17e0752c3be998981c6b27022b52"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_button.json"
+hash = "1489ad31050f813f93129dc09ceebf440b479ff9ebe6d3e1255132c8b42c2c0f"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_button_stonecut.json"
+hash = "8d592b017345784b9992a4f6a7cd431f63fb1ff7325094fdea8dea86960e01b7"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_door.json"
+hash = "0c63e37818ce789b15535000e8cdedd4cf409458d1672eb4ce22483174f048de"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_door_stonecut.json"
+hash = "74a285e6a97847134026ab96547db320fc67178d2aab5f588f75b8dd7874b0b1"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_fence.json"
+hash = "6344c423f95204110b1784bff0f754428bd2759300268fa05300f49c054ec6b5"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_fence_gate.json"
+hash = "6d751fc86c8e306ad08d8e45df5fc79645b7ea221c0abf1b3537b9cc4bd59dae"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_fence_gate_stonecut.json"
+hash = "d33e570bc2f27c0ec845b3ef51af1e305e7bbecb0839d17757f631bd098e2402"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_fence_stonecut.json"
+hash = "a364a8c7e1a788d4e0f079bec351eacd520da32db69ac849dad45db22bf4d569"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_hanging_sign.json"
+hash = "891eb43bad7a6f739daffd76f649131f99d29570f8a6a77d70c4a079b8d03897"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_hanging_sign_stonecut.json"
+hash = "a1d1d69fa95323fc0013f381a6ceac045843f60a83c3a0fe4f2f7b744ca7fff6"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_pressure_plate.json"
+hash = "1753931e962e4a509013c34c646a5cdad2271ca7c51e7ddda110baf802e5fe8f"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_pressure_plate_stonecut.json"
+hash = "3e6db432a647503a8c79573ed0bee61776f65e87a391ba7492430dd88fae59b4"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_sign.json"
+hash = "681023775a9337474e950db47f3acccf89f20350668d5082223be8966c2d8983"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_sign_stonecut.json"
+hash = "67876c24753676d7dcb4a9898162f16c8762b0e541d4d1268b1df77635ebbade"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_slab.json"
+hash = "05b78303e8a3cf48b6727e7b8e8ceb73bc8ce04d7c760d22890877feb4c32d50"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_slab_stonecut.json"
+hash = "04dae403738ce3f350e4c331d20e43a1a3c44cc42c621085573824191b1e9b7d"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_stairs.json"
+hash = "7e17dffd575191abee64ee970d55fe5b5d225b0be1175b5615a3ef0eac901fc5"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_stairs_stonecut.json"
+hash = "bc7dfac2f62df4878c83d202957d3e61882f5a3eb601bda0b0488c6aa2d1e314"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_trapdoor.json"
+hash = "b949fddffe6bdc5db20ba9596f2ed61b18dd22e90113f721916dbe8f9459ccdc"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/pyrellium/recipe/shaderoot_trapdoor_stonecut.json"
+hash = "3325161e18b23b757615551b2b954239169a53cbe79faffeeeb4099e15de1eec"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/ash_brick_stairs.json"
+hash = "8d7a0139c1dcd13453bde41c9c88d22edbecff3fc739b3a76ec9cdb258a7da6f"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/blackstone_tile_stairs.json"
+hash = "b918a7bbfd099bc5cf67eb2cf33f60ba6761723e1e27cb2b2094bed5b6b39150"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/bomb.json"
+hash = "0094c69ed84c2aa96081154a57c85647243de355fec1e483c585b6e4e4e20e91"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/fine_wood_stairs.json"
+hash = "77fe1c269cdf360288d06dad2fddd81f73562f6febbb7029dad02e74ea39e678"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/lapis_bricks_stairs.json"
+hash = "b53d7f526d47ecd3b2429eb461ba89ddba88e7fcf6aa63d3b888efeda06772a5"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/stone_tile_stairs.json"
+hash = "1280efc1d35144cfd04ff6040b89c761386eb19d9a754a968a0ddf69b663bdf4"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_acacia.json"
+hash = "d2f50ff7e0a52c68a3d67d537b6cc459295c5189d2f5b59f7769c4e144893da1"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_azalea.json"
+hash = "9c497e25a43d816e8b55abd0b331575238b2b111fd3250c8d560f00ad5c4f715"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_bamboo.json"
+hash = "9416130a0e72109682c3782b168298d70e7dc8c19d9c4e7b150736bc5794c4b5"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_baobab.json"
+hash = "3bf6ac31e0424e872ec837f05fa956704bed20c03fe82103ae4fdf656e379a08"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_birch.json"
+hash = "40df24fa28622310a01b97e15a71016f972310d6370ae67b540f96154847a692"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_celestial.json"
+hash = "5f103bba4cff1d45b9da0136f4ec71888e941d96a8630f0b9765427dabcea3f1"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_cherry.json"
+hash = "8de4593b4b9215ae7f99cccdfcc1b7834f17de15af5202ddafa9ecd9185d7a9e"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_crimson.json"
+hash = "e987a7653edd41f04ff4eea1ad2b74d00bf5747cdb32fac009aea79cd094bb51"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_cypress.json"
+hash = "8608477772303d8a7939116fc0842af1f3b34ed7b770ed08bc3ba771aa2deb97"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_dark_oak.json"
+hash = "769caa7c5f8e763631f716bfbd10f9ee7a54572d288de6992841dbf0fcb6df87"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_jungle.json"
+hash = "9fec2767fe02e411fcacb43a13a17fc67b8299e3f7c989b584970e2af235693e"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_mangrove.json"
+hash = "907f3f4f9393408117d35563d8b9d9ca3e01c08a1c17bf16bb1177caaa02a1bf"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_maple.json"
+hash = "2f997508d8ade1f8edd30ec009f370001abb83a6ae57766ed5d80cb5b46c3f05"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_murublight.json"
+hash = "c270e39d5c695a0624baec2f04b47099fb938e665dd073a9fc9843596729cf32"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_pale_oak.json"
+hash = "efe834b0387a6a31cb1aea780cdbe49c7f490c04d197e374a6a0cb5ee34367ff"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_palm.json"
+hash = "aadeadfb488ed181a3aa28453d2f74fb0545f49ad694064cece91ed4b54453c7"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_rotten.json"
+hash = "aa62722e58973f73498ed68f86ac72bd167dabc4698f748574e88b06bfb97339"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_spruce.json"
+hash = "323522bf90650e3f8834dd1a23ced6e67fbc95778ea5e9a68a5080e0359a7e36"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_veiled.json"
+hash = "15060d109d326ac41fa0dbe2b9d116530453572cad2c29a09ba6372f0b4d5fb4"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/supplementaries/recipe/way_sign_warped.json"
+hash = "16dd6a7a25e86ea703ca32a1a756b27993c56d7344ead50d40d8b1e89d46fd01"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/trailiertales/recipe/andesite_brick_stairs.json"
+hash = "8120843c8307d0058ea36577051d6ebd9be36ffca3765aec27f105e36d7d165e"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/trailiertales/recipe/calcite_brick_stairs.json"
+hash = "1d566b9842d942ef4eee660816c290977a55d863460eea7d203a13119a1a1f27"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/trailiertales/recipe/calcite_stairs.json"
+hash = "e3f59d42fe78bf03ecd2a29282ff8fa3f11277b7d9f90eb72704eaf4c134bca9"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/trailiertales/recipe/choral_end_stone_brick_stairs.json"
+hash = "67ccfcd19063fbb3cb3136538f093cc868d98cce161c4d7af01d5b1ba2fd7674"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/trailiertales/recipe/choral_end_stone_stairs.json"
+hash = "8082312a963740f63076d3a213a9c7c4296449bd5d1ad148d0c8aff9e67cfbfc"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/trailiertales/recipe/cut_red_sandstone_stairs.json"
+hash = "7cf1de525717970053adef24cd41ce778e3732b7cb4c2594e3123118e29dfa9f"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/trailiertales/recipe/cut_sandstone_stairs.json"
+hash = "6a7a7d266e3350deb92fccb20901c58a266cd0008ac8cfa56314ef66bbed1729"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/trailiertales/recipe/diorite_brick_stairs.json"
+hash = "5efee97e5adc5116e169b0a25597cbacd5eb3bfb13f590e36dba59ff2c8c9f99"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/trailiertales/recipe/granite_brick_stairs.json"
+hash = "78ef02dbe2959c0c39d7b2d68d1d47bf0ced7a59670c1b608ae715fd8d71da85"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/trailiertales/recipe/mossy_andesite_brick_stairs.json"
+hash = "db1947335e848f327a7808c031b0e82b47ae8efee5fd5487aa3fed919433eeb6"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/trailiertales/recipe/mossy_brick_stairs.json"
+hash = "1942b4beb8e44a105a82433bc3a58c55067105244b0d5b9161d02320a60cbfce"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/trailiertales/recipe/mossy_calcite_brick_stairs.json"
+hash = "c61fbe1a8229b1960f96d2d88775967d717bc52fd524ea360eb7bbd61f531cb4"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/trailiertales/recipe/mossy_cobbled_deepslate_stairs.json"
+hash = "9431dbfb0c8e78a758c6ad11a6aa6f14b394727fefae47c645561f3dc30cfedd"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/trailiertales/recipe/mossy_deepslate_brick_stairs.json"
+hash = "7167ea1859613eb256b404eb5567d105f869d76d596704c6afb1e6a91ba8d284"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/trailiertales/recipe/mossy_deepslate_tile_stairs.json"
+hash = "a7fe5694948f4661ebe16deab61ffb1b03b2aa7b2c751de1a820cd6cc399cc62"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/trailiertales/recipe/mossy_diorite_brick_stairs.json"
+hash = "96a202c0657c9e3dcb6f71369c34a576c01db4a07ffd4be2d3f68be68c9b3ae2"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/trailiertales/recipe/mossy_granite_brick_stairs.json"
+hash = "77c6f2f134622c613dd63a37c345fb9a0e0b4dd2dbb362b4b817f88eca5b5109"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/trailiertales/recipe/mossy_tuff_brick_stairs.json"
+hash = "4862f3c80a44ce0fc36251872922a9d9e22176b634fa05d5393de14290b1d335"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/trailiertales/recipe/polished_calcite_stairs.json"
+hash = "deedcbbc7b679aa62e3118d6ceb93744ad5449d724430b0bb42e9187c36d5bc0"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/undergroundworlds/recipe/crafting/ice_brick_slab.json"
+hash = "b59dafc711516436e5c09e0a0a9ce8fb9ff6c751f0f5036247d24460860cbaf3"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/undergroundworlds/recipe/crafting/ice_brick_stairs.json"
+hash = "5fc2da13e0c541b6c38fbd113d8124310f540bba7a2866eaa40037211192df6f"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/undergroundworlds/recipe/crafting/ice_brick_wall.json"
+hash = "40e215d4a2f1f1c3a25592bc98b5eb9f5e8a03d3263242260797dfb2fe3036a6"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/undergroundworlds/recipe/crafting/pyramid_brick_slab.json"
+hash = "2109441f80efffe401b54f8b2873b5ead0288f48f7fe30293913c0c705106425"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/undergroundworlds/recipe/crafting/pyramid_brick_stairs.json"
+hash = "870cbdb56693087ae7280506a3f8227de48859c1cfd0ef8af337a0f8e75c505b"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/undergroundworlds/recipe/crafting/pyramid_brick_wall.json"
+hash = "96ac5263670a62d5cf5e1956b0f0925c45d21b5741deec3f1af4de614d69deab"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/undergroundworlds/recipe/crafting/sandstone_pressure_plate.json"
+hash = "c0f42b59b71ff80fc3eb46d9c459dcc52a8707d47ca67960bd15ec643287cbdf"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/undergroundworlds/recipe/crafting/temple_brick_slab.json"
+hash = "c7b12eb710f26203b74903f4064ca1e18a02bf2cf240ccf83b209e8068345a04"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/undergroundworlds/recipe/crafting/temple_brick_stairs.json"
+hash = "daf82a4c010832b8802ea1dc6d78bd82fdf1bff4ba204b6372fb6bebe6abde99"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/undergroundworlds/recipe/crafting/temple_brick_tile_slab.json"
+hash = "e1a52f083306f906d3482fef66606eaeca3adfd6c614fd865c997b832549bf11"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/undergroundworlds/recipe/crafting/temple_brick_tile_stairs.json"
+hash = "c3a3e53daa7221f5069b13593eeadf7b4abfa8a8cee056ff7bb33991e6b5759f"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/undergroundworlds/recipe/crafting/temple_brick_tile_wall.json"
+hash = "7bd84618c5571bab3117edfe5a15ee1e0db26a394112ca1a4caad50eb2961376"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/undergroundworlds/recipe/crafting/temple_brick_wall.json"
+hash = "d90e65365cccb5ce50b995a396e73d4b8bedcc0755e325b150865cb10f8c7aba"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_button.json"
+hash = "662a1da87fea4683a3801bfbedad3c3f354ffef3d7e590f05b5d923c64198800"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_button_stonecut.json"
+hash = "d9a970d6fe75fbcf77a5328838bd30b00b16a2c6ae110a3bf87aa74c3f307fee"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_door.json"
+hash = "4d49b419de7dcca5a3a3dd8f01e2d61ed6657d0efc4d63ec58ee7e5cd3e40d24"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_door_stonecut.json"
+hash = "ffeb95c371b4edc6dc1fffb85dba64dd3fb70449ea1d42ddb01e02cd15fba9a9"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_fence.json"
+hash = "2273776640a570640680e8fed596cfce8864731759f5b7c64889429df8a1894c"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_fence_gate.json"
+hash = "89247fb9159b537d13bfde77c173313b477d82b98349fa0cc18e61fb7d25efe7"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_fence_gate_stonecut.json"
+hash = "abc37fbe16f83f97edd572444081e61e55e1aefe4460e1d1da9295568508cb7a"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_fence_stonecut.json"
+hash = "a551a365d961f2d558faeeffb3d88965b01910e5c0bde100884580d5a952f8ce"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_hanging_sign.json"
+hash = "2a119c632a63d9a9fbb98fbbb725797c2ab96a99674fc6a6787cbb9b39e2b60e"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_hanging_sign_stonecut.json"
+hash = "451896c463a8be527b75f21a2fd03d5afce16a6ad94d8da81661a8a046749f42"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_pressure_plate.json"
+hash = "93f0ff4a4350a3ea2599bbe9f41bf17d8c14003f69e3269125aa0c2a2965bbc7"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_pressure_plate_stonecut.json"
+hash = "9b33db4e39852d035277ed9ac7b4ffba7d15ae4b8ae044641fc2ac7fa2939eed"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_sign.json"
+hash = "200d6944ac29e2d67dbc581e248c66a48bbc8880aca776e92aa1239ba02abe22"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_sign_stonecut.json"
+hash = "2f0cb7305afd0cc2a31883a1ade4de218423316efcf3d637ed29fd0ee040fca5"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_slab.json"
+hash = "7586d9919b78ab47dbfaa5dc1596bf6fc1e0145a1e9ba1053ff27a7304015a82"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_slab_stonecut.json"
+hash = "d951634cb967b8f37472209fd698ba80a99ffdfd08e568dc9832e6766cddbfcb"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_stairs.json"
+hash = "5f77371479579aa347f497de07e8760540f46a42eb60ec382347566a6b8914df"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_stairs_stonecut.json"
+hash = "e5c6d8e7282f12d8852bf28dc2fbe7168c89ef190ea8e6039c5fc37f88634b5e"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_trapdoor.json"
+hash = "1c147312744bf63319ccf040c059be26041504b505330104c5e28b9b21bf59a0"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/baobab_trapdoor_stonecut.json"
+hash = "b5c65040b779fa9969c39ceed1f7846b995035176f34e7b2a9b2fb499654cb43"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_button.json"
+hash = "bec014f565605de021f740f4566f2d95c2821287ca68c701717043bd7610c4ce"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_button_stonecut.json"
+hash = "256119eddadf03e0b302e70b140ffd3b6ce75fc682a786dc7bfbfcfaf9a93207"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_door.json"
+hash = "3bb03d4989f453ff8cad1bf351e8b3774fdfa37a56012d858c88f29eaa8d9d67"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_door_stonecut.json"
+hash = "798034f5f06afa1e419359b5cd72630ca3df6cd214ecd267bd1c531e5975d43f"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_fence.json"
+hash = "53ee7570405d45286dc0f91b65e4713ef1139142c05efcaa01c85850d42071c7"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_fence_gate.json"
+hash = "63e6fdb54971fa4d5ebc5992c4aea62ca2d99c5cd583c9969751ddec17e8361c"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_fence_gate_stonecut.json"
+hash = "d5b0870cfd149784219a3a5c5d0e5a34b8b1b989e1516b00a0294b83142e55f3"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_fence_stonecut.json"
+hash = "7b6ba9f6154267310cbe2a3977d95988d904ca31248b76c4aa1a757580faba78"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_hanging_sign.json"
+hash = "283fa98adf8fe0df738db60f88b8c994ea830736c149cdcb51a09e6443de20c1"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_hanging_sign_stonecut.json"
+hash = "144d77435a03ffc72fd0dc073470d1a85a2886e6bf91a67688866a6bd86c2352"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_pressure_plate.json"
+hash = "7079d7bdb93e4a7ba9c604b323e24610c38f9685564663e08f2cd1c733b93066"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_pressure_plate_stonecut.json"
+hash = "04cacb209fcaf05388f2f4759e7ac3c2f9f47bd863ff7a6acf8a5d8b4aedf607"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_sign.json"
+hash = "0ec011db9feb16bc4b0e492c9835db01ce5386058908e0e1ed34ae309aee916c"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_sign_stonecut.json"
+hash = "534a97af27fa559f4d9ad18e23d43b074d094433d4993ee1ccfb30b752929935"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_slab.json"
+hash = "b51eb68c7f4c142f51e89bf9fb6d854a0c8aa44d132bbc8026d500dcede284a6"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_slab_stonecut.json"
+hash = "be84b0166f1ad80eeaa9501d1dd5a99b2c30ba1999263750026a17f4a4f2c065"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_stairs.json"
+hash = "18b6744c71d2ff745aba5b16eebe3c6d53771a472f0eb49dab35d9df8b1aaf3b"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_stairs_stonecut.json"
+hash = "b9444c2cada1ebf796171244f6ba85720370d968c83bb824478a6b28b51db25d"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_trapdoor.json"
+hash = "13ca152b89bc187ecbb7232cb05ea2dc957a2e71184044ff473f6c696444304b"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/cypress_trapdoor_stonecut.json"
+hash = "49614269c8c87109e1ce15997ab12bbd73f8deaf8363b58d92604db087464e1a"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/gabbro_brick_stairs.json"
+hash = "c4777f2909badff5108ad16f6682840f7e3cc2bc4d90848f43d726cf82fd25a9"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/gabbro_stairs.json"
+hash = "205eb1f8fa3a924a5b742e18df6607618752f4d0e6f501fba78e0b92a707f5af"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_button.json"
+hash = "52ed1c05965890bbb3f89732ade7faaf7e842dc8a0fec38456c4c3f3c8d39fd6"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_button_stonecut.json"
+hash = "54d35ad523b3f229412445f3113c3bf70e354edec4c732da87aa863e83b6827a"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_door.json"
+hash = "824ca4f31154284ac796e1845c56846cf81c82bd06f75a81b612cf8ddb89aa74"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_door_stonecut.json"
+hash = "5175358abe635bb72c616ed58809c23679280680a716187652b3a7e07cf5cbf2"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_fence.json"
+hash = "6f09590ddcea340a12308c6835a9c3c867373e6bf6baa6dbb11bbe8b2a3f9a65"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_fence_gate.json"
+hash = "6b412817b624fb0d70edd9cef6ce146cabe7eafabde8317db177cc6fd2b41028"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_fence_gate_stonecut.json"
+hash = "f27dff461ee18996e14fdab741e2fe86f10e6d41c5882bdba260332b8ef35855"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_fence_stonecut.json"
+hash = "051f629e92a6c9adc4c5aa777313680c965eff8cf3696b51280dfe83c4ec109a"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_hanging_sign.json"
+hash = "a61d5273df52692a1c2acaed04da4688b9090b11ab8a1df78a541b1c278e390f"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_hanging_sign_stonecut.json"
+hash = "b685bd165a379cfb9b3894769c429176efa46b940a22bd204773009d899d46d1"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_pressure_plate.json"
+hash = "fa06a4ff5320e222d2ce9e3acd5efaa10dbd0ec2878e99c5dac2589b275932c2"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_pressure_plate_stonecut.json"
+hash = "74ae4e388cefa8f891a44c9dcb27b16be0315b72dda64fe51236014169b140b1"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_sign.json"
+hash = "adb2e48d676fa32c21768d282cef35074b4b924130412b66ad2eac87ef091d5d"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_sign_stonecut.json"
+hash = "78a1a79c8aa19771f388b2718522ea45cee8d86eb472ea09dec89a08b3ef185d"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_slab.json"
+hash = "85ff8b58860eb12e5e5387accfb72e85af836750f733e4079a32d85481f18203"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_slab_stonecut.json"
+hash = "f739d0b89733e4955e1fbdf5625f372559b28041e627723547661bba7f30f53e"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_stairs.json"
+hash = "b8fd52c389a4b7950c4b5d1fbb08488fb1268c02116e864df62e8e4f56d06260"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_stairs_stonecut.json"
+hash = "22dd0374bfe17052273ca68439cfe8a036d2e452236d4d5627da4429c8aed8f3"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_trapdoor.json"
+hash = "4493efe315fa87e6a4333df15664706b0770efe689f96c24bf64cb57d09d71a1"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/maple_trapdoor_stonecut.json"
+hash = "ed62dce2dfcf3d5e3400c3b595993dd02120706d745021ac4bfe131d80600419"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/mossy_gabbro_brick_stairs.json"
+hash = "cbce8e7cddd7221c7b26128c1547a60cd551e3b57fd1e4c712c17631ef17817c"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/mossy_mud_brick_stairs.json"
+hash = "8d58be03757f74d6884c572d2253370330542fb35d659131343e867afbdfb9f6"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_button.json"
+hash = "b82be96c4a3165f5500cac8fc77620979c7d22a329a74438e834c26c68e6b406"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_button_stonecut.json"
+hash = "dcebfac1c66b15a21569a05af0627edfb268c4c88720b6c64482795f51753139"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_door.json"
+hash = "a2086432702cf9d5fb02b213b7ec992ac12c9b91b84f2b51556e96b5ab0b8dc6"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_door_stonecut.json"
+hash = "eb75137d6f49d2416ac56e0116a185e24ee1172da444309de098653e7475a8d3"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_fence.json"
+hash = "cef6dee4f443f8a2b29815bfe9a9c1f363b584dbb6048a068c5790cac539d7c7"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_fence_gate.json"
+hash = "6f1d53842a6fe08c2a5d04d85249a5cfab7912c914b7d47bd92a13a4eecacc3c"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_fence_gate_stonecut.json"
+hash = "017440655443ad050f402eb813da479288d65740fe6635b579230d7f7580e95f"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_fence_stonecut.json"
+hash = "cef83ed49c02fbc85afa208d177b32a46c26cf9b2e52794316d3cf5ccd5def97"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_hanging_sign.json"
+hash = "668b552314d844e52d8847c35fd54ea1ed4ae4faca4dec20bcef4e24dfb471a5"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_hanging_sign_stonecut.json"
+hash = "6c49ea07b60f49bcd59530f9514adc376281d4803f4728ead225a4c1f66f226c"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_pressure_plate.json"
+hash = "ca96f82c0e2ef777547d0017e3d4cd2e99e8f563459242f6d1dd976d006fb02a"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_pressure_plate_stonecut.json"
+hash = "40aae07d796ee2c6f4f584427e2e34a700d87f9f0b70890110e43f9785b3d112"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_sign.json"
+hash = "0477d89f92689a68cecf921e6df77f8ea23be6ed98d131137dc573fd79eb8b78"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_sign_stonecut.json"
+hash = "34a221ecd7e823824f04bb098f925154b719100d8e750e4dd9a12540275930a9"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_slab.json"
+hash = "c9b094359671ea38c1f9fbf0a8ddfc7590a964b8861e5790708fc6892e46b03a"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_slab_stonecut.json"
+hash = "5455f8c8b15f97678591b7dafa5ffcfa9e92d661be35a6ceb4a927a452102b79"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_stairs.json"
+hash = "55059a2ec92289e830443e654405a8c4e14af934d5ea5b356c9b48d2aecf150c"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_stairs_stonecut.json"
+hash = "6bdc59bc3cbb748bc63761a362d052cf687c207f4bbc75fabeef7732e287a78a"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_trapdoor.json"
+hash = "0bb9578529377fa28096ac01a48c561b0733fabae3d647aad330951f130363e7"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/palm_trapdoor_stonecut.json"
+hash = "b6d3f8e52872f69edcf0c4d29e7c75fe5b73889389ee593a5906f6c07023c9ed"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/polished_gabbro_stairs.json"
+hash = "15069d8fbf0695513c6a849cd92f4124920468cf2e3db37a81307fa47201f7e0"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_button.json"
+hash = "596c25eb6034c3a0263034d8dc906a0e8c4e75a226e82619ae9bcb2d1671befd"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_button_stonecut.json"
+hash = "2afecb5adc69c7981ff21be67095885969a978b55522c6cf77ae45d3e3e77e8f"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_door.json"
+hash = "e13ec9eeee32196f6da1651d43373ca4a6c699ddae895dad5062cd0242c7ea1b"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_door_stonecut.json"
+hash = "1cc309fad8bae129811f712358455a2bb83003932850ef14bb886a87c54f4a0d"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_fence.json"
+hash = "646658c37760d0405d277ff21695d936cab829e24221e77e2a326f463903790d"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_fence_gate.json"
+hash = "aebfcda0d505d0f91e52441c82cc3b8837d289138b4d8f52d1d435d542279889"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_fence_gate_stonecut.json"
+hash = "736fe3874bd950f2c9be2a42ce943b0a1cd2b23b1b895d4e9626cd88035c1d2a"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_fence_stonecut.json"
+hash = "9d7130662ccbdfa837c33e78882b18714a32a4ffaf2dddbbf3f94c583ca35c0a"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_hanging_sign.json"
+hash = "c23835076c85caa86de5d46f24502b75331fabc36cfbdf6100cc086f99b1a990"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_hanging_sign_stonecut.json"
+hash = "9768a6d371e4654f1f79d94ebde14ce784769c281b34e31a983c75c4ed4431c8"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_pressure_plate.json"
+hash = "0a5a000ef6aac86736d08289ed3d8f3b1caf30a3acf7e73d8a4c3bde0b622239"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_pressure_plate_stonecut.json"
+hash = "a391acd2796b2b3eee7db8455009ebf7ed7b10d4f0462b0a2a40e773ba4d7fc9"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_sign.json"
+hash = "739581d321a79e2c5982ebb4485da8867c17700f139a0c9471ef72183ac91e83"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_sign_stonecut.json"
+hash = "792fe6980c6f20cbbf653d599bc9ec0d85cde8a258b34d99f45de8d2b2df89f7"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_slab.json"
+hash = "0d5550638e574117cd0dcc35a3506cbafe33ec3d8fbfc2e3eca9d21793d589db"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_slab_stonecut.json"
+hash = "db0c91ab78851b907438fdd316f9c4b9978b8ae47cf0694e5dd379ac844ee786"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_stairs.json"
+hash = "a8c0ee76275c1abc777fe2b75eb31b2cf3c5a2dd84842ef645b3c368270ed023"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_stairs_stonecut.json"
+hash = "953c3660dcdd05ed1f676d01739fb46bdf88eecaacba29674dd751558531ba9d"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_trapdoor.json"
+hash = "bf1e7e75c62e6f871cdb191cf97018683fca609d3bbe398529946340614c1afd"
+
+[[files]]
+file = "datpacks/DefaultChanges/data/wilderwild/recipe/willow_trapdoor_stonecut.json"
+hash = "b84c2913aef841410395ad41aca67ed691c1022d5853e7692d2234affb13a69f"
+
+[[files]]
+file = "datpacks/DefaultChanges/pack.mcmeta"
+hash = "3cd5d272629ce3bc1f2393214a282ae9ea85a493411a83b9497f3c6cb22b8c43"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -81,6 +1361,11 @@ metafile = true
 [[files]]
 file = "mods/betterdays.pw.toml"
 hash = "d46575451d68d82636d1c1ac06d68b647113ae13c881cd27f5f74e10bc7c7bf5"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "6d4de3bf124c98a61c022477e07c8386940d4804001f5f71b322c9b1b74cb5c2"
 metafile = true
 
 [[files]]
@@ -131,6 +1416,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "f7bb88ccf59b362d533cef59b28b0cab3ef017ad7462dfbe0daae2a0aa30032e"
 metafile = true
 
 [[files]]
@@ -308,6 +1598,11 @@ hash = "10238f8ae3b18160abd09bee959ef7f4e856d9cc401489ec95cefb2f531048d3"
 metafile = true
 
 [[files]]
+file = "mods/prickle.pw.toml"
+hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "44a6662d6ac604b2173a8bc426a10c0d621c8ba99d37d1b72525c140c42cb358"
 metafile = true
@@ -401,3 +1696,7 @@ metafile = true
 file = "mods/yungs-better-mineshafts.pw.toml"
 hash = "eccab4f9bcbc604767e9794ca746588f673db63f85bd63adf0b505b396a3c23c"
 metafile = true
+
+[[files]]
+file = "wood_audit_round2.txt"
+hash = "87396e2e837423e9598385442c0c3e36db7fbd6ae503a6dc7fec9e3bcee29c26"

@@ -19,7 +19,8 @@
     "illagerinvasion:imbuing_table",
     "herbalbrews:stove",
     "beansbackpacks:vanilla_bundle",
-    "beansbackpacks:vanilla_bundle"
+    "beansbackpacks:bundle",
+    "fixedminecraft:redstone_lantern"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain Component Data. If the whole entry (or expression) is present, the item gets removed.
