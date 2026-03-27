@@ -20,7 +20,8 @@
     "herbalbrews:stove",
     "beansbackpacks:vanilla_bundle",
     "beansbackpacks:bundle",
-    "fixedminecraft:redstone_lantern"
+    "fixedminecraft:redstone_lantern",
+    "friendsandfoes:crab_claw"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain Component Data. If the whole entry (or expression) is present, the item gets removed.
