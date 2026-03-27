@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "pyrellium:shaderoot_planks"
+    },
+    "result": {
+        "id": "pyrellium:shaderoot_door",
+        "count": 1
+    }
+}

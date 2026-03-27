@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wilderwild:palm_sign"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:wilderwild/way_sign_palm",
+    "count": 2
+  }
+}

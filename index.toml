@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/beansbackpacks/client.json5"
+hash = "0d884f91109e28b956556cc4e527acb87c0bb133340c13e36985c3485b755263"
+
+[[files]]
+file = "config/beansbackpacks/common.json5"
+hash = "0f523adba70bb8e25a19fdd8ea5b1dfd38a7b94734d324b0edee81ada5b7bc32"
+
+[[files]]
 file = "config/betterdays-common.toml"
 hash = "ce9d111550e0085945cc35f0646ed71ecd1f12b280512bdc75fb3590825edffd"
 
@@ -21,6 +29,10 @@ file = "config/rearm/config.toml"
 hash = "4f80a0fd01136f33e55c4abb2895d0a28ee9cf1ff6e01c5c05ba51338f6e7603"
 
 [[files]]
+file = "config/sleep_tight-common.json"
+hash = "43fe35add4d9eba7627a2c5f06a2241267a3fb40fc8a62e4a41ee39d0843ee10"
+
+[[files]]
 file = "config/spears-common.toml"
 hash = "1dd28c044c1e4ee11bca10499f67d5b7041880639097a070e9c18b4efe435ea7"
 
@@ -35,6 +47,11 @@ hash = "6c2866fc0aa9f34baaee74b46f3e16f37ab9b13691bc972d9bac42eadf971b52"
 [[files]]
 file = "config/wilderwild/entity.json5"
 hash = "b4032b7c5e500b56d0e68d00a0ed6d7b2fac39d2198522b3a446bc84df690901"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+metafile = true
 
 [[files]]
 file = "mods/auroraslanterns.pw.toml"
@@ -82,6 +99,11 @@ hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
 metafile = true
 
 [[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "d24b4c566bc19ae176a234d17ea0cc4753d64e0ac26c0eba175aceaff0454dde"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
 hash = "4f5fa8f414a522e519113b9c938abb7fe5d827f8c1f039fc77649f1c0623c94e"
 metafile = true
@@ -92,8 +114,18 @@ hash = "994a188c1acaae5d441895f388396b50fedaab6e0a18c1c0fe131a31c32a6132"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-dimensions-nether.pw.toml"
+hash = "381dcc6ed39a221bbcb3601f778490b4d81077e18eeb6847505c5f1a017e660c"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
 metafile = true
 
 [[files]]
@@ -166,6 +198,16 @@ hash = "dce0df1d0cb1a7f05811ba502f3a3de0458e0c5154f1b72ae493a339f3866083"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers-1.21.1.pw.toml"
+hash = "13c4c4d0570a220cd4661f1fe3cae8a190fe9486f112701b9a9087df2a2b090c"
+metafile = true
+
+[[files]]
+file = "mods/illager-invasion.pw.toml"
+hash = "5b2241365555857a9878a938b6ee80210c02d4193468a58a253ae4c10b2b4762"
+metafile = true
+
+[[files]]
 file = "mods/immersive-winds.pw.toml"
 hash = "8053381400929774954f569baf89dfd0e14c1e21177b830f26fa17eb9870eb01"
 metafile = true
@@ -181,13 +223,38 @@ hash = "a4f56c3d8627a08745b04caebbd360c2fcf344c3712f3e5398ecd087b2d54da7"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "d7bc8e3eddeaedd18d4c75061d211196d357fba3f408b3c752cfb68551cad5a7"
+metafile = true
+
+[[files]]
 file = "mods/katters-structures-only-village.pw.toml"
 hash = "dd606dfb3fe322d370c53799e84b7e895d99ce7133a8f10089d229ed2881d85b"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-herbalbrews.pw.toml"
+hash = "a1192043e4afbe464b82ffd422a1dbd28b2c943e1614a80b5e276678c1ba7ecf"
+metafile = true
+
+[[files]]
+file = "mods/lioloader.pw.toml"
+hash = "e58b1fa217180920ea04217a5d08b7bee3167f9592cbec67b896aed728747930"
+metafile = true
+
+[[files]]
+file = "mods/lios-overhauled-villages.pw.toml"
+hash = "28c6ba4936c08c9250b175e6513c3a6d9981585b76f56526fb6ae37b27d6c308"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "23de0cbbfd28d752eb662c00a907406bac3e3ad529dd2ac250b41b4b0ef734ce"
+metafile = true
+
+[[files]]
+file = "mods/lukis-grand-capitals.pw.toml"
+hash = "2fe01d8046db2246c6df01eedd1fbc7837c08cc6d3b2a9017107ade989e86a28"
 metafile = true
 
 [[files]]
@@ -211,6 +278,11 @@ hash = "f97c81eb19dc444c3276e1e4d506310d037bde71ba2da6311ec3ec7ccb2d34d8"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "e911bf4d0ecaae8377f92a30fe60717579fb132c91db9465073b48c4d30f4104"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "7c6d0be08b6650983ddb921903772e802735fb0f05d920d5dd2f7c9ffdab0302"
 metafile = true
@@ -223,6 +295,16 @@ metafile = true
 [[files]]
 file = "mods/platform.pw.toml"
 hash = "10238f8ae3b18160abd09bee959ef7f4e856d9cc401489ec95cefb2f531048d3"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "44a6662d6ac604b2173a8bc426a10c0d621c8ba99d37d1b72525c140c42cb358"
+metafile = true
+
+[[files]]
+file = "mods/pyrellium.pw.toml"
+hash = "4560db7fcc6bdf843ffda3fff77cfec8b869b6054b6032ecce85107217f15431"
 metafile = true
 
 [[files]]
@@ -251,6 +333,11 @@ hash = "4ea85fa7d750bf5a167fe9652f2ac896d12ab068dacb8b04539e316ba5b74042"
 metafile = true
 
 [[files]]
+file = "mods/spanish-delight-refabricated.pw.toml"
+hash = "ddb9622ddde75bd88d30d24201e2490f4fb192e43397b4e8f91b9fd9389a7334"
+metafile = true
+
+[[files]]
 file = "mods/stormies-spiders.pw.toml"
 hash = "d252aa919e44ee053358905c19bcf414ee548bdec9c872867cc93a1e2db16242"
 metafile = true
@@ -266,13 +353,18 @@ hash = "b45fcd239d9787c7f3d104c300cc61979e7f0cd8363d59716b603d4adb36b202"
 metafile = true
 
 [[files]]
+file = "mods/txnilib.pw.toml"
+hash = "7d47e3d8bee4711ab37491e5e91bad186b6606ba560ab8a1dec753c157cf1151"
+metafile = true
+
+[[files]]
 file = "mods/underground-worlds.pw.toml"
 hash = "060fe16f03834d7edd3d74ad56f82df596f87bb39738b9fe4f5b7f47394c8cbf"
 metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "bc0d1ea3cca663a27bff40733726dc9dfdbfe43cc8ee41db58dde3eacd329962"
+hash = "cb137b92e69cdd80ef31fd8952ceaac17c48a047efe41ff01cdca92f5eaa3f18"
 metafile = true
 
 [[files]]
@@ -293,4 +385,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "ffcf32caf3dda8f05adb109dc86c477cf1bb768bac6232bc5bcf0d60a7861bcb"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "eccab4f9bcbc604767e9794ca746588f673db63f85bd63adf0b505b396a3c23c"
 metafile = true

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "enderscape:murublight_sign"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:enderscape/way_sign_murublight",
+    "count": 2
+  }
+}

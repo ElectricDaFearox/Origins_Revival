@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "wilderwild:baobab_planks"
+    },
+    "result": {
+        "id": "wilderwild:baobab_button",
+        "count": 4
+    }
+}

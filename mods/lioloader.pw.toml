@@ -1,0 +1,13 @@
+name = "LioLoader"
+filename = "LioLoader-fabric-0.0.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/KtuNjNi3/versions/qOnFkMxe/LioLoader-fabric-0.0.6.jar"
+hash-format = "sha512"
+hash = "9371b656f2c683026e5546b745a30da968274a691f4d0ab8983ab6770080686993448e8466cd887b732a3554ae24fdfbd0691c2198edb3e8fda060208171173c"
+
+[update]
+[update.modrinth]
+mod-id = "KtuNjNi3"
+version = "qOnFkMxe"

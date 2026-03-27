@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "# ",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "wilderwild:gabbro_bricks"
+        }
+    },
+    "result": {
+        "count": 3,
+        "id": "wilderwild:gabbro_brick_stairs"
+    }
+}

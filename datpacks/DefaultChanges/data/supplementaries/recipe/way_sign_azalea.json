@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fixedminecraft:azalea_sign"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:fixedminecraft/way_sign_azalea",
+    "count": 2
+  }
+}

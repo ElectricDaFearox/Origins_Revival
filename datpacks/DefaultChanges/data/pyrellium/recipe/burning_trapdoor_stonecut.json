@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "pyrellium:burning_planks"
+    },
+    "result": {
+        "id": "pyrellium:burning_trapdoor",
+        "count": 1
+    }
+}

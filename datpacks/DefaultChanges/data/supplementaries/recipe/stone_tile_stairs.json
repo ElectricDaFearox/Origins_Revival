@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "# ",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "supplementaries:stone_tile"
+        }
+    },
+    "result": {
+        "count": 3,
+        "id": "supplementaries:stone_tile_stairs"
+    }
+}

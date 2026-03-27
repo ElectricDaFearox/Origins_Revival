@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "enderscape:veiled_sign"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:enderscape/way_sign_veiled",
+    "count": 2
+  }
+}

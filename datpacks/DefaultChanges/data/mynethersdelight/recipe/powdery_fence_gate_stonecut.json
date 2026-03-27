@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "mynethersdelight:powdery_planks"
+    },
+    "result": {
+        "id": "mynethersdelight:powdery_fence_gate",
+        "count": 1
+    }
+}

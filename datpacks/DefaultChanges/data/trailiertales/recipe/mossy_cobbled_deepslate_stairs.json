@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "# ",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "trailiertales:mossy_cobbled_deepslate"
+        }
+    },
+    "result": {
+        "count": 3,
+        "id": "trailiertales:mossy_cobbled_deepslate_stairs"
+    }
+}

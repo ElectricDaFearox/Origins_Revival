@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "wilderwild:baobab_sign"
+    }
+  ],
+  "result": {
+    "id": "supplementaries:wilderwild/way_sign_baobab",
+    "count": 2
+  }
+}

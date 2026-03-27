@@ -1,0 +1,10 @@
+﻿[fixedminecraft] azalea | missing=19 | jar=fixedminecraft-1.6.1-1.21.1-resourceless.jar
+  -> azalea_stairs_stonecut.json; azalea_slab.json; azalea_slab_stonecut.json; azalea_door.json; azalea_door_stonecut.json; azalea_trapdoor.json; azalea_trapdoor_stonecut.json; azalea_fence.json; azalea_fence_stonecut.json; azalea_fence_gate.json; azalea_fence_gate_stonecut.json; azalea_button.json; azalea_button_stonecut.json; azalea_pressure_plate.json; azalea_pressure_plate_stonecut.json; azalea_sign.json; azalea_sign_stonecut.json; azalea_hanging_sign.json; azalea_hanging_sign_stonecut.json
+[mynethersdelight] powdery | missing=0 | jar=MyNethersDelight-1.21.1-2.0.3+1.7.8.refabricated.jar
+[pyrellium] burning | missing=0 | jar=pyrellium-0.3.1-1.21.1.jar
+[pyrellium] shaderoot | missing=0 | jar=pyrellium-0.3.1-1.21.1.jar
+[wilderwild] baobab | missing=0 | jar=WilderWild-4.2.1-mc1.21.1.jar
+[wilderwild] cypress | missing=0 | jar=WilderWild-4.2.1-mc1.21.1.jar
+[wilderwild] maple | missing=0 | jar=WilderWild-4.2.1-mc1.21.1.jar
+[wilderwild] palm | missing=0 | jar=WilderWild-4.2.1-mc1.21.1.jar
+[wilderwild] willow | missing=0 | jar=WilderWild-4.2.1-mc1.21.1.jar

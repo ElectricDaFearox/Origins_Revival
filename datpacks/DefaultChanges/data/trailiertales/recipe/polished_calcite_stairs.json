@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "# ",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "trailiertales:polished_calcite"
+        }
+    },
+    "result": {
+        "count": 3,
+        "id": "trailiertales:polished_calcite_stairs"
+    }
+}
