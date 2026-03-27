@@ -233,6 +233,11 @@ hash = "d7bc8e3eddeaedd18d4c75061d211196d357fba3f408b3c752cfb68551cad5a7"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "76a2560989102413693bbfbea83570287b3dce4f6ed40dc69aacbd3268633fe7"
+metafile = true
+
+[[files]]
 file = "mods/katters-structures-only-village.pw.toml"
 hash = "dd606dfb3fe322d370c53799e84b7e895d99ce7133a8f10089d229ed2881d85b"
 metafile = true
