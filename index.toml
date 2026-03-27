@@ -94,6 +94,11 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/cultural-delights.pw.toml"
+hash = "afe864fddfbf53a2bf3cd2aa3815a5281b60d1e3aed34a5e3fe0cf963191b04f"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
 metafile = true

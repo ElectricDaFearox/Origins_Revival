@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+        "item": "undergroundworlds:temple_brick_tiles"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## "
+  ],
+  "result": {
+    "count": 3,
+    "id": "undergroundworlds:temple_brick_tile_stairs"
+  }
+}
