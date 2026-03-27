@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterdays-common.toml"
+hash = "ce9d111550e0085945cc35f0646ed71ecd1f12b280512bdc75fb3590825edffd"
+
+[[files]]
 file = "config/friendsandfoes.json"
 hash = "d168b6ad59b48addd7bb401cbf7efadf108f7042d136e46b7acc97911d7abe31"
 
@@ -45,6 +49,11 @@ metafile = true
 [[files]]
 file = "mods/backported-spears.pw.toml"
 hash = "aa2f89677ca50cd654e59459ae85732063cfc0adcde28d0dec2d68c78e4685f6"
+metafile = true
+
+[[files]]
+file = "mods/beans-backpacks-3.pw.toml"
+hash = "630575f2090eacae154a46c57c83cd2b0962364ab3cc374ecac440ba8e4399bb"
 metafile = true
 
 [[files]]
@@ -95,6 +104,11 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "a39f23604dbc90c0303990a4887c10f6363625a2850084231c3213ccbce1e31e"
+metafile = true
+
+[[files]]
+file = "mods/expanded-trident-enchantings.pw.toml"
+hash = "e641aa18386c7ca18277f27b52cd62ed8acf49fde7912445325c839f2bedacab"
 metafile = true
 
 [[files]]
@@ -177,6 +191,11 @@ hash = "23de0cbbfd28d752eb662c00a907406bac3e3ad529dd2ac250b41b4b0ef734ce"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "edde86d78cb403fbe13d3d0008cd94fbafcef5dfeb91874da016d6a796b446de"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "2ceff6f8ca608ea7fd52f5f36fb1ffb23b6362039ecb747f00343584c6e7dfc4"
 metafile = true
@@ -217,6 +236,11 @@ hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
 metafile = true
 
 [[files]]
+file = "mods/sleep-tight.pw.toml"
+hash = "ca69081dc923b31070ba14bbea911ce521339bab73ca510000aaef8efdf6975e"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
 metafile = true
@@ -224,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "4ea85fa7d750bf5a167fe9652f2ac896d12ab068dacb8b04539e316ba5b74042"
+metafile = true
+
+[[files]]
+file = "mods/stormies-spiders.pw.toml"
+hash = "d252aa919e44ee053358905c19bcf414ee548bdec9c872867cc93a1e2db16242"
 metafile = true
 
 [[files]]
