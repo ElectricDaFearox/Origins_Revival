@@ -489,10 +489,6 @@ file = "datapacks/DefaultChanges/data/minecraft/recipe/weathered_cut_copper_stai
 hash = "be4e2224a11e36b8d6cbc0ef315e9bc3411466994cba937aa22f19ac8f61ace8"
 
 [[files]]
-file = "datapacks/DefaultChanges/data/minecraft/tags/block/climbable.json"
-hash = "66fa3a49ea65cd52c75f81af344e2a13d4c7756bc84292badae890c3cb54cf3d"
-
-[[files]]
 file = "datapacks/DefaultChanges/data/mynethersdelight/recipe/powdery_button.json"
 hash = "a68f28f9c555e80a0b33ff305a97b325ce2d04919eadf30bf9e644bf44b1439b"
 

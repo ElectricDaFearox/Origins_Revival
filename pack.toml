@@ -1,13 +1,13 @@
 name = "Origins Revival"
 author = "OhItsElectric"
-version = "0.1.0"
+version = "0.1.6"
 description = "Origins.. has been revived once again.."
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "dcabde44480bb0825dd144f9248d3978e89096644c1302d362f2c0c118ef0e4d"
+hash = "0d8fce32615ee652eb6fb9ac53f9f09b5f57b7c549a5048ca21a8a924c3ae47d"
 
 [versions]
 fabric = "0.18.4"
