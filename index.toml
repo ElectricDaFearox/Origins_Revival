@@ -1529,6 +1529,11 @@ hash = "a1d5fa4cd13ba5aea50ce6d3615ee8c1710881913ba9f8c4c72777cc572eda95"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
+metafile = true
+
+[[files]]
 file = "mods/figura.pw.toml"
 hash = "4ed0328f3789ce169f8a338f2889f47ebb3b2de44dc9a3fe5934ddf2f4141179"
 metafile = true
@@ -1640,6 +1645,11 @@ metafile = true
 [[files]]
 file = "mods/more-delight.pw.toml"
 hash = "f1a7bff7a5ed9e9f88a02786b33737a99852a5e4f5e6c05b6269a63daf9f1e72"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "714334a18735cf73c4ac91d2d465845f3e22d4fcf04eebd3e0fd2579afb6d8a2"
 metafile = true
 
 [[files]]
