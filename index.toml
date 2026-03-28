@@ -1786,7 +1786,3 @@ metafile = true
 file = "mods/yungs-better-nether-fortresses.pw.toml"
 hash = "a33c822c6525c8b708475161e263cb18883332383a6b25e2b5915623f0e5b85c"
 metafile = true
-
-[[files]]
-file = "wood_audit_round2.txt"
-hash = "87396e2e837423e9598385442c0c3e36db7fbd6ae503a6dc7fec9e3bcee29c26"
