@@ -1354,6 +1354,11 @@ hash = "630575f2090eacae154a46c57c83cd2b0962364ab3cc374ecac440ba8e4399bb"
 metafile = true
 
 [[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "f6dde00965d11938aa025000fb76ab1b695be0627e08f503857ba9ee871a172d"
+metafile = true
+
+[[files]]
 file = "mods/better-nether-map.pw.toml"
 hash = "514481fc4f12367693f94991655a570e501c043c70064d50e39e22ef7c41519a"
 metafile = true
@@ -1366,6 +1371,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "6d4de3bf124c98a61c022477e07c8386940d4804001f5f71b322c9b1b74cb5c2"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "08450a7b48ca66e9696382862e66a0168b0edcef997beb79464a9f4f9838adf5"
 metafile = true
 
 [[files]]
@@ -1615,6 +1625,11 @@ metafile = true
 [[files]]
 file = "mods/rearm.pw.toml"
 hash = "07c18a72fc817e3f62348222fa1e1b8a65b363238b120802f4f84f92a4be8cde"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "2272f386d6106a691953f80822614643f0a4ef9df1cbff71fcc02caebd8ad45b"
 metafile = true
 
 [[files]]

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "betterarcheology:rotten_slab"
+    }
+  },
+  "result": {
+    "id": "betterarcheology:rotten_trapdoor",
+    "count": 2
+  }
+}

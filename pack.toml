@@ -1,13 +1,13 @@
 name = "Origins Revival"
 author = "OhItsElectric"
-version = "0.0.1"
+version = "0.1.0"
 description = "Origins.. has been revived once again.."
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9bee519e8e45ad82b178c40b00b3b8a3d434013837b16a9ecc26f59bda510d08"
+hash = "98e22469a9844b566fdfaea6df7cbd2f9a073d9c1dd0371019bbd793694550d4"
 
 [versions]
 fabric = "0.18.4"
@@ -15,3 +15,4 @@ minecraft = "1.21.1"
 
 [options]
 acceptable-game-versions = []
+datapack-folder = "datpacks"

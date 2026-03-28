@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wooden_stairs",
+  "key": {
+    "#": {
+      "item": "betterarcheology:rotten_planks"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## "
+  ],
+  "result": {
+    "count": 3,
+    "id": "betterarcheology:rotten_stairs"
+  }
+}

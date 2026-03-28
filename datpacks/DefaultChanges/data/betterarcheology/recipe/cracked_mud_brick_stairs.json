@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "pattern": [
+        "# ",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "betterarcheology:cracked_mud_bricks"
+        }
+    },
+    "result": {
+        "count": 3,
+        "id": "betterarcheology:cracked_mud_brick_stairs"
+    }
+}

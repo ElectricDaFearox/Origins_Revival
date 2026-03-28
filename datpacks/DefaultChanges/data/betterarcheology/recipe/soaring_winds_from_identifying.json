@@ -1,0 +1,9 @@
+{
+  "type": "betterarcheology:identifying",
+  "input": {
+    "item": "betterarcheology:unidentified_artifact"
+  },
+  "result": {
+    "item": "minecraft:air"
+  }
+}
