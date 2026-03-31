@@ -1,0 +1,8 @@
+name = "Fixed"
+filename = "fixedminecraft-1.6.1-1.21.jar"
+side = "both"
+
+[download]
+url = "https://files.aluki.blue/u/fixedminecraft-1.6.1-1.21.jar"
+hash-format = "sha256"
+hash = "57d550ab76239a085789c9de8efc51e347c27b3b99f79e12c8fea2ee61671d3c"
