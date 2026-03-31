@@ -1405,8 +1405,8 @@ hash = "aa2f89677ca50cd654e59459ae85732063cfc0adcde28d0dec2d68c78e4685f6"
 metafile = true
 
 [[files]]
-file = "mods/beans-backpacks-3.pw.toml"
-hash = "630575f2090eacae154a46c57c83cd2b0962364ab3cc374ecac440ba8e4399bb"
+file = "mods/beans-backpacks.pw.toml"
+hash = "5682a89c9cfb14bb005157c7c472e1615c23c6468c8b3a529de21be8f4079101"
 metafile = true
 
 [[files]]
@@ -1451,7 +1451,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
+hash = "51b56fbb37a69dca9753b2b479678b0f3474b4f5df2885c275570c37d145e54d"
 metafile = true
 
 [[files]]
@@ -1461,12 +1461,12 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
-hash = "4f5fa8f414a522e519113b9c938abb7fe5d827f8c1f039fc77649f1c0623c94e"
+hash = "8871b4b7d923cd526413949f1883fc8aac3d561be78f033eeeb960a6cecd519d"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
-hash = "994a188c1acaae5d441895f388396b50fedaab6e0a18c1c0fe131a31c32a6132"
+hash = "6336b1ead4a86cd67173e6d33f5677b2d00e7f24bf660d030f2d0c36dbba1c9c"
 metafile = true
 
 [[files]]
@@ -1544,11 +1544,6 @@ hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
 metafile = true
 
 [[files]]
-file = "mods/foxbackport.pw.toml"
-hash = "30985dfb08773730686430de65b6d037f497e5ab1dc88a016e06d3d10f5d92a7"
-metafile = true
-
-[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "d3d2671a3e69ed7f31a5f0a608ff078e69b83bb12430cf6b0047a041cd31bd18"
 metafile = true
@@ -1600,7 +1595,7 @@ metafile = true
 
 [[files]]
 file = "mods/katters-structures-only-village.pw.toml"
-hash = "dd606dfb3fe322d370c53799e84b7e895d99ce7133a8f10089d229ed2881d85b"
+hash = "2793f9f15f7909cef30f45532de3870b68cdd7f8320424b1cf27f674acd36313"
 metafile = true
 
 [[files]]
@@ -1625,7 +1620,7 @@ metafile = true
 
 [[files]]
 file = "mods/lukis-grand-capitals.pw.toml"
-hash = "2fe01d8046db2246c6df01eedd1fbc7837c08cc6d3b2a9017107ade989e86a28"
+hash = "abd3f0d5b732f4e873c895db607441484333b233b52494924ffbcae94afd8c9c"
 metafile = true
 
 [[files]]

@@ -1,0 +1,9 @@
+name = "Beans Backpacks"
+side = "both"
+filename = "beansbackpacks-1.21-f-0.11b-beta.jar"
+pin = true
+
+[download]
+hash-format = "sha256"
+url = "https://cdn.modrinth.com/data/o4TtgIhD/versions/V2AymqKE/beansbackpacks-1.21-f-0.11b-beta.jar"
+hash = "b9dfb4b03ee984d21e1a157d43467f183f8bf86be3d8da178f291f06869b3361"
