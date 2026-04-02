@@ -1,8 +1,8 @@
 name = "Copper Age Backport"
-filename = "copperagebackport-fabric-1.21.jar"
+filename = "copperagebackport-fabric-1.21.1-0.1.jar"
 side = "both"
 
 [download]
-url = "https://files.aluki.blue/u/copperagebackport-fabric-1.21.jar"
+url = "https://files.aluki.blue/u/copperagebackport-fabric-1.21.1-0.1.jar"
 hash-format = "sha256"
-hash = "6b73eba7d21c9dcbd26781315862889056a863e85e96944746fc6d0d2d3f8663"
+hash = "7bdab8e020aac39e47848470ed0b711f175a0dc9b2307e726aa5f726623f9b70"

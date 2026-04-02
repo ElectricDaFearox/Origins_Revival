@@ -29,6 +29,10 @@ file = "config/item_obliterator.json5"
 hash = "5a9638ce25204cb79662d96b5810c9a947488d67a06da83bd553737e3a7db3a9"
 
 [[files]]
+file = "config/pyrellium.json"
+hash = "e3dfd7a1f88d22182a9e6389abd4b6745d317252a0ac0be4c8f4810f11e70ae6"
+
+[[files]]
 file = "config/rearm/armor_materials.txt"
 hash = "41b932262d2a53a649beaecea5d2c01f7a9cef34ee7d417d3aa7dc9467f0a7a7"
 
@@ -1446,7 +1450,7 @@ metafile = true
 
 [[files]]
 file = "mods/copper-age-backport.pw.toml"
-hash = "63ecbc66697dae77dc7e71c7eccfb25554c504bce547d3a2205caca2c5ba5488"
+hash = "a1e233c27efb70fc577ce4b5b88828fea8c667da549e4ea54442943ebd421d02"
 metafile = true
 
 [[files]]
@@ -1727,6 +1731,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "a0ff1e6d6842d3508510d29d97d1fbf8ef0f6b4c2b7b0a874cba1ba3c7021b90"
+metafile = true
+
+[[files]]
+file = "mods/switchy.pw.toml"
+hash = "f9c1b20299d47690efb8354b53cb0eb91df328af6dcad02bd911eedf9a6313ce"
 metafile = true
 
 [[files]]
