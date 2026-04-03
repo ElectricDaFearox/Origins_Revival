@@ -1,8 +1,11 @@
 name = "Fixed"
-filename = "fixedminecraft-1.6.1-1.21.jar"
 side = "both"
+filename = "fixedminecraft-1.6.1-1.21.jar"
 
 [download]
-url = "https://files.aluki.blue/u/fixedminecraft-1.6.1-1.21.jar"
 hash-format = "sha256"
+url = "https://files.aluki.blue/u/fixedminecraft-1.6.1-1.21.jar"
 hash = "57d550ab76239a085789c9de8efc51e347c27b3b99f79e12c8fea2ee61671d3c"
+
+[option]
+description = "Custom Built Jar to get rid of uneccessary resources"

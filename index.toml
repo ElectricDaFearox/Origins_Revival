@@ -1435,7 +1435,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "941c3f358ef74f4fc99727e550106b8905d77cb4971321fd8ca4406e33b704a6"
+hash = "6f82c56653f4759da1677af61bbc6f1f900023d533902fe0f81f29a5fa3b5168"
 metafile = true
 
 [[files]]
@@ -1450,7 +1450,7 @@ metafile = true
 
 [[files]]
 file = "mods/copper-age-backport.pw.toml"
-hash = "a1e233c27efb70fc577ce4b5b88828fea8c667da549e4ea54442943ebd421d02"
+hash = "4b3d742070681503c0c4e58b9ba73d26bd4beb77f63144f3bd44c14df0657eeb"
 metafile = true
 
 [[files]]
@@ -1495,22 +1495,22 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "f7bb88ccf59b362d533cef59b28b0cab3ef017ad7462dfbe0daae2a0aa30032e"
+hash = "52efeab263520fad6ab49354a2e4333e2e292efe04d2075e3fced2ac9ccd1537"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "1fbcec6fae4237b80bf2becfc06fb52a49512821f402b5928b1e2533c73b3142"
+hash = "63df182532913eea2627f6486a7ea292f55ddf27dba55a4bc25911f32d30dce5"
 metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "a39f23604dbc90c0303990a4887c10f6363625a2850084231c3213ccbce1e31e"
+hash = "01983d3e2cf580560033e4329b5d7b1bb772898897ccb0285ced76a074f8af88"
 metafile = true
 
 [[files]]
 file = "mods/expanded-trident-enchantings.pw.toml"
-hash = "e641aa18386c7ca18277f27b52cd62ed8acf49fde7912445325c839f2bedacab"
+hash = "f66e0d5ca9060333a0e6d99e1d5756bdde27ba92ecd5c93ef9d1f092ebbe5530"
 metafile = true
 
 [[files]]
@@ -1525,7 +1525,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
+hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
 metafile = true
 
 [[files]]
@@ -1545,7 +1545,7 @@ metafile = true
 
 [[files]]
 file = "mods/fixed.pw.toml"
-hash = "4c0e62ca6e187ffd6f3d5cc82a9a4eae65b9b261c4ecab7a2ae27698e54beddb"
+hash = "a3ad9e2e3ef4f5eef23aca8ae2db25f6a097b94279c5ff6569979c7c086edcb0"
 metafile = true
 
 [[files]]
@@ -1635,7 +1635,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "2ceff6f8ca608ea7fd52f5f36fb1ffb23b6362039ecb747f00343584c6e7dfc4"
+hash = "8a0a1f1b15a623762af5ee3415dfb2cb8f0503a170b228f650c975f9d2525707"
 metafile = true
 
 [[files]]
@@ -1646,11 +1646,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "714334a18735cf73c4ac91d2d465845f3e22d4fcf04eebd3e0fd2579afb6d8a2"
-metafile = true
-
-[[files]]
-file = "mods/my-nethers-delight-refabricated.pw.toml"
-hash = "f97c81eb19dc444c3276e1e4d506310d037bde71ba2da6311ec3ec7ccb2d34d8"
 metafile = true
 
 [[files]]
@@ -1670,12 +1665,12 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "10238f8ae3b18160abd09bee959ef7f4e856d9cc401489ec95cefb2f531048d3"
+hash = "b0c3df8de60943e6b4abe73767869d3f96722b16423272d525d34b32fff2a42c"
 metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
+hash = "c3490210c7027217a3d78039d6ac38582bbe6ed39c649fdac8f18d971ce1106b"
 metafile = true
 
 [[files]]
@@ -1715,7 +1710,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "4ea85fa7d750bf5a167fe9652f2ac896d12ab068dacb8b04539e316ba5b74042"
+hash = "eba12953aaebcd6fa20ec0ab05732b9c779138f0819bfa234186bc23a861b6ef"
 metafile = true
 
 [[files]]
@@ -1750,12 +1745,12 @@ metafile = true
 
 [[files]]
 file = "mods/underground-worlds.pw.toml"
-hash = "060fe16f03834d7edd3d74ad56f82df596f87bb39738b9fe4f5b7f47394c8cbf"
+hash = "7a5c048b3446edc7a078ba6e8c8530bb2f3c43a6b0aabf8ae0e2f79ceed8208b"
 metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "cb137b92e69cdd80ef31fd8952ceaac17c48a047efe41ff01cdca92f5eaa3f18"
+hash = "bb8df58bad4333c0191a8175787c72701f8f2272357df37dc454e842f2915f9e"
 metafile = true
 
 [[files]]
