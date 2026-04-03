@@ -1,13 +1,13 @@
-name = "Origins Revival"
+name = "Origins Revival: Tavernized"
 author = "OhItsElectric"
-version = "0.2.0"
-description = "Origins.. has been revived once again.."
+version = "0.3.0"
+description = "Origins.. for the Tavern.."
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1c40774f4d236d84b34960b910210da54e2d90f6e2c1a7460debb7441a4d9cbb"
+hash = "315aba4dd0001d47fd9b490ec70a6332c4c361c95bfe86500f106041b5518ab9"
 
 [versions]
 fabric = "0.18.4"

@@ -1422,7 +1422,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-archeology-fixed.pw.toml"
-hash = "85d49f335a0510a414eb235c9e5bbd63d43cc2445ab06f7cfab4dc95c7924207"
+hash = "303ee926acc17db4f12a1b5b4e52e00cb4a6673e340a1d53510e2045fc6684db"
 metafile = true
 
 [[files]]
