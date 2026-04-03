@@ -26,7 +26,7 @@ hash = "7ad9cbe9cd21171b560c4ab2eecfb6f4652f6563f6fd246bd9b5166847df346b"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "5a9638ce25204cb79662d96b5810c9a947488d67a06da83bd553737e3a7db3a9"
+hash = "1da06df292d67cbec2ac777e1bd0440c74596d041c8ed1451fc0c086b5d4b57c"
 
 [[files]]
 file = "config/pyrellium.json"
@@ -571,18 +571,6 @@ hash = "047d209b3489379d4e49b86f099431b62da2137e49c7a1ca39427c503ed845c4"
 [[files]]
 file = "datapacks/DefaultChanges/data/mynethersdelight/recipe/powdery_trapdoor_stonecut.json"
 hash = "57f8f5c80461c8984b9daf3814c4b9b8a19b781f2da94bfc957bc42d3259bd45"
-
-[[files]]
-file = "datapacks/DefaultChanges/data/nova_structures/enchantment/boss_behaviour.json"
-hash = "57218cef82ee9620a7ad301eea6b7b9f0b5ebfaad98727491fa3f57661f84144"
-
-[[files]]
-file = "datapacks/DefaultChanges/data/nova_structures/enchantment/shulker_boss.json"
-hash = "57218cef82ee9620a7ad301eea6b7b9f0b5ebfaad98727491fa3f57661f84144"
-
-[[files]]
-file = "datapacks/DefaultChanges/data/nova_structures/enchantment/shulker_miniboss.json"
-hash = "57218cef82ee9620a7ad301eea6b7b9f0b5ebfaad98727491fa3f57661f84144"
 
 [[files]]
 file = "datapacks/DefaultChanges/data/pyrellium/recipe/burning_button.json"
@@ -1399,6 +1387,3314 @@ hash = "b84c2913aef841410395ad41aca67ed691c1022d5853e7692d2234affb13a69f"
 [[files]]
 file = "datapacks/DefaultChanges/pack.mcmeta"
 hash = "3cd5d272629ce3bc1f2393214a282ae9ea85a493411a83b9497f3c6cb22b8c43"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/credits.txt"
+hash = "6a4a159644e2b49a1ae2c5e0de716c516fe0c523b9c7df9a1165671bf326bfbf"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/minecraft/worldgen/structure/desert_pyramid.json"
+hash = "91b38320ea3184dd1bfbd7c724b3ce04a18fb6e654a7987c5058983b6d974ae5"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/item_modifier/loot_modifier.json"
+hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/loot_table/archaelogy/desert_temple_lesser.json"
+hash = "d5e1ce95f9a8c37588dbbc02f53d11a1e0e44c978ae6f7ae007ff49003156c80"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/loot_table/chests/desert_temple/desert_temple_lesser.json"
+hash = "31e6dc6641e8526c3e9f93500614b110acb9b374450d86cd80c29895d391e87c"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/loot_table/pots/desert_temple_pot.json"
+hash = "611f07fce36d58c8291b9b3a7c69c79dd344fb0af7ca8875c8406b1bfba84f1b"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/basement_1.nbt"
+hash = "875f9c2da6c1bfde7aa49994849ac489f71edad3898d34fe2c6db6506bc61bc3"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/basement_2.nbt"
+hash = "d7c40e8944c43a634d5db20ee2ef5d73454079a9107fdb628a0feec0231e08d2"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/basement_3.nbt"
+hash = "1a713caac65e7f3a10a4db5c8b9dbb1b8c19800689a23ed15abc4389d2e1eb1c"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/basement_4.nbt"
+hash = "b8e914dee25b532435b546a82429d2a13bad96417cc2b450f80c4427ea652b73"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/basement_5.nbt"
+hash = "7c2e57711efad0afbe4b3a3b72f84e01c487428066b9a5f27716a985a6f0b5d6"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/basement_6.nbt"
+hash = "72c3e9cf8c19effc07a6b6c7fa6878c12caf13e9a8b209c631e12f09792cefcb"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_1.nbt"
+hash = "829cc32792ce771f5018b2fec4a19c190a163eacc8701a3db8af217355804557"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_2.nbt"
+hash = "650626def6dfb4cc68e5d87e2f7b7072785da4144f40a84586dbf6fba87b1166"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_3.nbt"
+hash = "db5540fcd39dd11a8629315e3af4e57ba694d53b52dae5c412e60ec2e3e72ec5"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_4.nbt"
+hash = "e213ca08cf090f4d9ff6938f7e83729d7bb7bdd6b09c7bef8de7e1f03bd6e5fe"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_5.nbt"
+hash = "e2b6fc920df8d9e6227aa5fd46da3ededfbbcff12e15ba3fc55836964bd0cb89"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_6.nbt"
+hash = "6cd6dcafcf379c0c071fa31d6b972c866dd1b19e849d3fc364f22b3da3f5582f"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_7.nbt"
+hash = "b7736c3800778738cb0a23a4514f52caaa73e03a2c45aaa094500df1a60389d1"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_empty.nbt"
+hash = "13c8b5f2d83cb09afdfca85d62aa366dec767c12acf2285ff783a6ab304c05b7"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_left_1.nbt"
+hash = "43cd6e86b479190be0a1cac6487837e60cd0f36f69c4efba5a3c904dc2495cb3"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_left_10.nbt"
+hash = "21b5031f7838a844b154170e9476073e1e6dcae0442f7a853e8020ef7b4c4212"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_left_11.nbt"
+hash = "f141e75b315b00ab1ed4534c19977e256772850687087676cc91a962eaa1e8dc"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_left_12.nbt"
+hash = "48cbf5f1582d16091961ad415c147672b0e01af0c8ed54c85d741879a6b49b54"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_left_2.nbt"
+hash = "d76e099a6d977a796a15628c87426d292d6e568f5346ee1db4137b612c09c912"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_left_3.nbt"
+hash = "ef48ea57f1fdf854007ba6945d4f0a2d5e56d83234c18eaf26b26b67d82bfa8d"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_left_4.nbt"
+hash = "c3e59626eed97cf796708c55166cf59a3e03c3c35daf9f328e77e3244ae8d46d"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_left_5.nbt"
+hash = "6ae92f95622100773db9661455d5d451f3705c5b4783348d375cab3020e52a1f"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_left_6.nbt"
+hash = "652f9d37bdb6dc20f248b43737c603a989e6426442417daa30c53d4b1e975745"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_left_7.nbt"
+hash = "8efc4686ba4f331d0657996ef001d9bc1e4efeecfdff00636ca52056e55a9195"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_left_8.nbt"
+hash = "cd9d2c28a3d3fa71446c02d822be2324154f54264be123523f99fef7cfceda17"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_left_9.nbt"
+hash = "0265219eddd7f03b1a97f390f5ba50c51615602052a02963dff7ec587a4b6d4b"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_left_empty.nbt"
+hash = "2d17b75ecb332ced1bf9423a6c62dbc5ed9f03fa8f3a4356e5fa0d6d4047e1ba"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_right_1.nbt"
+hash = "0a64f8e2084c41cca45020207b10f559d97b58da9b01b3ee34e092ef7328e144"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_right_10.nbt"
+hash = "cc53274f37d5f11cfae0cfc7077a2ffe32d3ea653b274baf7856397eeb2a6dcb"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_right_11.nbt"
+hash = "f10a10ba0045cc620fa968a6425b6f86a981a5285a0b7b63f45884655159d323"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_right_12.nbt"
+hash = "68a422479057a404dc36bfb6989f2c7a969f0d84327ba5c8e0b254480123986c"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_right_2.nbt"
+hash = "73cc59cd45917b185ea6b243c5bebfcd6cf823e199bf1fb3661e33b08720c0fe"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_right_3.nbt"
+hash = "7e87d1751df838294310ea26a80813fe213ffc26e2927d57190316f1c800d25b"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_right_4.nbt"
+hash = "68fcf0359bebb498633439cbca0a2abc38bf11872a78afcce1651c4a8453220a"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_right_5.nbt"
+hash = "8ef55193dbc7ae94bd222641bc1c31f0218e04d7cb72e4d12d30ff1e9a61a484"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_right_6.nbt"
+hash = "cc9cefc8fc2ac730e66f3261404372b71d8bb68ad169fe244373a626e0301708"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_right_7.nbt"
+hash = "dcb85b250ebad36e3bba964bac72017e93e19e77192f7a9bb8e2e11b9c308b1e"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_right_8.nbt"
+hash = "e26e65342c55a46ed8d2b088f80b9f60533cbb78a1ae5e1540a45503c383802d"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_right_9.nbt"
+hash = "27a23cc085ceb53617f48c977b91c89eeae9e1098340cb1d47c97da16d5fc566"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_deco_right_empty.nbt"
+hash = "37024ddd68ddb5796e514198d7f6a8ad1bce446c295163724f76193e222ba6a5"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_hallway.nbt"
+hash = "3c92ee7bc36b3a2136ed18e39409d1ed918f8330b104b241d3999be08c2e3574"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_hallway_fallback.nbt"
+hash = "80d0640753dcca0d785c29e1ce72652f2349da7ede4966e1f7caa0fe43977d7f"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_main_1.nbt"
+hash = "4d3efdf35535e61fb09d0b19e125e8faeae405a92768047beff70ff329920fe5"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_main_2.nbt"
+hash = "8a3e6950d6159504a843204f3778c9d719a030bb2e42397fef8e8a9520597121"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_main_3.nbt"
+hash = "f70ec82de46535e297261be0aee60738f665ae21cd981be1747f9a6bae94556a"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_main_4.nbt"
+hash = "87693afb8d45e00c83ed1937faffecf3b4eb74a2ec16024794fa172ce850d122"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_1.nbt"
+hash = "ece9ff05eb56913715899a25637ab540f8357284d0c92081d34fb6b0da8b30de"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_2.nbt"
+hash = "51770e9dd843ff2f2f288a8d779c077f887f2bcf66d23419c3ec5243467c44b3"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_3.nbt"
+hash = "9f84b00bef3213c27d06f2ebdcfd5f968de1c14775785513520a55312989274d"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_4.nbt"
+hash = "4058f26cfeddd30be640f4356ad8ea9781f1aadb5fafb60a6f61b9466afd0202"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_5.nbt"
+hash = "9d46bdc785517b175495cecd0fe48f96e3f7598b323d040c25e8fc4f046d444c"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_fallback.nbt"
+hash = "cfe7ea50a5064f99875829fe84d3a9dcb38e8c2c5fe78b637459faa83e7ae6b1"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_floor_1.nbt"
+hash = "44cb1099679d2fe2a2f0c4e023bd7c9f8d569d9924c1546ea27f153bd71bdb10"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_floor_10.nbt"
+hash = "b7d6e20db63ce063bc061c000a3840cc81eac607eb98857ae3b5c6880433eada"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_floor_2.nbt"
+hash = "30f611e275b1edf9b41dfdebf5a9a622d5b61b95fb493fa2c8ae8c2df4a67f24"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_floor_3.nbt"
+hash = "0245cb504091223d29b8e0c777cc8aa91c9723974b0898c2e6d639720a4e451d"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_floor_4.nbt"
+hash = "a0abd48bc3417e05a9b6ed4ffd9768003c766585078e0ba699b6bc2e262cc05f"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_floor_5.nbt"
+hash = "d18b163099a12a65fc3eea4a7dfbad125188a4421b5c13d924191d955e44febb"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_floor_6.nbt"
+hash = "6eb0792184b4728454fdd355c295e5b552eb08655621aca268292e3c4949659a"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_floor_7.nbt"
+hash = "1127e723ee27190402c008e68b64d8347cac063c7c3e1783acfa0358846e3361"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_floor_8.nbt"
+hash = "c2e79794ecf0ef047ef7f766b278f70eae460ff332ff203e6b95a30d2508f4ea"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_floor_9.nbt"
+hash = "a383697fd342268720d6e58d2b236d57023478998db6d1737df4893bf3537b89"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_no_deco_1.nbt"
+hash = "a4569ca8af475c0449022b57db0ab161522ea23f5fbeeeb0fcd88c1b48327d54"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_no_deco_2.nbt"
+hash = "e2de7883962031a80de38f76f71e0bf5c2998511ea4dcf04910cac7235539953"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_no_deco_3.nbt"
+hash = "2f94092e4761e1d97e1fe5a51d2cb42fd44632cc70971492d6ff2dd3e5e9d1ce"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_no_deco_4.nbt"
+hash = "25c5cf52a40c652d489101cf4ba9a8e3d6f1f82c2a0726bd167d699f099cb808"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/desert_temple_room_no_deco_5.nbt"
+hash = "3a775a3f1c981cece1e97e0f14d0a06613a43884cacd204cd090a51f32357c1d"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/structure/desert_temple/mob_desert.nbt"
+hash = "7f3f4753aa212222c9c33df8cd842f675829d2d577bb95d26f96a0fd379b7403"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/block/support_goes_through.json"
+hash = "4699dce1aff02116f40cd1577c1e9dd1b3988a63411e57b5056ca38a845a8152"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/any_forests.json"
+hash = "4998f79ea5250b8642f3b999dfbcafc238bcab5334549cdda1cd414bd23f707f"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/any_taiga.json"
+hash = "1f9cc7c7a9bc8bdcec1ee453411a3a8896f23ab76c0119b91a1ce914da6d6269"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/badlands.json"
+hash = "797c74ef6cce1dfdb684432c3c0138efcd72cf1ced1444dcb9d8092aade3aa41"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/beaches.json"
+hash = "c0e0a9580a71ace2ebb7ebace10b38a5996a177eb4a59e7ef4a90c61b2807ca7"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/birch_forests.json"
+hash = "373e89ca64222303b24e0ec6c5f1fc0342c74c2f2272cc62c33a9aa2a2c13d70"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/caves.json"
+hash = "8470ec25c966836a47932556f9e34e389ea2735b2b12957faf1aad7e9188be98"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/cherry_forests.json"
+hash = "40730996a213174aed6ce6aae915145d87d02511fe9f193552b00e52be354991"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/deep_oceans.json"
+hash = "b639d2a16d1cf52ebb0c2d29f22b3daede9a45218dc675e2fc5b609d5a971ca9"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/deserts.json"
+hash = "19bf81c26bc905fd3193bc41a9011b684c72c3db89293e36d91a8e94e03b046b"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/end.json"
+hash = "c3736a39e5aca3e455a4d45e068d803fdbae7d06c197f66e471de0ae54fa56b6"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/end_voids.json"
+hash = "15e3dfb9a95e95be3ebbf4f518615d2f41d3a77bbc6271dffdd4265cfa08a346"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/floral.json"
+hash = "eafdde753e1e267d48a692202c3b1049f20c3a8afda50215976e74f491b4c6fc"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/giant_taigas.json"
+hash = "b871592f4fac5ace75cab4797f78da74f6947fb3dc2c9d2730bbd536f8aa7cc5"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/giant_trees.json"
+hash = "2d6a52a551c2f858778dbfe39cd6b68948acbbc727819a2f4b6b45c12f8252f0"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/hills.json"
+hash = "3c095fd0a246dfb47e4087a08c814ac0735c9d512ad6ab90bf6d0afec4bb3848"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/icy.json"
+hash = "546e47a36e34bd5daec4036c8839da5450339321881fd4216104e31c7fc5c973"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/illager_camps.json"
+hash = "8581665465e817f8b46bebd7c2c942447b73733bd7db21621bea2154b40bc302"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/jungles.json"
+hash = "0e90d22c372d349b37d8a918f491d01bcbda1a937bbaf0cacdcccba0fc656b90"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/land.json"
+hash = "b3aa3bf0d40cc4dc113b2c9845331b6b1ab0c5bec3c778092e88bca0a3d33562"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/light_jungles.json"
+hash = "0b041c0cb94dbf9ebdbff11a8dee693a4af5a7d8c0023f4f28f64278897d16c7"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/mangroves.json"
+hash = "92b81390fb45bb860094de1f47a3ac6d634390c181ab7d9845b69d82df1e72a4"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/meadows.json"
+hash = "49c57c8fa82e2f7513621a2a4a728ca2c689649d647f9b0ff977f28073246f05"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/mountains.json"
+hash = "8b72ed40e1caa48af3cdcc083d25edf9c20ce6d46590b1ff8fe9876b30677b9b"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/mushrooms.json"
+hash = "1420c3e1d7d19c90849024083f23f3aac28617b84d62bceed6cdb6441661b4dd"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/nether.json"
+hash = "acec748d363f53fadb56c2ad9b95324f8f4fff138c870f92318c181d3f6df683"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/nether_basalts.json"
+hash = "8eaf4a4649b26235897590bc79c99839247603ad77bffd85ee1c17b034495521"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/nether_crimson_forests.json"
+hash = "b368c22c73fd9456591fb65bd1c5624fad6b6e75185e12ae9a25d5f13fbff260"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/nether_deep_dark.json"
+hash = "b518cb4524b53360f7364ff2b95f3131cbc26203af601e04c985c6b207282843"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/nether_souls.json"
+hash = "2a62e4a1bfed40a559c6ea62f264b5813531f8a72e6115c56d0f138587e78ab6"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/nether_warped_forest.json"
+hash = "9793401bab45b8f9a2d860453d8c43a6e8fdb87fbc565eca49ca55beb5c10042"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/oak_structure_biomes.json"
+hash = "0a26fcc27d9d7a3f60347a0227403bc1effc1d90670e261754e41343cfd769e8"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/oceans.json"
+hash = "0c4204c816ab0b54ecd2215af40ca294c03ed951c2cf525c57362cdf7b404082"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/overworld.json"
+hash = "d045594d65981eab7b13dd6c17225bb7c38c7b36ac771aa654823104430d1acb"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/plains.json"
+hash = "631c17e9544af75bfc23ebdf25af0a3f6f881c10e1a7ad19e40f86184191b4c6"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/regular_forests.json"
+hash = "2c645d44a04e0e3ff9e94d7df3b096fbe0454e7ae8772fe161d1da580bbe0105"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/rocky_mountains.json"
+hash = "80ab136112ddbe3044896e701a041105f378ee010d1a18f80b0d31681166821b"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/savannas.json"
+hash = "719383a0840595fcc177c0d50469c55a8330658d90e618fb33534b981d029aa2"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/snowy_forests.json"
+hash = "f71cd2f6fdbb0feb7a1603ba74238686d403bd866dec511418e04c603a1efbab"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/snowy_mountains.json"
+hash = "8988f88ff13cc47bd9273a3c80501004a6114cf48fb08295e031860b951f8b5c"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/snowy_plains.json"
+hash = "8771a260e4b08fabeaccb85a23e0c7edaa1d7935cfaa48f8708514712bd0c0e1"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/snowy_structures.json"
+hash = "fe7ea777af1db4293fe75137a9f59ecb018311ef42f02cafa1eb082bf2b39f42"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/spooky_forests.json"
+hash = "a1e15ca9ef13c8c30e299e635ca7882d600a37561d8dee256d7119a705e23615"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/stony_shores.json"
+hash = "258badb68e673a59aef4dba36b073eb6a0568eca8d2306749f41e5d521f424ae"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/stronghold_related_ruins_biomes.json"
+hash = "03331678efa710160df500831f3744b401d1d7cce7051c7713878de6c9a3978a"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/swamps.json"
+hash = "722e691f13a0190087d612aec60a7bf644141deee4478709c570157ad5700a39"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/taiga.json"
+hash = "845a1febae9f5bafd1a885e132af8ba99c83c10fd8c783ae93bc2ad1893ea456"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/illager_hideout.json"
+hash = "8954927435e4a07bb8f79b942846d33fe253be000b2d1ef4b0cf30b5980d44ef"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/worldgen/configured_feature/desert_temple_base.json"
+hash = "faf5de0ed1bc5faa0ef9ffb78c511e6a612dee526714b8e94cdbc73fed201bfc"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/worldgen/placed_feature/desert_temple_base.json"
+hash = "32912da39615f088ed62ad457f0ed228c092c37ad797b0131f3ee0860da2ede8"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/worldgen/processor_list/vanilla_desert_temple_degradation.json"
+hash = "844fe348e5cbfb8850735dd7637707e0718a4e7bae5bd3e0205a018a1b70daf7"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/worldgen/template_pool/desert_temple/basement.json"
+hash = "8d06d59e022cf3ab128f2388f7a743f6c84262a30da582644b16f8e847f8c0cb"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/worldgen/template_pool/desert_temple/deco.json"
+hash = "ea884279b53712eb13e6b3dee28db3686f6f8b5d926d7bcaac23dfbb0d9d30e2"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/worldgen/template_pool/desert_temple/desert_temple_base.json"
+hash = "2b12c5b1bb007e6c26179654e5169b909da06d75ddbb17d374aca9dd2c332efc"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/worldgen/template_pool/desert_temple/desert_temple_start.json"
+hash = "7816224edd6031e5046cd2b738d11a69ac4209cea87e44871182fe0a7ec8eb9c"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/worldgen/template_pool/desert_temple/hallway.json"
+hash = "f59e1d637946d51593757b30f46164661d6072248fed2acf5ed5b93a61b5f6db"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/worldgen/template_pool/desert_temple/hallway_fail.json"
+hash = "3c55c9850fa0b309bc7f814720b69d89aedabd69f48d4e2a1484462b073ebcb9"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/worldgen/template_pool/desert_temple/mob.json"
+hash = "218193ea2703c8c8f0a9184869f7d096fd88875c7a39b9163223e84e98e9ede2"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/worldgen/template_pool/desert_temple/room.json"
+hash = "d4a2b55d5d74403fa0a93735245ba0e3a3bbcdfc9c8dadf1f01ce01eb5cf49ec"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/data/nova_structures/worldgen/template_pool/desert_temple/room_fail.json"
+hash = "17825efd524969e362a99664a4a0a25cac132a4f9caa047141c3da0c3a33d634"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/pack.mcmeta"
+hash = "6b52d2bb6ecb197598f239b914c1756dccc64a27508da295793d7806fd43e2db"
+
+[[files]]
+file = "datapacks/DnT Desert Temple Overhaul v2/pack.png"
+hash = "e901b0d251a60929842c5520bf520e1cbad742451b01d4294537f746fb65c5f9"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/minecraft/worldgen/structure/jungle_pyramid.json"
+hash = "ba81c51aafc162b18626f5d0288d0571a94f548d4a46747548a4ef1ce0b5f012"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/item_modifier/loot_modifier.json"
+hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/loot_table/archaelogy/jungle_temple.json"
+hash = "49d8298b2bfae0ce9e370abfb7c73cd62defa49f604e67f93a5a8a68c6b30348"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/loot_table/archaelogy/jungle_temple_lesser.json"
+hash = "acae5c3ba4f5a410aae721c82301ce94275bc5bba62145ed324dcea1a677d5ac"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/loot_table/chests/jungle_temple_treasure.json"
+hash = "9fc20336294827c858e8de918cadac0f42a7eb98dcb4be02b25a9533fb427810"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/loot_table/pots/jungle_temple_pot.json"
+hash = "93869f4d24d809384a1f97b6cd8f20091a730f425d76d7eb4666709c50f733c2"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/structure/jungle_temple/jungle_temple_start_1.nbt"
+hash = "1609e01fdc117fd98d17093b91fab5220634e5493fbca894b1be30fee9dfc83f"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/structure/jungle_temple/jungle_temple_start_1_basement.nbt"
+hash = "6f28322a7640245e3a26d76da8a00ae5c30dd2ade80dc6ec602f18782e92fdf4"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/structure/jungle_temple/jungle_temple_start_2.nbt"
+hash = "d25baea46f3e7d6ecc2102691096d2226b9bab054baceb5b890cac422173577f"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/structure/jungle_temple/jungle_temple_start_2_basement.nbt"
+hash = "af3128a04da2b86b4e8ce2e233934af7c27a59025abc1be785b5ea8ae4882229"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/structure/jungle_temple/jungle_temple_start_3.nbt"
+hash = "b2bb98a0c497a2a0a5ebf78ddb3ec473b03088062e48362cd3e70a0dc611d79e"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/structure/jungle_temple/jungle_temple_start_3_basement.nbt"
+hash = "8aa6035d61c6517d063183565d996c1b75a40fddc559db0ee2fbf4b6f3338cb7"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/structure/jungle_temple/jungle_temple_start_4.nbt"
+hash = "81517e12e6d9e2099ad9e5a3b3e504968dad0f0f3571e71fe1427e92a5eed9c1"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/structure/jungle_temple/jungle_temple_start_4_basement.nbt"
+hash = "5760091d4c99e1f9ad1477145a4e3fb30c6515b78ef7e1ac17b4bdc1f4cfe2e4"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/structure/jungle_temple/mob_jungle.nbt"
+hash = "0f1a284ace4fdd4ec9355e01a86508e854deeabd1c2fdfb7684594329bda4fa2"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/block/support_goes_through.json"
+hash = "4699dce1aff02116f40cd1577c1e9dd1b3988a63411e57b5056ca38a845a8152"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/any_forests.json"
+hash = "4998f79ea5250b8642f3b999dfbcafc238bcab5334549cdda1cd414bd23f707f"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/any_taiga.json"
+hash = "1f9cc7c7a9bc8bdcec1ee453411a3a8896f23ab76c0119b91a1ce914da6d6269"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/badlands.json"
+hash = "3158c6f5d699f4e1e1e8f88414305e4d38be5b00c22bc8988fd30f0a4e85a9fe"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/beaches.json"
+hash = "c0e0a9580a71ace2ebb7ebace10b38a5996a177eb4a59e7ef4a90c61b2807ca7"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/birch_forests.json"
+hash = "373e89ca64222303b24e0ec6c5f1fc0342c74c2f2272cc62c33a9aa2a2c13d70"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/caves.json"
+hash = "8470ec25c966836a47932556f9e34e389ea2735b2b12957faf1aad7e9188be98"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/cherry_forests.json"
+hash = "40730996a213174aed6ce6aae915145d87d02511fe9f193552b00e52be354991"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/deep_oceans.json"
+hash = "b639d2a16d1cf52ebb0c2d29f22b3daede9a45218dc675e2fc5b609d5a971ca9"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/deserts.json"
+hash = "19bf81c26bc905fd3193bc41a9011b684c72c3db89293e36d91a8e94e03b046b"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/end.json"
+hash = "c3736a39e5aca3e455a4d45e068d803fdbae7d06c197f66e471de0ae54fa56b6"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/end_voids.json"
+hash = "15e3dfb9a95e95be3ebbf4f518615d2f41d3a77bbc6271dffdd4265cfa08a346"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/floral.json"
+hash = "eafdde753e1e267d48a692202c3b1049f20c3a8afda50215976e74f491b4c6fc"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/giant_taigas.json"
+hash = "b871592f4fac5ace75cab4797f78da74f6947fb3dc2c9d2730bbd536f8aa7cc5"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/giant_trees.json"
+hash = "2d6a52a551c2f858778dbfe39cd6b68948acbbc727819a2f4b6b45c12f8252f0"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/hills.json"
+hash = "3c095fd0a246dfb47e4087a08c814ac0735c9d512ad6ab90bf6d0afec4bb3848"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/icy.json"
+hash = "546e47a36e34bd5daec4036c8839da5450339321881fd4216104e31c7fc5c973"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/illager_camps.json"
+hash = "8581665465e817f8b46bebd7c2c942447b73733bd7db21621bea2154b40bc302"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/jungles.json"
+hash = "0e90d22c372d349b37d8a918f491d01bcbda1a937bbaf0cacdcccba0fc656b90"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/land.json"
+hash = "b3aa3bf0d40cc4dc113b2c9845331b6b1ab0c5bec3c778092e88bca0a3d33562"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/light_jungles.json"
+hash = "0b041c0cb94dbf9ebdbff11a8dee693a4af5a7d8c0023f4f28f64278897d16c7"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/mangroves.json"
+hash = "92b81390fb45bb860094de1f47a3ac6d634390c181ab7d9845b69d82df1e72a4"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/meadows.json"
+hash = "49c57c8fa82e2f7513621a2a4a728ca2c689649d647f9b0ff977f28073246f05"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/mountains.json"
+hash = "8b72ed40e1caa48af3cdcc083d25edf9c20ce6d46590b1ff8fe9876b30677b9b"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/mushrooms.json"
+hash = "1420c3e1d7d19c90849024083f23f3aac28617b84d62bceed6cdb6441661b4dd"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/nether.json"
+hash = "acec748d363f53fadb56c2ad9b95324f8f4fff138c870f92318c181d3f6df683"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/nether_basalts.json"
+hash = "8eaf4a4649b26235897590bc79c99839247603ad77bffd85ee1c17b034495521"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/nether_crimson_forests.json"
+hash = "b368c22c73fd9456591fb65bd1c5624fad6b6e75185e12ae9a25d5f13fbff260"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/nether_deep_dark.json"
+hash = "b518cb4524b53360f7364ff2b95f3131cbc26203af601e04c985c6b207282843"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/nether_souls.json"
+hash = "2a62e4a1bfed40a559c6ea62f264b5813531f8a72e6115c56d0f138587e78ab6"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/nether_warped_forest.json"
+hash = "9793401bab45b8f9a2d860453d8c43a6e8fdb87fbc565eca49ca55beb5c10042"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/oak_structure_biomes.json"
+hash = "0a26fcc27d9d7a3f60347a0227403bc1effc1d90670e261754e41343cfd769e8"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/oceans.json"
+hash = "0c4204c816ab0b54ecd2215af40ca294c03ed951c2cf525c57362cdf7b404082"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/outer_end.json"
+hash = "5ff4f14e5c632c6f9cf3de5528423cd8a4dd3a3ec49b962cec0219bb79a719d2"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/overworld.json"
+hash = "d045594d65981eab7b13dd6c17225bb7c38c7b36ac771aa654823104430d1acb"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/plains.json"
+hash = "631c17e9544af75bfc23ebdf25af0a3f6f881c10e1a7ad19e40f86184191b4c6"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/regular_forests.json"
+hash = "2c645d44a04e0e3ff9e94d7df3b096fbe0454e7ae8772fe161d1da580bbe0105"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/rocky_mountains.json"
+hash = "80ab136112ddbe3044896e701a041105f378ee010d1a18f80b0d31681166821b"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/savannas.json"
+hash = "719383a0840595fcc177c0d50469c55a8330658d90e618fb33534b981d029aa2"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/snowy_forests.json"
+hash = "f71cd2f6fdbb0feb7a1603ba74238686d403bd866dec511418e04c603a1efbab"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/snowy_mountains.json"
+hash = "8988f88ff13cc47bd9273a3c80501004a6114cf48fb08295e031860b951f8b5c"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/snowy_plains.json"
+hash = "8771a260e4b08fabeaccb85a23e0c7edaa1d7935cfaa48f8708514712bd0c0e1"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/snowy_structures.json"
+hash = "fe7ea777af1db4293fe75137a9f59ecb018311ef42f02cafa1eb082bf2b39f42"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/snowy_structures_plus_cave.json"
+hash = "fc9c10fea6bdc883e16ec4795acf6ab4ddd2d286153195166d42dc485261111a"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/spooky_forests.json"
+hash = "a1e15ca9ef13c8c30e299e635ca7882d600a37561d8dee256d7119a705e23615"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/stony_shores.json"
+hash = "258badb68e673a59aef4dba36b073eb6a0568eca8d2306749f41e5d521f424ae"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/stronghold_related_ruins_biomes.json"
+hash = "8eeecc45ecb634501b659d7c1f1ee8fd7bb7cb25fd48c58a40c292679ae5359b"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/swamps.json"
+hash = "722e691f13a0190087d612aec60a7bf644141deee4478709c570157ad5700a39"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/collections/taiga.json"
+hash = "845a1febae9f5bafd1a885e132af8ba99c83c10fd8c783ae93bc2ad1893ea456"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/tags/worldgen/biome/illager_hideout.json"
+hash = "8954927435e4a07bb8f79b942846d33fe253be000b2d1ef4b0cf30b5980d44ef"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/worldgen/configured_feature/jungle_temple_base.json"
+hash = "ed2bcb8d684d07043654bbfc7cd80df555e94599dec279a5ff999bef2a95771d"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/worldgen/placed_feature/jungle_temple_base.json"
+hash = "d4b7928f2aff7d82292e44317ba5a3b07c7e34c7f4b0f205e80e9083fe8ca6a0"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/worldgen/processor_list/jungle_temple_degradation.json"
+hash = "d5e3ea37bae1ff9c7d96e3ec85fc45e424af46e7b8e6e589e3ca65960e3e6813"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/worldgen/template_pool/jungle_temple/basement.json"
+hash = "88fb211c0e885bf5bb28f41404a821d175e7b5c3888a722ef5c57f0638f3996c"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/worldgen/template_pool/jungle_temple/jungle_temple_base.json"
+hash = "c421b061c5456385c454280d3e26d3948376c0a57d0d9354c4e4e46f6245398a"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/worldgen/template_pool/jungle_temple/jungle_temple_start.json"
+hash = "dc76d829581598095bf36743929c13537717712998fb7666f256774fa25449d2"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/data/nova_structures/worldgen/template_pool/jungle_temple/mob.json"
+hash = "830ff7341570f4f35025399a13c251389ee3d6ef1538427210b1b3a66c82a172"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/pack.mcmeta"
+hash = "4c38de04938de00c12911e0ccae7f0d4ec84a9fac985d3928e86f517a20b5c25"
+
+[[files]]
+file = "datapacks/DnT Jungle Temple Overhaul v2/pack.png"
+hash = "593774d649462b902f38cbd542a0108357217ad5ee878ff764da1fb83cabe7f5"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/credits.txt"
+hash = "6a4a159644e2b49a1ae2c5e0de716c516fe0c523b9c7df9a1165671bf326bfbf"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/minecraft/worldgen/structure/fortress.json"
+hash = "8202eed6cf629315cc7e83cf232255d427337063ecd1f6b471d0392743e22afc"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/loot_table/chests/nether_fortress_overhaul/fortress_overhaul.json"
+hash = "c829085d32d8cd926b3cb5ba1f958e20323dfd6601c082291cabd4f310d6b9f2"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/loot_table/chests/nether_fortress_overhaul/skeleton_supply.json"
+hash = "c558c4b3b49bbe225549202443b559765ea28e06eb24afcaf96f4ca44b6d43b4"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/blaze_spawner.nbt"
+hash = "bf9b4098659d0a6c3d88bf7519f9b7e10995a63edf77d9b066afb03c8c56de66"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/bridge/nether_fortress_bridge_cross_1.nbt"
+hash = "7c3d6b7b8f43ad29515d5520935f966d133c37f7be3f7cae9c00012585b57891"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/bridge/nether_fortress_bridge_curve_1.nbt"
+hash = "cec1fad769b247bc66ec52bca3b3b8421b99fa80b119d148e0a81d89553a1e7b"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/bridge/nether_fortress_bridge_curve_stair_l.nbt"
+hash = "650491007bce6c8c9dd84391c9eee43a35f935cf60238cd0009220130f6f9ecf"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/bridge/nether_fortress_bridge_curve_stair_r.nbt"
+hash = "84b4278c503c136a5245624fc8609c07474cfe102215381355ad17b0c9f8eaf9"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/bridge/nether_fortress_bridge_fallback.nbt"
+hash = "a704284f4ba3d6296ec7ec538d70e6122a4b2f7d650d36ef298b85a9378e55fc"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/bridge/nether_fortress_bridge_grid_interupter_1.nbt"
+hash = "1fffd9974571415665bea4f4ff6586afec4c2575688626c49ddf3c77e20c5bec"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/bridge/nether_fortress_bridge_grid_interupter_2.nbt"
+hash = "fcb10887e79bc6a74f366aa0edfdc8d9f8084114374f07fd4c693a9d9903768c"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/bridge/nether_fortress_bridge_intersect.nbt"
+hash = "7a9b08d29d4d86d83191f547d5d9465905870a28d8f0ff7ab05660838a71de72"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/bridge/nether_fortress_bridge_intersect_fallback.nbt"
+hash = "edd7a8fe8f64a4461bfe88ee13183fa81afc176f17703b18af3699dda6c461e4"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/bridge/nether_fortress_bridge_intersect_spawner.nbt"
+hash = "19c000aacbcb7ed9694916307f6d703e87c85ce2f1c658d815bf406e68ed3c4a"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/bridge/nether_fortress_bridge_straight_1.nbt"
+hash = "d209cae1869f9ed74de1de12205eaa6ad295a9630d08a3f8a80c51ef9dd8c6c3"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/bridge/nether_fortress_bridge_straight_2.nbt"
+hash = "bfd3ecb2f4f7fd16c900cdbd5238d747499a5719abb2b0b0fa8a3f4a585ab17c"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/bridge/nether_fortress_bridge_t-curve_1.nbt"
+hash = "b773ee17530df41b64447f10753557e9420b971cab03ea6d7fca643bdbf7596f"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/halls/nether_fortress_big_cross.nbt"
+hash = "5fc0cff452a27aaa8e3675fae4920b7c43edded7c7a2e63ff78dae4bc62b56c4"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/halls/nether_fortress_big_curve_left.nbt"
+hash = "9ae8bcbd9a0889c894fc3e2ef73cfa301eb0a29afb246b76aedee433675e8289"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/halls/nether_fortress_big_curve_right.nbt"
+hash = "ea09350e05413d167d7c51f5b02cc5bbf31c95205cad35f493a62dd97166c8ff"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/halls/nether_fortress_big_straight.nbt"
+hash = "f019f0dbc34ac9590d89d94f666ca4866935588e784b3e0ee92c26458513f658"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/halls/nether_fortress_big_t-curve.nbt"
+hash = "ee98e2e4fabde24692e2ea481d522fdcb4a2e55b13f2b47988b961a7d7a021fc"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/halls/nether_fortress_blaze_stairs.nbt"
+hash = "ee17273dfaaf96ad1500a0fe75d1efeb2c18630d5a7fdff4c07c7cccdb52ca5c"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/halls/nether_fortress_center.nbt"
+hash = "10ef8d0cac87575c2ef5398bd8cf12cea0f33641a10c33f48fddda8dfc9013bf"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/halls/nether_fortress_cross.nbt"
+hash = "26a17cbdd257b789c1876c2366c9079d4b0ac169bc2ce06260a76b7d499ef8fd"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/halls/nether_fortress_curve_l.nbt"
+hash = "6bb3fbf128a8670e1948cb9df04b430ec46310f51d7a57a584250c2ba714ee9c"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/halls/nether_fortress_curve_r.nbt"
+hash = "1c2e7e9f911686a22bc0e81a644543ed2bd3d93879bcb926ad62743468bebae8"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/halls/nether_fortress_hall_fallback.nbt"
+hash = "3455c4962c7e0e563d5c993dfce709c309df8cf763c0aa4bb94cdc55eb158097"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/halls/nether_fortress_netherwart_stairs.nbt"
+hash = "c00dd96170953839bad8f172478882bf53f221ccbcaaf6075d91b76a36eb5cdb"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/halls/nether_fortress_stairs.nbt"
+hash = "43103422401449c57ac355430d004b4b39dde94c4feb5666e22d0ac4b3988e16"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/halls/nether_fortress_straight.nbt"
+hash = "201164da4abcbba8ba048af529c07644625e14548b25f707ac1d33f37fc53426"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/halls/nether_fortress_straight_tower_1.nbt"
+hash = "0ef52b82bb24ab058e2ad7552e0e33802e2f180c46beec47e3a2d6f107ff8b41"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/halls/nether_fortress_straight_tower_2.nbt"
+hash = "cb5e5bab5ce3fcc8eb93469113976b54b0e3c07e147b9beef1f6b84e32ffb4a9"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/halls/nether_fortress_t-curve.nbt"
+hash = "c729472b64b45d73c8551cc8b28e192de79d6088ab246f395eeb1c8b6771dac9"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/nether_fortress_bridge_chest.nbt"
+hash = "8dd442aaa04aa4fa6234025c6b7863303cf27e7d263851f85cd059343e098ef1"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/nether_fortress_bridge_chest_empty.nbt"
+hash = "34a511f31c14180a8e906b4d7b65ad02f37c24d66551ce2f80e43a875272c403"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_hallway_deco_1.nbt"
+hash = "d0f42ec83339cb051f564c1793af516ffd660b323b668f24f768a5ce07e6f6b3"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_hallway_deco_2.nbt"
+hash = "30ef3a6573881eac665c739cfc88953592d7cd597f7d2adf9212c386178424eb"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_hallway_deco_3.nbt"
+hash = "afb8d9cff00ecf7c5359a16b4d287938fec55b6fe822f6e3ae42e7d5ee7770b3"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_hallway_deco_4.nbt"
+hash = "12986a8cea8d34e14e5a4359b65ae0e944a5d9dc96b99955323a7afb735438a8"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_hallway_deco_5.nbt"
+hash = "fe07f0e33b5e83c2652a72b53406d2ab9bd519a988f1f1c9db89c8d7539d83e4"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_hallway_deco_6.nbt"
+hash = "a410fdce1447d0dd188e007807ef099be9946b1e6124e0935b59976f5e37f68d"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_1.nbt"
+hash = "146a4dcf12bf63ea6211e603851d93717756090b35a9d0c614511aee925a9684"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_10.nbt"
+hash = "e6775b7eb83fb881c1175d96a2e68c80457f0b9edf40a75b898ab546df24fa9f"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_11.nbt"
+hash = "c05211dfd2835b2684cdd496582195d6f16fdfd1e1d2638bbffb57c229064599"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_12.nbt"
+hash = "a8adfb4982b3a3187de893f3701ce58e4f12a83b03918fa9c9e28637eb5ef946"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_13.nbt"
+hash = "465beac55eba7ae71d993147a50db4f3db02966c8d8db55338353f407fff05fe"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_14.nbt"
+hash = "1d3bf00d2a21180f07ada2a7d1d7d081db34f04885a9247cd1550f6ab14550a5"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_16.nbt"
+hash = "6fb7b7665681cefcc084c65cb8b1cf55613d9d2f44fb5644fe377cfb92d5d4a0"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_17.nbt"
+hash = "c635b039d97ddeda94680fc30c68825a9d253d0ab615f4e1aab83cc254411167"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_18.nbt"
+hash = "2f8e2331bd29c03f2e57860e71f8fd7f979b6db5f6d1732b6c9d5c3d3d05cb7f"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_19.nbt"
+hash = "4421dea74201aa41624b9032caf2ce8d4bf188a8d71779f7512833a26e3010f2"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_2.nbt"
+hash = "4d7e8835550e810cec0de635008bbecfd27aaf37b30d1cac2e78854bc60438cc"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_20.nbt"
+hash = "92a15460cbb380ae133f79c446f37f6bcfed52f8d83c13b7d552922045d47794"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_21.nbt"
+hash = "e6fbf61b62ae63d7e2f5b7f4732c362d0deabdb0c82d7e51294f9e7bab673c1f"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_22.nbt"
+hash = "1b48e53c8f20353f3b00af297c43ec6d6b59ab326e3f33fe716a03a37f6858da"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_23.nbt"
+hash = "05b28fffea0bac47a332e09ba1b2bf9d8de48194bff5a92b019e660122de1d5d"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_24.nbt"
+hash = "71f745eebc49027c2b5cba42c27e5a82511a0117bc95cf61355d875c4148d90a"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_25.nbt"
+hash = "d3bd94ce3ae71ef3e4339ce2c0ce9d54d3dbf869cfa3a9e3d96873e67a653ca1"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_26.nbt"
+hash = "d60c03a47c4824e271c033302199ed5df097588b275626441850cb54c93c0e5f"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_27.nbt"
+hash = "7c83d209e6d8f3280dca1d78d279a4b9d0ee0c084480868ebdabd8ce7e80c857"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_28.nbt"
+hash = "14843a398c8bd642e518850139609bb3fd90d9170d5d098206e918d2715560ed"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_29.nbt"
+hash = "e2465ab212af02d40124050f951e5eb57c8ef935a4fbf60c9776519a10d383c6"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_3.nbt"
+hash = "50b99d8570a6a448a49a2e9c316b98d5f98d01997fb6a1878d5caa074614976a"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_30.nbt"
+hash = "3bb2eb8317412ca7c3ca483a90fdfe4c469a8143e9acd6095c575f18c5763d4d"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_4.nbt"
+hash = "c47e9fbec57868b9af2ee862afcf10eeab0c6fb544e8ecd1d642e5c09932e2ae"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_5.nbt"
+hash = "709697ceec05c643d441bb4dea0350d3313c76b55e4c6044b6f3798f28d96272"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_6.nbt"
+hash = "47762cd5e4b4fc3745e5272fdaf75a809fd9202c29784aa8aef35ab40418eddc"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_7.nbt"
+hash = "bffaa6e06f57610d2ff2d201e29c06b28cdd0d016156b7e314b05cbc14417d82"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_8.nbt"
+hash = "804955d0ba108d8231ee0ae7a23fa8a82c1c6768967776e158c36d0079fe3a06"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x1_9.nbt"
+hash = "e7d692decc6d8962e42600761d2c7ad2c918d5a0cf4d0bf45ac314d7f23cb35c"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x2_1.nbt"
+hash = "21742c9ccb3421ac6b7faba206dc28bd2a2a50f562fb5b9c55fc9bcfe9cf1eef"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x2_10.nbt"
+hash = "bec03fb338914aab1ed892c2460480885225307c6115506b7c459da053d18de5"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x2_11.nbt"
+hash = "cf88b10d468014e96ec9d88a454458824677d53e20573cf12bc825218b476a77"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x2_2.nbt"
+hash = "802e2edd087ac54bc3434ef7eb0e0f192ad6e240d5108d2d3f9e2fc83583aecf"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x2_3.nbt"
+hash = "84295e51242ebcefdc6b3c10cd545c70df4770a635271c7e3a45806f4e118e60"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x2_4.nbt"
+hash = "9cc814f4c994143e23e4d5a45a97043c7063966a2d09dbcb8dde7db6108cf148"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x2_5.nbt"
+hash = "4263decd634c1924d7086ba753e7c483ec1882103ddc7b878937824cd794f3c2"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x2_6.nbt"
+hash = "6946190cb49eb6141d331785636fd92ffc225027e8235d35c5d9941950789eb0"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x2_7.nbt"
+hash = "8079d5d6ed42c78c1738812e5fdbb8c87fddde1847eeba2b55ba0ceca153331a"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x2_8.nbt"
+hash = "a1aa8ee54256b9f9cc5519e5490208f3707bede1c10be5b103d5bd4db3f89477"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/structure/nether_fortress/rooms/fortress_room_1x2_9.nbt"
+hash = "b30a0a4d429234928c95f700cb0ce76cf02f1adb5df96746a325d512e068ca9d"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/tags/block/support_goes_through_fortress_overhaul.json"
+hash = "0745eb509e2319cb09737212bc2bbfe7190e72a9cfdaab131ac5355f1cae8787"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/worldgen/configured_feature/nether_brick_base.json"
+hash = "637a75bdf3f494f40f307bb196ace781062c6f5ba78aa310f36d6d881cc5a698"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/worldgen/configured_feature/nether_fortress_blackstone_base.json"
+hash = "d3ed5fba753dbbcb71780951d313bde5c1ac89d3cecfb6f72cba616bc3e99d66"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/worldgen/placed_feature/nether_brick_base.json"
+hash = "548b920e8b5dec15cdb99cacf90adb8b0abf54395f42460300a43a0c7f3302d0"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/worldgen/placed_feature/nether_fortress_blackstone_base.json"
+hash = "5e780165748665b4fca6a2da49b914704a39720f8afe817773cd01b6754cc4a6"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/worldgen/processor_list/nether_fortress_overhaul_degradation.json"
+hash = "56c955057a4cb2f240d50ba5f46a3579dc6dac11e254048cf07f97749a06c8ce"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/worldgen/template_pool/nether_fortress/blackstone_brick_base.json"
+hash = "efd2aae171d89442299b387c9266f4fb464e70704228a5cfd33d0f08a1dd5f9d"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/worldgen/template_pool/nether_fortress/bridge.json"
+hash = "f4a561138a35e1be44a62e87b5a94477c66f837df41e7577ac4ae310e200d9ad"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/worldgen/template_pool/nether_fortress/bridge_fallback.json"
+hash = "199824e00a2c3ed9a7039f9b1ac5bec73366efbfdcce9e9df63b25f7f66b4d24"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/worldgen/template_pool/nether_fortress/bridge_no_interupter.json"
+hash = "f011017e43a44548c57ddf88ebfa9799b00f07ef3fcda9ce46fcc3d53c3bcb92"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/worldgen/template_pool/nether_fortress/chest.json"
+hash = "673de8a9f1d7ff4402cb6d6cafbf59b7122f2ca701daaf781fb473a9d7e4e971"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/worldgen/template_pool/nether_fortress/halls.json"
+hash = "44fa7093264316854cbb03109a465853a21447117a22f9eef8b93e7737b014b4"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/worldgen/template_pool/nether_fortress/halls_no_big.json"
+hash = "db3ac44cc489d536357bacf56ee6f77f5ef011ceecee8fd5eb97af5aacdd94e0"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/worldgen/template_pool/nether_fortress/halls_no_curve.json"
+hash = "9d4759854ab0bae1484ef9f70b361d2b8bf72f434ecc9c068aff4b5a6786da19"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/worldgen/template_pool/nether_fortress/hallway_fallback.json"
+hash = "09bb6a37ebbf6b019f8f91059f7122a14f76b92ff59568f3bd9a1e45ffc867e6"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/worldgen/template_pool/nether_fortress/nether_brick_base.json"
+hash = "6cc6bda8bb06d65db19a2d12f9d501f0a93bd563e14ff2f17163e83759cb57c4"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/worldgen/template_pool/nether_fortress/room.json"
+hash = "6ab26dbd4bc5a0f5cfef752aa8ce2e8880ebabdd843c09a08a3ac4284e372d1a"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/worldgen/template_pool/nether_fortress/spawner.json"
+hash = "74ce40b180e0334ed7c5582e993a28940fd4ae3769343babc1f912574c5f8292"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/data/nova_structures/worldgen/template_pool/nether_fortress/start.json"
+hash = "a9c8408f06279d8662dc8eb928cdc37b0c85a2f477cce2284852958c3649058b"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/pack.mcmeta"
+hash = "095cd1c4dd26b5f80069f0924cccc896e524376a0704831105d93c53c776424d"
+
+[[files]]
+file = "datapacks/DnT Nether Fortress Overhaul v3/pack.png"
+hash = "2d9726a5ab2cd4e80097fdfe892df0a966ff6233340a28a0ce2d75b722ccd716"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/lang/de_de.json"
+hash = "03325bbe32cab779cba653432dc40b5310a0ff8c91482c8dd0722aca86cd0427"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/lang/en_us.json"
+hash = "ed1f246922c1cc04be95bc06b3664fb51fcaa05da3a630ecb99e0928ce77f562"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/lang/fr_fr.json"
+hash = "69883f4a13b335cae9bd7c6ed917d16633ac9fa3b0a5cc067e8a21795c154825"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/lang/pt_br.json"
+hash = "4b05903c04cab87516858d7473b7fe6c9ec27ce4864ae2226cc38c08a77ae890"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/lang/ru_ru.json"
+hash = "f0070211c7471fdcd01c60d6620d7714ca0d975c1df8a8b87ab16b2be8ab7613"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/lang/uk_ua.json"
+hash = "28dc6b43cefbb3e46894c72e3928f14355634843e25c003e026e6823f16b16ed"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/lang/vi_vn.json"
+hash = "46d7848aed6e43c83272f4a245afe99824101aafddac80be81cc6a924ec1844a"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/lang/zh_cn.json"
+hash = "78b887bdd3b1d78f5bb301bca957cf866a60cad3cb5b39517578838691ce7fda"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/models/item/chart.json"
+hash = "dffc0abe55639be26d4b5ad6792e8f8394f6f5b4604d3a1cf6766148daf5fdc5"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/models/item/folded_chart.json"
+hash = "60698bb88853587f4ffa0bc0764ebf6c995ff9f87400f97a93bc326d19b95151"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/models/item/keys/cave_chamber_key.json"
+hash = "c6260d9404ada8d53521e7250ab1d3e91ce0ba974d3f23d58599f03274d2e1a0"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/models/item/keys/citadel_boss_key.json"
+hash = "02c961588f547e1f11874d79040f1f61cef47fe7f3028c2a6afc73dd0081eb26"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/models/item/keys/citadel_key.json"
+hash = "9afedf85437afa20084ce7dd95a030c78034d3ec5bc16d332e04fc09260c25df"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/models/item/keys/creeper_key.json"
+hash = "7d7bd1ed47827041c816775e95989c20ad2051641d5bdd6256efb8079abfda60"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/models/item/keys/donjon_key.json"
+hash = "55efe2ca4064daa51832c83464025bbaa4868051bbdea74da2b982c000dbb96c"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/models/item/keys/end_castle_key.json"
+hash = "ddfdab598a2f8bc1dae5ec9e35f4329437aec3cbd2aeff8c4c12da4f62f222db"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/models/item/keys/end_ship_key.json"
+hash = "c66d9ebe4af5c0cb4696bf222648a133b5376e9cb5419165b5f0e7330d0f9336"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/models/item/keys/monument_boss_key.json"
+hash = "f544449132c82384b55fd8812fa998b68a40030c3045f0465acb047d92df8270"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/models/item/keys/monument_key.json"
+hash = "8f4f13daf587f44a4a48a437a3ec95c26383aa84d37b55c7c8b8c50d2a0e5e09"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/models/item/keys/nether_key.json"
+hash = "a0c92c41a3b8c65fc1788d87eb898090cf31b0d1d050bc3b18f2ffd6788987a0"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/models/item/keys/ominous_shrine_key.json"
+hash = "184514bfa17dd249a737007790f3e0e00eabda90d01e12025c327da164ea89c3"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/models/item/keys/ominous_toxic_key.json"
+hash = "c046f361426334cd72330aa1f7b5bb4e815361a2a186c29658218226cfae943f"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/models/item/keys/outstation_key.json"
+hash = "1b0deb72c4c5e3396df645c275bc9781761a4f485470db4a06499f8c97b99a15"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/models/item/keys/shrine_key.json"
+hash = "4c17b6fad6a6d916138211c2b1bcb0186444b15f4a371ecea3fce1be5e38b5b8"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/models/item/keys/toxic_boss_key.json"
+hash = "4b97504b2e02a0b091de421bcecece69ca8a5865396360be67cd02e0f594a926"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/models/item/keys/toxic_key.json"
+hash = "49d6b300dbbada518f85c6b7007b9f9b381eff7661c9d7cd8544e4b8301bcfb3"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/textures/item/chart.png"
+hash = "1c218c3c4391d5f6140d39c619881675cfd526552954176f5a557177b0c0f4f3"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/textures/item/chart_ribbon.png"
+hash = "b8157902f93ec07b0c4322ed6f4e0d7890595ed068766a5b1379f72b0c27bf52"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/textures/item/folded_chart.png"
+hash = "b79409768c12e56c6697b07313d0600c6061b16de7e25f74c2255c38e195a77c"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/textures/item/keys/cave_chamber_key.png"
+hash = "d376c7697f9cbcaa2ee83e3ca1204738fc2e65a385c921654a1569e1f5862d3e"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/textures/item/keys/citadel_boss_key.png"
+hash = "fd21d4c8e9724b873eae680a5e7a899035152ab69b8e92d78a6546eece61f369"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/textures/item/keys/citadel_key.png"
+hash = "023f0aec6b8ca417621e806765f5c123b73e499668a3d6219de99b3096bbb9b5"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/textures/item/keys/creeper_key.png"
+hash = "9252a3136f387588f6c977fb25ab1fef3725e27f731170154c48b9aa501dcffb"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/textures/item/keys/donjon_key.png"
+hash = "086602a1a80cceef9c66987c1c229f0f09d6538fbeb71d97950c3933f2a7e53f"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/textures/item/keys/end_castle_key.png"
+hash = "8b34b8c0ebdb6e1c795125ddc09c2f4632582995d1a0f38e2c757147e4ebf5fc"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/textures/item/keys/end_ship_key.png"
+hash = "3cd45bae5fd81b62c5322d5273b7fdd573eacf7c71e2a2dd804a91d99042dbed"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/textures/item/keys/monument_boss_key.png"
+hash = "d7cdfd99439d49cc72b6786a0e39722ff778d3027c9e280a1dc22ae68a944e01"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/textures/item/keys/monument_key.png"
+hash = "30f76235d2254d7ee866a6c515b30daa3d0290b67f709a0a7b7686988cca8588"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/textures/item/keys/nether_key.png"
+hash = "e1608fb2ce660833fbbda5e65bf3b2f6a69c58a8c4ffd246cdc76a93aa8ed6a5"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/textures/item/keys/ominous_shrine_key.png"
+hash = "9bf664341b8c9d1c8b082c99c715a6925a67a6f2548c060ec70ab8218c9a0ff5"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/textures/item/keys/ominous_toxic_key.png"
+hash = "afdaec15aa5da939c2187a42730dc73bf2fae8e9eae5bb297b60c458640d9663"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/textures/item/keys/outstation_key.png"
+hash = "f0254a5c2c5fc751587576630fa0265fcc8c004e9221d9b8f23546f3503af3b8"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/textures/item/keys/shrine_key.png"
+hash = "d73ef8049655cd6c3a1c0081d7fecd2ea6d0605266b4d35f5fb307103ba66daa"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/textures/item/keys/toxic_boss_key.png"
+hash = "6b82dc5ae447addf9c3759f03e8f57d815acc43fe6939cc010477d9158dee052"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/dnt/textures/item/keys/toxic_key.png"
+hash = "c235ea416bc03921c88e6a159db71d757debeb58f0807ab38887b21ac7b11d7a"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/minecraft/items/filled_map.json"
+hash = "babab6cf90a5e7958635f17dc8c14c9825833b9f675e0c73799422267d638844"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/minecraft/items/ominous_trial_key.json"
+hash = "9c9eb2a55c6f13d99e48314dfb8393379435667c1d0cbf3d2ca1f58934cdbca1"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/minecraft/items/trial_key.json"
+hash = "3daee14948d57bef920a414e00207ee710ac584ab7e53c4b2466ddad324f15f2"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/minecraft/lang/de_de.json"
+hash = "def207cdbd4712041b23438ba2931aa48d1b3ee9210d8c945331e3d07bce9b15"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/minecraft/lang/en_us.json"
+hash = "5f7761c8fe4f4949e3ed667c030331b2882ba28e239a7fb4d2e8b24b2db0d2d5"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/minecraft/lang/fr_fr.json"
+hash = "eaac48f53e0b4d69bbaa4ce3f27c24f63fb226fb3d59367638525955fe138c50"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/minecraft/lang/pt_br.json"
+hash = "1c3f72d11898a998585d28df1c1cc3479d0f457aa961022b210c523fdc6cdda5"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/minecraft/lang/zh_cn.json"
+hash = "92c72cb8a690cd486c49e0c8fbf1e4d84e4f5a769836c26b70f0bda4dae8fef9"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/minecraft/models/item/ominous_trial_key.json"
+hash = "1da5de54a8e9b68c2ecf6250bd63c292d70da5cd4f9755c15f2ad639cbac8da5"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/assets/minecraft/models/item/trial_key.json"
+hash = "a03212235e4a3092db42bb04b9b51b513360b16dae92107a8d7821b2d2d01479"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/base_plate.nbt"
+hash = "9d454600dd41d5701ed6aca950586b59d919641b9d7150bcc11825bb42311348"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/base_plate1.nbt"
+hash = "7e7396e20655e75f0ae1d8c1caf04d014beb876d2b0d3311a4b675d01abb03e3"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/base_plate2.nbt"
+hash = "778e7b52ebb91012829754439e29f7ef10986dd0304422e398d894de07000387"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/base_plate3.nbt"
+hash = "61b449c3d7391a44e41b4711c638860392a29262643308c6e57d05fd35acbfe9"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/base_plate4.nbt"
+hash = "8c87a8660580e430ee5b016829e9b7052813100de053e090b3fb18d5e977d4a7"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/base_plate5.nbt"
+hash = "ba7054fb7d9c732ae1edb798f53282ee0a415870933ef85cb51998100156b28d"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_cage1.nbt"
+hash = "3abc9021abfa5cd715922698fddc91fc3292fa9e99c42d3ebf5606587d807344"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_cage2.nbt"
+hash = "ae706102f55c5c3d680194afa271c45a8327547087e16f658770872f0cb07a20"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_cage_with_allays.nbt"
+hash = "6ce2f3bbe2d194454cd0dcae066a2fe410e09c64c80ba73fc37a4a356ae8905e"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_camp.nbt"
+hash = "1ccb89537ab5227da7fe9d6e6fd5edc54e63b6f56fd168ce432b38413d435798"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_hut1.nbt"
+hash = "ecee32b53612fefeec8366a43a0039188911fbba3c484d6da34e33aed2243976"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_hut2.nbt"
+hash = "458b364fb9f20e443c483f1fbd74c6f65e3491ad797f223a2b7a765b7f639c34"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_hut3.nbt"
+hash = "05dfb358efe918b040a96119b4d54065bf6d31db6c5b4ffa490eaae8303264ef"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_logs.nbt"
+hash = "8042fdefead2341d0a4128170499d0c8ecbf14c898b0e4f1912fd1ab07472feb"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_plate.nbt"
+hash = "47d97f3b874a798ade1fc35c76a286c303fb0f495c5124c222f4f50119fa474b"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_plate_1.nbt"
+hash = "cb7c9f0781279abf3cbb0f8e1456ae8b37c957d1f7fe83a986ab2d011a977759"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_plate_2.nbt"
+hash = "fce896141bf02ae541d895475d8f6c0252a8ac7c6f4f74207930f93c823f5740"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_plate_3.nbt"
+hash = "7db0fea44f6794b56aaed04b0fc9bce947deac118dd831149ceba65d10dee635"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_targets.nbt"
+hash = "91c6ce2115bdb0f2deaf9bac90374daefb35b421709b62ac0a1d4631ca4b29aa"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_tent1.nbt"
+hash = "7a92066dcb92bd63fbd9452c5092e24539885f87de26cc29fa7bfc7607977d79"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_tent2.nbt"
+hash = "f7540e820cd019c2c54daebe12658926ba4b2b7cf82a640b0b2d446833a0bb54"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_tower.nbt"
+hash = "880735859a809e6e868af6cc6cdb2e4a4a2a919fb8fc4271c04f70d563846744"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_wall.nbt"
+hash = "740e37084054c361c5dc31e16149433dbe088199ba6a7c797d5567b2e4128618"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_wargon1.nbt"
+hash = "064db70da55e9d8af33d7a31833bf54fede1abcdd636f58c40cd419575c9140f"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_wargon2.nbt"
+hash = "58edfba14565a5d10d7999ab5fe9dc66d9bcd20a307df4df15f7f3225a095efd"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/feature_wargon3.nbt"
+hash = "16b1572d9fdb785468fc5146639380e0549ec0bdcd1b1195fb22883fbabef3d1"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/watchtower.nbt"
+hash = "c242a0e366f1ccd7da9e0d9e1b195cb0d9c1778bc167b108128dbcf3a61ad1bd"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/structure/pillager_outpost/watchtower_overgrown.nbt"
+hash = "4fdcbfef6851ca9231d7ad8c54a7d68d1abc6bab8a2f52b4516d25bdb0ee4964"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/worldgen/structure/pillager_outpost.json"
+hash = "43a0be5b0684fa5bbdca4951b1f7724e7d385f95fd2fd7e3a6a484b6ea9fa9cc"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/worldgen/structure_set/pillager_outposts.json"
+hash = "a0759e4b1431f787e8c7900d99ce9b2f34cdb8da25532ad2adc811f7c498ab02"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/worldgen/template_pool/pillager_outpost/base_plates.json"
+hash = "0645726cff41fbf05df3d47dcf8b789f96d2362678dc00e94038ff148f863115"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/worldgen/template_pool/pillager_outpost/feature_plates.json"
+hash = "b6fbf8f6df0d2cad4c584513013b35d112cb30a4a0ee7e59e9ad4336018eaf54"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/worldgen/template_pool/pillager_outpost/features.json"
+hash = "bc3616d5be8c1c96c0ee6b2a0e11f2f012e56a8b44eb4e367c92a5bdd2dbfbee"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/minecraft/worldgen/template_pool/pillager_outpost/towers.json"
+hash = "147fb1523f157bf9d68685a7d447de83cad3ae2a9645e8972c4498be5678e0e9"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/nova_structures/item_modifier/loot_modifier.json"
+hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/nova_structures/loot_table/chests/pillager_outpost_kitchen.json"
+hash = "ca22da7708e2ae4281c8e392658e1317e5eeafbf86bcbf3908b4106df95768a6"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/nova_structures/loot_table/chests/pillager_outpost_library.json"
+hash = "5c1d54e85a9d24d8d2b451eaca1bc5cf09b0b8b9cdad0ccba6d5773bd9448850"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/nova_structures/loot_table/chests/pillager_outpost_small_treasure.json"
+hash = "ef96b30883362a7fd9cce7239d1d55784dfbcedab0739b0eb45789f6bb5b51be"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/nova_structures/loot_table/chests/pillager_outpost_storage.json"
+hash = "91ce3ad0baf1050a247e477f7d85e9e2df6073f6aa16453802ea163fce353d08"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/nova_structures/loot_table/chests/pillager_outpost_treasure.json"
+hash = "fe51c20b21c345ceeca288607a444f61461fdc4d90221fe2b85c3271cccfcae4"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/nova_structures/loot_table/pots/pot_pillager_outpost.json"
+hash = "644b10bf25c309eed44de0023a40556a38e5f5efdb0e822b9745725dd89f276d"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/nova_structures/tags/enchantment/structure/all.json"
+hash = "320c5715f03f8ac80f28706a78382a736b3c9b6096f84b01698a83848563998d"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/nova_structures/tags/enchantment/structure/illager.json"
+hash = "7f5dafd1b49c8a3df85cc4277548b48533381f7e37ebb4404972e6373035b384"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/nova_structures/tags/enchantment/structure/illager_outpost.json"
+hash = "80dc0cb9f4294e6e753966645b0ca835b7bf1568c38c670a80efc91d11b7ce11"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/data/nova_structures/tags/enchantment/structure/overworld.json"
+hash = "084bc645223118bb6fff6caa2a93854b177ba6801812bf8ccfc78b4fc06f9e7d"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/pack.mcmeta"
+hash = "f1f38f49c3a457f7156efee25dc63225786b0af04da206c0865a08ce11cc5b80"
+
+[[files]]
+file = "datapacks/DnT Pillager Outpost Overhaul v3.2.1/pack.png"
+hash = "412aee2868d575a8ce9fcbd45aec39111502a0fd8f09f4c82bdfb39e45dd9d57"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/data/minecraft/structure/witch_hut/witch_hut_1.nbt"
+hash = "c05f680ded80e7ce9262512caa540d281fe1035535586b6acca53ec1c76cd283"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/data/minecraft/structure/witch_hut/witch_hut_2.nbt"
+hash = "f264f433d5cb831d636dcf3fd174fc58648f4911b1eecaa18548e6d356c6e53c"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/data/minecraft/structure/witch_hut/witch_hut_3.nbt"
+hash = "b7b1143e03944ed958e5e134334b8eb85a09bc95630cf3f8f02171a2b97ca5aa"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/data/minecraft/worldgen/configured_feature/witch_hut_base.json"
+hash = "48950c153e628b4c3824da66e78759e251d919c8c0f0de112b8b68791c81e3c4"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/data/minecraft/worldgen/placed_feature/witch_hut_base.json"
+hash = "0c8fbddc5b4f0b6210a3859444fbaa2c4d0552704a2b23f52d5adc0544479f79"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/data/minecraft/worldgen/structure/swamp_hut.json"
+hash = "f6231964f8b193e4133dc8c5645c8cbce6369ef0d524406e3a8ff3a3bd965987"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/data/minecraft/worldgen/structure_set/swamp_huts.json"
+hash = "193eb3b56b13041332b4e8022d953dc612711845af2c81e695469793d588e107"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/data/minecraft/worldgen/template_pool/witch_hut/foundation.json"
+hash = "0d3b0c1d1a9794b0530b69d0121eaafa20e5a922c9470dc0bdf3853f007395fe"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/data/minecraft/worldgen/template_pool/witch_hut/witch_hut.json"
+hash = "5e55d9d6182711562d2b4e1c98b4360d5bcc7dae3e01ea26d10acfe0c0761708"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/data/nova_structures/item_modifier/loot_modifier.json"
+hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/data/nova_structures/loot_table/chests/mangrove_witchhud.json"
+hash = "56c9ad5abb4cc058f7594cac0eb60cf620b34df2f40bba17649e7e1b282f46ca"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/data/nova_structures/structure/mangrove_witch_hut/mangrove_witch_hut_brewingstand_1.nbt"
+hash = "54f1257611b6c4ed73820abd050cb709184c99780020a7bd943b25626cc4f4b9"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/data/nova_structures/structure/mangrove_witch_hut/mangrove_witch_hut_brewingstand_2.nbt"
+hash = "6cac2ea38bab29ba2cd2fda813a9dd867017254021fd0031646dcd236ac15c65"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/data/nova_structures/structure/mangrove_witch_hut/mangrove_witch_hut_brewingstand_3.nbt"
+hash = "f553f877028f71c28c088bb0e89a66209b2f88aae4c64d78adb9a8a382052084"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/data/nova_structures/structure/mangrove_witch_hut/mangrove_witch_hut_brewingstand_4.nbt"
+hash = "4e5bf9fdc1ca635092afe73ae841fae64fab9e8f257421023cb789f1012dfcab"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/data/nova_structures/structure/mangrove_witch_hut/mangrove_witch_hut_brewingstand_5.nbt"
+hash = "500c32960014225e14526dccad79c44953cba13dfb7cb4fb8a9b583c5367dea4"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/data/nova_structures/structure/mangrove_witch_hut/mangrove_witch_hut_brewingstand_6.nbt"
+hash = "875beded7d9c2d59abe33487d58e69179af95c1578cbf362b7772cf85079c3e8"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/data/nova_structures/tags/block/support_goes_through.json"
+hash = "4699dce1aff02116f40cd1577c1e9dd1b3988a63411e57b5056ca38a845a8152"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/data/nova_structures/worldgen/template_pool/mangrove_witch_hut_brewing.json"
+hash = "cdc396cd175fa31ca89e36fc355f03884ead9f100829c0ba325c52ad1f6b9dad"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/pack.mcmeta"
+hash = "8219291199d5cd6754a43b29a1de4f9ccf3f0f7e7380d0e0c813a2e975154d8f"
+
+[[files]]
+file = "datapacks/DnT Swamp Hut Overhaul v2.2/pack.png"
+hash = "d5fc7aaff32a86d998a328b4e8658fe259e0dbfe739ffd4b74eb1b21d6347d30"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/credits.txt"
+hash = "6a4a159644e2b49a1ae2c5e0de716c516fe0c523b9c7df9a1165671bf326bfbf"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/minecraft/worldgen/structure/mansion.json"
+hash = "1b54e3dad02b12d54a9f8dd83fbb817d4012a81247b1a09abf520a1f06bd11c2"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/minecraft/worldgen/structure_set/woodland_mansions.json"
+hash = "00e208b4f85200e5b1824ca1aa3b491340aa25865ba4a5f38f0ad62394296693"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/function/jockey/spawn_chicken_jockey.mcfunction"
+hash = "35b495c0dece3b6eca1c466ce3bb5c57e12ecd62dfa0bbd67316757167d059f1"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/item_modifier/loot_modifier.json"
+hash = "a5338d955b09046ec0b16f3a9625b7955c763aae07dc722e474e6078745f932f"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/loot_table/chests/mansion_overhaul/mansion_overhaul_generic.json"
+hash = "a112c2a1c1b3a498af873d340ffba85aed9361c7ec29529f4ae7f8a0c7f35d4a"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/loot_table/chests/mansion_overhaul/mansion_overhaul_library.json"
+hash = "81e0ee22de6bbf5b9621c79112ade5592e0c16873b311a14981a9451dec6de64"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/loot_table/chests/mansion_overhaul/supply.json"
+hash = "c51e1f1eb2aa760314765ed25648fe8de4649ddd645c4e2baa7e9ae81578667a"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/loot_table/chests/mansion_overhaul/supply_beetroot.json"
+hash = "39cbf4222a5b2aa4f492c3d676360302c56c38e9efcf618546b5387e6f2bdbf1"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/loot_table/chests/mansion_overhaul/supply_bundle.json"
+hash = "19eb1922f40b4fa9ce65201dd71750cda0f1f986367ca469c88b42a4c663fa50"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/loot_table/chests/mansion_overhaul/supply_diamonds.json"
+hash = "eb78500833731f82a1ebf0651929e34c7c64a9f03bd97d083a7f529af86e96cd"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/loot_table/chests/mansion_overhaul/supply_emerald.json"
+hash = "81020770b912e9dd6eae43b6eadcfa2f887d55a74f2095711838ebdeba39fb02"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/loot_table/chests/mansion_overhaul/supply_ender_pearl.json"
+hash = "1b1c0650f14aa8827d558c63ec1c6b59210fa1345b28ce5d18a55af1a25a0531"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/loot_table/chests/mansion_overhaul/supply_golden_apple.json"
+hash = "5b5d447554700cde71518484de6c83cd5e72c8013761b5caf1ea46e87839bd43"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/loot_table/chests/mansion_overhaul/supply_iron_ingot.json"
+hash = "bd7ecbf4712cf6d1c535be403a110aa22a574e67a85bd83791de5e23b4e147ec"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/loot_table/chests/mansion_overhaul/supply_meat.json"
+hash = "77fe204658db73656adcad4d084a7595a74a68d8410fc7d002708726ded9283b"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/loot_table/chests/mansion_overhaul/supply_redstone.json"
+hash = "0d394da576fb9ae8ee6f61c2ea1ed888b8b497e70acf9e1b24f24ab9d302fbdd"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/loot_table/chests/mansion_overhaul/supply_resin.json"
+hash = "327b16ef50dc2f653e71064247a1342ef9aea6c5689d30d1012860371dedef04"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/loot_table/chests/mansion_overhaul/supply_wheat.json"
+hash = "5ef7d7abc831de6fca1ba9acd9baf709ef42d615143d701393b71e36291de8ab"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/loot_table/chests/mansion_overhaul/supply_wood.json"
+hash = "7bd5eca1492bdcd887f538ea1ae6708414366f880c169edfbafa6b39b7596145"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/loot_table/pots/mansion_overhaul/pot_mansion_overhaul.json"
+hash = "de7d0d81d2608eba454db348db6343048bea206b5d10515bb3a0b175bcb04282"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/ceeling_lamp.nbt"
+hash = "776793aa81645daa1786a8f3ee241fd8fc08e3bf5d630374db1e66de235165bf"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/ceeling_lamp_fail.nbt"
+hash = "9dec90065ad74669fe01ba576d51be4e3718ae1d674ff2ab25c3f709b4d02874"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/chest_generic_empty.nbt"
+hash = "fe05e6ecd978349a619b71196ee22d61759728ffcf02281ae69cb7512c1b17a1"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/chest_generic_overhaul.nbt"
+hash = "a9aa23645cdd9b826828dac36306f7b73c3d36d4d08a2822245031bd5f30aa2c"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/chest_generic_vanilla.nbt"
+hash = "1b91be1426e94be729192189491673e7a6497760c9464eca580f0bcc6475ac78"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/chest_library_empty.nbt"
+hash = "e35d24202a76e051a95fcad1d82418dbc6bf3e527b21a99cf0b8b4120b5f0769"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/chest_library_overhaul.nbt"
+hash = "517d4a6575ec34f6dc99fa496e20d15b3ee9ff3ec65aa2cbac2d6e651fa53166"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/chest_library_vanilla.nbt"
+hash = "6fe0379b5b77c92145fee04a1ea1006cb97c39108494cf9c9226ed9d8ab63148"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/chest_supply_overhaul.nbt"
+hash = "29aeed382281cd942ee8f22cd83edc8fa32663de43bf194cded083e7f98f9299"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/chest_supply_supply.nbt"
+hash = "90c7e4c15a88f0e8b368d00f5c5b1aed98ae4193382bc347c6478754bded8cac"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/chest_supply_vanilla.nbt"
+hash = "c3ac77ec563e0863b3d71a66d0d1c0070752a8328ac3bcae629cfeabe1ca66ec"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/deco_door_0.nbt"
+hash = "2296f4f7bb8431a8c4c2bc145a2e7acad6dceb6cc514c16999b857d262e1f6ba"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/deco_door_1.nbt"
+hash = "5be93eac0c80945146971fce1304f6753add1aa934fcd14fdb72e5476e01dab5"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/deco_door_2.nbt"
+hash = "936a433037cce174def5a526b6b4db15b3e4fe90f5e9e0a7d7efb01ff91f892b"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/deco_door_3.nbt"
+hash = "4802a176c1016c2d9b02f634201b08ef32920e52deb4d7e6098faaf591a62903"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/deco_door_4.nbt"
+hash = "49d3ef9a5a5202b9d4bc458ce5c967132b86d5a1c4b0c34c13b52f84f30fc6a0"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/deco_door_5.nbt"
+hash = "9ee93b7a83f29d8db0a78684cd6101806d8ea20857cd7169814957645f924381"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/deco_hallway_0.nbt"
+hash = "84eb0d8d2a61fce6fc374d1a58827bdd297075a0078ddf2b998455ed369b5753"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/deco_hallway_1.nbt"
+hash = "7d4ccd3c2ec44a5c519ef9e61751777e86dbbae33447a768eed033736428b587"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/deco_hallway_2.nbt"
+hash = "22f27a1842021d020a1ab3b2493d1117d4480b0fe4e2660bad1b6dc9bb354299"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/deco_hallway_3.nbt"
+hash = "00cc1e313dd7384f52327d5e7858d95e359bff7fd50a9890d1620f7a0d544408"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/deco_hallway_4.nbt"
+hash = "d9ca38aef1607a657e50ec0b662d463de630aeafe39cd52e310588a6caccc6b6"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/deco_hallway_5.nbt"
+hash = "20a530931f7d748db4d801c8adbc392950dfc7134b61a40161def29a391d70f1"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/deco_hallway_6.nbt"
+hash = "45746e03cae05b54115df701c6d3cd5a4c4f94040b9d1bc1820dd7d4861bbad0"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/deco_window_0.nbt"
+hash = "84eb0d8d2a61fce6fc374d1a58827bdd297075a0078ddf2b998455ed369b5753"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/deco_window_1.nbt"
+hash = "13d04c9ebe8fb3c3268514e48de100b32932d1e2a42eb560c0dd07456eff41cd"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/deco_window_2.nbt"
+hash = "56991f204150f78ad6b27c68b24330f31e106afab82320d7f2245788340d57e4"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/deco_window_3.nbt"
+hash = "a4749ef425f5a0a49e545952e2c42ef350a33d9c46ed4382e25165ac33c1e75f"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/mansion_1x1_room_attic.nbt"
+hash = "de9ec88f249039d2a5e991cc368c46867968a4ec4b8d681107bc59d2c1dea1c5"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/mansion_1x1_room_attic_fail.nbt"
+hash = "2ffb835e420f43c31390fab6c1194feb757acea34d3b871af3b785ae49b21d9a"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/mansion_1x2_room_attic.nbt"
+hash = "ae9eec363a33353accf383456e3f36adf3b85368cf57d4b277d6ed37cf96355b"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/mansion_1x2_room_attic_fail.nbt"
+hash = "d27e35724a67342ed14cca2edb87bbf4c40c48eeefe5d1681ef3df1d42e814e3"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/pot_1.nbt"
+hash = "1c7f2afc634f4248d5a21eba9b5ef6ec92ac0ac83b017cdcc76adbbe03f902d8"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/pot_2.nbt"
+hash = "211f64c54def59b82a949a7f50acfcfb2ff534e690c4ffca201aa7e6bef8238b"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/pot_3.nbt"
+hash = "349659e600487b516b6d4bc3ad78c0e280456213883cd72b95d129668307a5f9"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/pot_4.nbt"
+hash = "11b2e2fde7ede861f053e875f6b65c226e49b34241dabd79e2b07e900425b0d4"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/pot_5.nbt"
+hash = "eec184cb2f22f00b2611e2d27b413557e9783a361d1da5caca033c6db880c7b7"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/pot_6.nbt"
+hash = "69cb1d627ecb49f908984277ccefbda5e0af51b9c86b97d4d19b31f6a553669a"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/pot_7.nbt"
+hash = "d3bc980e3fd6f2b63f44e83da9bbf585cd1fbaa4fe67e14a15390c1b1ee7e009"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/pot_8.nbt"
+hash = "e394d6ce001cc9e1a28e93b7d805826da8ef7867bf44ad1dc20870d1dddb648d"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/pot_9.nbt"
+hash = "58377afa24a8599f8b92eaad5d23f909ad195a0f233994477fd3d69f9e885339"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/deco/pot_empty.nbt"
+hash = "232ed7aeaa147dd2e1340beebc6da7e802f29f5027b4ffaa00d58d4f83f5fcb7"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_back.nbt"
+hash = "a389c91b7e051c15e74c49837b3ac9ccfbbe2ff6ae1fbc2fa184be8b54f493ab"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_center.nbt"
+hash = "09472c1c2020db83982b9c8336a100ec432dc06e572a6dc1bc64c49c3b05628e"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_entry.nbt"
+hash = "117e592d4f03fb8a97e48f1a767fc7caa346c86191ac316ee9d85b4b04652046"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_1_aaa.nbt"
+hash = "60c7a33ef751daf29184a2193b9d61ee4a46b2ef0b9e52217a69a52f483a5fc0"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_1_baa.nbt"
+hash = "eef3a05889fbaffffa05a914c6e06b977ce81e3413e436fd878d8125bdda6999"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_1_bba.nbt"
+hash = "c154f48ab8240b5c4bd25ca1395b18150cf02138a30bf8a6a294d3bfd480ad2e"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_1_bba_alt_1.nbt"
+hash = "919221d62edb2aebffe32f965e564d454940796ba113302a81d0abeabbf15944"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_1_bba_alt_2.nbt"
+hash = "708040a95b3e4d90fde6f1441fc81b21cc36f0cc6ac7bf7f178cb3dbe99ed238"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_1_bbb.nbt"
+hash = "13d6e5a4c042e5a278ad43920f13d58108e722999ad697768f03d6b7238ee746"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_1_caa.nbt"
+hash = "1deaa96cad547813b88f8b1282cfba525b8aeb9f359da274b2af63b6cb62ef42"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_1_cba.nbt"
+hash = "320204281d5b259bac26f0453d14a55064321858cc1001e0e24e46a6c1f0ebd4"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_1_cba_alt_1.nbt"
+hash = "7c978f5e0461071570725dcce21c5a150e2b5654d44a0c47d3a7f97dc7bd0c51"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_1_cba_alt_2.nbt"
+hash = "87ee10391b4783cb2c62387fa769fe2d43473ce296041ff9dcee102e818a656c"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_1_cbb.nbt"
+hash = "6ebda2fa916e7d21aae1e48362d1422f16bd4bef56e853cdc38184465df611d6"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_1_ccb.nbt"
+hash = "e635ca8227d9dbf83c09a68b485c87d535c376882816abdcc205bab9cb76471a"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_1_ccb_alt_1.nbt"
+hash = "32d6dbc6888bf66512022939d9dc08e7921e3ac32e5af47a7f5a18080c098e3a"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_1_ccb_alt_2.nbt"
+hash = "eb5e171cb28d09a12672076a11f5e47e3174a1a8ed999f58d8c133b39ae8be6d"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_1_daa.nbt"
+hash = "6089b97b75994f0474ede270810024610c587c54c4b92155074e4f079928f84e"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_1_dcb.nbt"
+hash = "f32f4aea37402706d25acd38fa323499f512fa9f77db5bdb53be3783c6420abe"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_2_aaa.nbt"
+hash = "d9a818e9f2bb59fa98938ee54c1c7a4a6b6dcffa442ea31c2ea692e1319b1101"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_2_baa.nbt"
+hash = "c8ba6bb32b6f55d1aae8c97ca68e2890727174b44a4086a8157f99b3efe0488a"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_2_bba.nbt"
+hash = "04adfc32d641dc624a983d263d3b7828867bc30cb1d5660131b749f84c39e626"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_2_bbb.nbt"
+hash = "a8749983e8c1e3e3891de025313b38f9ee87fe1fb44094421599658870986b44"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_2_caa.nbt"
+hash = "3883e495ee49c86b90ef5b21d619bf2e8ad35c98d7f69b4f2fdffb4c074cc1c7"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_2_cba.nbt"
+hash = "71094a482c0888aa991a7287b4fa799ca3ef42b8e42463c7a1e3035c788d0631"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_2_cbb.nbt"
+hash = "21df833a240f148542910a9b6102e0050813643ef26a56d978269dec14b17925"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_2_ccb.nbt"
+hash = "49ecf35b614bfc862ad7408ce87101c873a6b670712dcb087b07a7f6851535aa"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_2_daa.nbt"
+hash = "c565d93f611f24538bbee90d14fdfba510a6f75af0273a3acfb6972845964fdd"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_2_dcb.nbt"
+hash = "d789fa8ba7558049cadffeaf8bab64cbe41df2d77facdf97ee273a810dd9f541"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_3_aaa.nbt"
+hash = "ad8c19699e767ab8793e9bfd77955fdfd47af905f75445e6133ae6c51e52fa28"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_3_aaa_alt_1.nbt"
+hash = "92ad7083b809b75efe82db695b289209d19de0934a60512d1db1a0c29b59920f"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_3_baa.nbt"
+hash = "8cc626d329b7479529aaf5c353f8daf633d58822d3e308fd5df4f7a76ceee4aa"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_3_baa_alt_1.nbt"
+hash = "ec7dee3958305a9781ab707c5b2c6e818c26485c8fd9c67709385e2dc22bca81"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_3_bba.nbt"
+hash = "bb1ad444bbbec5e873a3933d07b94fae0d4a589c6e23c72945e78ac2e1cdc3ed"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_3_bbb.nbt"
+hash = "e86f1b572ee25a5d1d206bc9951256cbfca6996674a758e829ea5b7f336e1b7e"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_3_caa.nbt"
+hash = "1d25c26f8a5f7a4144c8fd5b150276e8180019c1699838e7e3890834bb3e8e3a"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_3_caa_alt_1.nbt"
+hash = "a7836a5dd41e152cbef77712bbcdd42909564e59a15fcc9e8dcaffb42c9dd532"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_3_cba.nbt"
+hash = "34658936512c8a9f066008eee9ec1b2b523e7c22ce553eb0520988567de075da"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_3_cbb.nbt"
+hash = "1d7b9387a34657b86e2046a3d5c56612c563dac8c3cc215618b5c7193ef3ba46"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_3_ccb.nbt"
+hash = "b78c38fb3e19ac327b4bf3ef466008377b99a8537dad74d5fdee3a0b569d3723"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_3_daa.nbt"
+hash = "b9aa0f9b5cf65cd26f19ac85fbf74220bbabbe1dc673aa82c845e5509a5f611c"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_3_daa_alt_1.nbt"
+hash = "953858ed95475e659fb3dca6ac3da240e299ff049c57b914e1eaa271a11abe97"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_left_wing_3_dcb.nbt"
+hash = "c7e7bc578d3db913dc0502480152550bb012fe5cdc4a054e77abc1cdd980b1ac"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_lobby.nbt"
+hash = "b2997a9dd4641f8038ff29ed2500c4d43cf205524091e88c213e098958be7940"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_overhaul_foundation.nbt"
+hash = "d1b403cdba9231858f6c7eb3005719ce78cbf6dbb307d380871fa3b73dd4f9c8"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_1_aaa.nbt"
+hash = "ea687da4130fee69f59a8c9e7039b5c0d8eedd4f5344f4d3cce01d396ea76b57"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_1_baa.nbt"
+hash = "db0f61fe4f93841ad4136bc16e5e1e4226eaf68bf1380f655112d3fbdc718370"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_1_bba.nbt"
+hash = "17897b07ab182bd80caf7b0804c7c4d273a09478aa61dc0d1514a853db598426"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_1_bba_alt_1.nbt"
+hash = "90cb6ebd1411f64bb5616541b05b1d01e66ee8de9237c9017454dcd8b854ef7f"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_1_bba_alt_2.nbt"
+hash = "9b1ccff10e5f0d45f7ead2c3480e093bc5edbbdca9564f8a0a54a609b6d0af73"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_1_bbb.nbt"
+hash = "cbfab04cfce201c270168fc1ab9a7df6a48df81a88d01ae88e124bc6c2aed5ba"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_1_caa.nbt"
+hash = "2e4b8340f82400b9a729bd1f3c52582b5a930ecd80697f7b516059120f2aee30"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_1_cba.nbt"
+hash = "8d6c5a7bb7bbe563481cc14436c004b784fa79617047868d00dce11d2932f5b6"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_1_cba_alt_1.nbt"
+hash = "2d0f2ab28b666f4fd35a316fad8e01b8c2e4d513d0ea4a5e88bd30eb92e5c56d"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_1_cba_alt_2.nbt"
+hash = "fd0759453cae54b30e13676104141b66cfc574432c4db93671f33641fab9d484"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_1_cbb.nbt"
+hash = "a4ae163e407f3d4fc6203d8c6de3eff37389a81f50ced2a78ed046918db796b6"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_1_ccb.nbt"
+hash = "0102d93dfd2a893a84b9eec832003a77dd1fad80e236d0c80ceb013a33b2d661"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_1_ccb_alt_1.nbt"
+hash = "546b1b21d2a83230149ef1f3648f92de45e71de8286e58826f1ca378aa0f1c4f"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_1_ccb_alt_2.nbt"
+hash = "7a0074ac658dde49cbe1622abbaab60dbeb2f1c22aeb5c4b0394c4a5f56fe455"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_1_daa.nbt"
+hash = "44fa9abeb4e7f5193b526fc48d237df2d36c47310aff8b67dbca1468c183f55c"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_1_dcb.nbt"
+hash = "846b421e82a5435a4a11bcc2670e033403733fd59091585fabc3bd27e811a9b2"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_1_dcb_alt_1.nbt"
+hash = "8fd7766b2f0e5163a759e056c3bc78b4b23a9c79f0b7bfe94fd92bb040326266"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_1_dcb_alt_2.nbt"
+hash = "53f6135cde378ca52fd9a0863bb6102e9a5aba50b3a0d4b63ceee6ab954be886"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_2_aaa.nbt"
+hash = "1afa3550acfd7c2ef45768e26f472e99681f6eb4771942fca9a4f8609fb32ee5"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_2_baa.nbt"
+hash = "948b6cf352cbc9839b028571833721fd0bf4c1f599c1d9e95f8f74a2591c585b"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_2_bba.nbt"
+hash = "2bdcaf8cff6acd175b02b9557c6792545f12bbc7bbe74f3cb83a6a8d33f874ee"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_2_bbb.nbt"
+hash = "f70cede33714ddc235d99a1d23e442ab7136e0688c7d60def348233c0f89c1e5"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_2_caa.nbt"
+hash = "53cbde1d7c6d77c1dd5e32a749956e7468251282cdd58007ca6aa7dc93b1ffdc"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_2_cba.nbt"
+hash = "64cecbc0ae0c32e0b92e767e4b0a05cd001836f13b054d3567bd9d6ffdd9eeb0"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_2_cbb.nbt"
+hash = "dcdf64e0c60ec198a7183c93f1fb102f387b83ab5f635c369a467c092dd1e604"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_2_ccb.nbt"
+hash = "0b365f4ca86e04c212b454ef1da0cdcf2656f293568d21784d1187801edfac8a"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_2_daa.nbt"
+hash = "5b3227ea524df68b80af31c9e6aa4d5058f8ed4c7be09471e1d74352cd4f7cf1"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_2_dcb.nbt"
+hash = "52dedc5da2790af979a9d964d5efb58e27f5c51579763909c5624008fcea34ba"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_3_aaa.nbt"
+hash = "a65b2135fdba6821ffdb370659b397e9b8372b0ba49b7e2796a0d722e2c6cf86"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_3_aaa_alt_1.nbt"
+hash = "e0f09489b5990558f8c0d74de235e1e737f9efe82015a61dd290cd9f92e1d296"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_3_baa.nbt"
+hash = "bc1e95165d0559249cdc26e53b5cbd3ae42d55967f7f487db598c44cf24a9e92"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_3_baa_alt_1.nbt"
+hash = "bff57750bfd403e5c3f2fb3859d21255bf242673f4f70d2e177fd9c94c7aa1ac"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_3_bba.nbt"
+hash = "7f6e1536b50f7c5b76079da5848bc08f1b9781b730b436175aac69e5ea99d2bd"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_3_bbb.nbt"
+hash = "72e1eab93280f99112845f783c0efa1660d066c95adfa4fc9d9b633e1ce62335"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_3_caa.nbt"
+hash = "6e878b5f398fa651094f492a462c38de61a7157db7393330177e5c4105e03a21"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_3_caa_alt_1.nbt"
+hash = "5d716c7b73134d93178db2c3a5905fe09f49fcc5fb685e4688f6697eb80ede2c"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_3_cba.nbt"
+hash = "93ed6386396f28e66433b40aa71bc5e04b813a392b3afd198b7b7f4fde136942"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_3_cbb.nbt"
+hash = "38507707a771cd7bd4ac9215ca62168d8ddae7c919de259507edfef47a8ddf43"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_3_ccb.nbt"
+hash = "e795c4a5999b8a853772f414f52c2c5c5e6fa99722dea9f480382f07b2ed3009"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_3_daa.nbt"
+hash = "e02e07b0d95945f1ae63ea32cfed059834b073878bfc71217d6f041786cec7d8"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_3_daa_alt_1.nbt"
+hash = "d2c2272817600bd6727e4995a0976fff3dd5d14650dd354abea4271435fd135d"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/house/mansion_right_wing_3_dcb.nbt"
+hash = "48c1f68a16171b1152e27b2a3f351a5825384c31eb3a3bc6f6f96125b86d7805"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/mob/chicken_jockey.nbt"
+hash = "e7a2cfaf573f9d6740821d07719cb3a102f98111cf67b816324f226dd5b5941a"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/mob/mob_allay.nbt"
+hash = "21237cb63ad629f98b9211d0a3f5210223e8a0f83a4b24dcdf118d7407acc694"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/mob/mob_allay_fail.nbt"
+hash = "699795eda78bf7d8c5f2d4e890025ccf9311a4b8e7b184ee6a854ae7764f6f51"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/mob/mob_enderman.nbt"
+hash = "872e5b438d4f0cc1dfb502e6a099f5c3b8052c3cfff04395201534ba88eec1fb"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/mob/mob_enderman_fail.nbt"
+hash = "28ecb9dccd2d38f92c97ee5bea9a60ba8d0305b3cbb26f21df60addb9d7f381e"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/mob/mob_evoker.nbt"
+hash = "5230b5460727459af0b34822155fdb547df1540865f1467819fc807879f96194"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/mob/mob_evoker_fail.nbt"
+hash = "03931a018b5858b6f51164fe695595a3d245d98f5ee7718f312293fec69dfb23"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/mob/mob_iron_golem.nbt"
+hash = "6dc8df8e89200553911c8188fe350fd56d8c20cb6e52375069eda8e2e1e8088c"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/mob/mob_iron_golem_fail.nbt"
+hash = "e01962bd3d431e80ff0253ac6009f84a34af31f2c9c14855a6e54434ba737f66"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/mob/mob_pillager.nbt"
+hash = "b8130d5dae4353ffaeb6ac22cbef9c9d1edf10d92538c3cb74c3053e1b76673e"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/mob/mob_pillager_fail.nbt"
+hash = "c69cf0f18d81582e24139c38e41c4beae2c6a5075cfcc193e37b3e2681d58945"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/mob/mob_ravager.nbt"
+hash = "2ced2487cb0342720eb1f6b26ced388d8122dc49d6411501b5b51854c0a4f8dd"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/mob/mob_ravager_fail.nbt"
+hash = "f678d5c3384a384ecdf396c4544d74717706e26044c5d5f55eff0b7750572b5e"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/mob/mob_villager.nbt"
+hash = "edf042ab9013234787c174fdc497f1c03edc9b1ae3c995c1b3b3bf36b9608021"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/mob/mob_villager_fail.nbt"
+hash = "007bec8d6191c927d98043c4d8c6361521d08d11a9988faa8fef7ff6c8d28a65"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/mob/mob_vindicator.nbt"
+hash = "e451d8e89011cc049394a72a2c5494854a7f3b7e9b81d79a5e1f3518bea9f4f3"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/mob/mob_vindicator_fail.nbt"
+hash = "5905a1fbddf97a3a362cb7c63094ea2bda7337a9a92a1dd0c5f9678947be792c"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/mob/mob_witch.nbt"
+hash = "3719fa9a7dd9a3f2e18174fb4934c8c8861b9db2f825af32f20f683f2fb56f77"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/mob/mob_witch_fail.nbt"
+hash = "1570a2da156f2c25b6d450526567a63006b983ad23ab3e95ae59d2c7d446981c"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/path/mansion_path_1.nbt"
+hash = "6ed4a5b68bb9a23c3f773b5a8455bc00c70196a51b8a7b11031cff841b8df5cc"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/path/mansion_path_2.nbt"
+hash = "a94811ab23b26750766f42e70c022cc0cfcd4d7a552a7eae1b7c1eae9a311ec5"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/path/mansion_path_3.nbt"
+hash = "726801f8d88b1dd8f5aed968c6f177cc54e69c0a47212dbf226c11eb91fe3360"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/path/mansion_path_4.nbt"
+hash = "20d612133a835fc1daa0381d143c0f2f4fd1c199f91ce65ea36ddb638577cdb7"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/path/mansion_path_5.nbt"
+hash = "a158e46f466162bd4345826d4aedbbc70ee46f035472bdb15d2d6ddbe0c6c8ca"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/path/mansion_path_empty.nbt"
+hash = "bbc4d88a3941177768a9838902b28edb9918e96734fe2521b7e832eed60b1763"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/path/mansion_path_fallback.nbt"
+hash = "7f444f9e2461487dcb22b962fb5902b051e7a0a09bd312c89b0c4354c429440b"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/path/mansion_path_tower.nbt"
+hash = "ad672a9af507bd326cc54098607271989daca3a9fbc6a18fa5c0d09b6db1819f"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/path/mansion_path_tower_small.nbt"
+hash = "1d0aab84779f0015b75d30fe54e2724d2fb27694af0b78f7c5a8f58f6a80a76a"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room1.nbt"
+hash = "655248a60aff5d50088a6219d3878e348e2642c366d94538496dd339243aa2cd"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room10.nbt"
+hash = "1a9e04d2524744825a3444cd2948453fb3a7217bd3989c1a5f1e5795699ef354"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room11.nbt"
+hash = "b6726171566f17c838f5f7a62648f4c346fe8f9a8116c934e90ea20201a23566"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room12.nbt"
+hash = "0db3b80b3e8413ac3c3333190d797abffbccec1cd1e7828c333445ab17ef545e"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room13.nbt"
+hash = "ade1681a5ff18b00a473c03afd8d52b20daacecc01147569e18ff343c0a76a4a"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room14.nbt"
+hash = "d6e2a954cff1039cad883cfaa6c5c0bfb73271b4e5eef860a1967bb719e55f0f"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room15.nbt"
+hash = "ddcc3a42b22892e4d516446c01b9f55f3549d500d72fe04b2fd607d9d2a372ca"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room16.nbt"
+hash = "61eff274b40ab0ca9826b8793aa9deb5206be8cd76787ff68567b7a169f13531"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room17.nbt"
+hash = "a8ba70cb510b5a98ff484bae21b9f92e3af7aace5b2785e83e6713201acbcfbc"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room18.nbt"
+hash = "0f00a072fa1c0afacc8a6566d0dbdcd0294673b0bdd9886f6e41cd2981281e5e"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room19.nbt"
+hash = "ab582bc2dc3e0f0c7ec693201514c7e668603b6535e9480d2bc89cddba7d54f0"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room2.nbt"
+hash = "6dedde551f7b7a475ef855348374fcd0998b0a4cbb237048e6b47685078c39fa"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room20.nbt"
+hash = "82f0ebeef69d4b7f12a396523fa4e5f1f211c67df30160d99dd3cc38e39141af"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room21.nbt"
+hash = "6ac89f186ac8cc1f34aff1772113f8834d5df49c9f229baccee690bca8e6f5c8"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room22.nbt"
+hash = "da8520cda4971a7cc9c9a0cd6c4aabe6f3313904e1e1b84714a859c3fe1ff475"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room23.nbt"
+hash = "31b595e54bd66b457ecdd64f96884cfa219e7f63bdf16d8931cad1ca0e2fdf65"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room24.nbt"
+hash = "8c64b3ee79c2ecfdb1d76e343cf60f5cbfdc2a69566fb1f6677047d9a334407b"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room25.nbt"
+hash = "f0f42a5ee90722050d69777b6eafb377a2538506199ffc298fcf16c960b80289"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room26.nbt"
+hash = "b7ea249e908135ad23c7675a76bcf2530e17b6d84eb5fa61662740efe8804932"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room27.nbt"
+hash = "78d1987f6513801a30389270f62a8bc7a53f45a05ba629d905fdb8c658c1b998"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room28.nbt"
+hash = "e122dc15bf33ff2ca36f709dcf7186b73a2f64225413aab6e9e7ddcaa5b57891"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room29.nbt"
+hash = "f8f5b8f75dfc8bba48cef4ea191d08a56941edb8f1d7d23fcb7dcccb0ac6171c"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room3.nbt"
+hash = "8dfa58584e2b683718e6d4b0b4b3daae33829ec0e8957f4be4d11c69bff6bad6"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room30.nbt"
+hash = "83471bee511e7a6aa6e3b23edefce2f4e95010daa420c1a7f1661e00649caf53"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room31.nbt"
+hash = "6504c15f223e2d7c1e14ffd471b62f47490d43b24dc72366722c92706cfe6def"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room32.nbt"
+hash = "4aa6dc1d0bec958f0329b388b14e4b5052a31e1926e8c24d0429281e841a5114"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room4.nbt"
+hash = "030efcb3b67a0c6891b31c1be69eb25a2a3be12cef4f509b8c2c8c3ffa01e0a0"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room5.nbt"
+hash = "5855ab1fa5fab6c60807bb48be39587993d449dc4c605b25bf294b05d281fc4c"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room6.nbt"
+hash = "42fede477dc8c2aba555c0accb6a72adba796bcde9c5b674f2734d2ed2cd9abf"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room7.nbt"
+hash = "bd3544741eccb837fd4258f1b2194e4294d8c57feef1488d8fec4b182d20fc07"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room8.nbt"
+hash = "3c51cbc27bdacf5e4f29ad4dff29182d25a828ef93afda2d1146d2ff7d059ac2"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room9.nbt"
+hash = "7d5891f34b776a83c3125e2cedc0f15841c103bf47388550d96ac7e822f02317"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement.nbt"
+hash = "a1aa22250587d80afc2261258360ccccf940624a94305623ff9d8000380a0707"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement1.nbt"
+hash = "52e51725d1da4d2b22836bd0b734f267202f8a9c7da26bfa7393d0bafb9fc431"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement10.nbt"
+hash = "7908674124a2fa15af47e0e60b086bc92bb0a2aafcaeda7fe42d3aeaba5f9dff"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement11.nbt"
+hash = "5f4e212a545463acdda793f2dcbc43815ea6cebe4d280901377435fa4910aa8f"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement12.nbt"
+hash = "bd0428401004983ab8e667a0b9cded9e932b5a93f28a20a1929372e753887187"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement13.nbt"
+hash = "9b9c4f7f9cc3320a6e55db33bdc8f5ff309ced04569ff01267174b7822f73bcd"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement14.nbt"
+hash = "29d93f4d360680420d1963facc3ecf845b19af2999c4b956e3454a8f5357d239"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement15.nbt"
+hash = "59bc1c6cfc92350d9c6c6cfe6209dd0d56c239c35d09e2661c11bd8a7dbaff5d"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement16.nbt"
+hash = "e8fec797ec6effee941e4e2c3fc57cf249cf3d0814bd6a145215ac949e2ba7a1"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement17.nbt"
+hash = "5b4ff1ba257ad6b8b67d29184d5f63dfd19f97af486dc0c40e190b050b9b7ee4"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement18.nbt"
+hash = "2f72dfb767eebcf7bcee02925c03b81eb615c0094c0a2a1c264109cc24ce1853"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement19.nbt"
+hash = "0e29fd5f14ba42d708c02ffaeeb7b4175244c82ec8a1fcd15de1367b2c0d557e"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement2.nbt"
+hash = "3987aebe20ceed18ea90992f417bb75f7f5ed693b52c29630fe256064fbe9ad8"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement20.nbt"
+hash = "1b0a47ab688a8fbb95dce425011862a95e4dde0a9be2fd57669a41a83f5a6897"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement21.nbt"
+hash = "ca1bec3949255f4d77ba8447bd3cad6e5a1fa6e8c4240fe8520446f71a5ac776"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement22.nbt"
+hash = "2bc28e7cc4289f1cce84de382b62873db3c0d9d1c0943d763d69d059e39f153c"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement23.nbt"
+hash = "454bf38983278cbe14ca32b9e272d656d895acc7394e24ee6bf95f699f34b5d4"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement24.nbt"
+hash = "6a0ae310acf68e5c3db4bd93fa2aa7039bc2676a4a8a9f40b65305aa6dbc1bd9"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement25.nbt"
+hash = "08689352737dd75fdc7274467f2664fd7883bb7de2c38fa7345534d7fa462014"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement26.nbt"
+hash = "52d7433538c3d197f4c66522e31115058d06adeb35d3c180cd5a496ca4538c4c"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement27.nbt"
+hash = "c6d4066a8622206f06fb2c147721237229e42e8077a5c49fa0e24adae8d0b8de"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement28.nbt"
+hash = "c99c51023a85125d2dfdfc9c294c85dec35acb8038ef12c722e3f6ac65ba648b"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement29.nbt"
+hash = "8168af31e4abce58716c43a3c7b39d22d3c0150c8ba8cb1217c77474525f43ea"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement3.nbt"
+hash = "031b14f82258c3d7ec9ca9297f15f36465a76c850a056bc01f7df9e8bf0213b1"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement30.nbt"
+hash = "bc26fad0a2d7a5f13591cc9c986e24926580e45522406bdd8cfa0b001a3d894c"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement4.nbt"
+hash = "5bfea7c74e18701dbd2cb6ac3eb7440eff14c8981b2c969025b177973fd49421"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement5.nbt"
+hash = "baa8f0e9f136b2fe63055317b5915ec9da616f93d937cea730eb97d96478cc4c"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement6.nbt"
+hash = "207fdfce62fac83e3610045cf4488c3e39f15eda450c5c110536160c2f5c3a58"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement7.nbt"
+hash = "c3ea3f803113c9443f16324ffa3151bc8e73e87ce5bb478197872fd8c23291e9"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement8.nbt"
+hash = "e4cf88796f24b8b7a79737827de4fbc3a95d79b07adedfb42e7dfdb3a231edf2"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_room_basement9.nbt"
+hash = "c9f4a778f782d5fbb5d717f1f9d5c7ed34ad75b14c399efc7437d0882295803d"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_secret_room.nbt"
+hash = "94cf03ea633347694410389b3e078aa2fd42979aa4d7c5bccd4169f200652075"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_secret_room1.nbt"
+hash = "29ed69ad5e33f4fba3c81023d496d963bdbcba0c2008882f9946be6c6ab8c21e"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_secret_room10.nbt"
+hash = "f65fca5efe200d245246a7aab3af2076d57a7ec7f8ed9fa1e118cfdcea4c81eb"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_secret_room11.nbt"
+hash = "af1ceca7375913ad833fded3e1b08230214467eefabdcd3abc998007c1559f28"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_secret_room12.nbt"
+hash = "682714a33e83c7dd4387dbbcb2064891e3ec9870c96852a26c2013066d7d5768"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_secret_room13.nbt"
+hash = "cc6407bacb6cbe4cd6ed3407166464a1c2719109502bf4612e6429bdbdf578ab"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_secret_room14.nbt"
+hash = "6a04fb0f70d7b1c7f2d7f42790c99908120ca2735dadfa694d9cd13d76331d26"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_secret_room15.nbt"
+hash = "7b5332bab7e597231ce01cf9aef7aa8da5976dee98c1cc9046a7248bb8c914a3"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_secret_room16.nbt"
+hash = "406932f2058240899972c462e672f68c349c25fda3fc03b541d88b04fa0e36ab"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_secret_room17.nbt"
+hash = "2e11aaa06eb30757fa81a2ebcaee7263d55748461ddbd447abccc63b2cd95fea"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_secret_room2.nbt"
+hash = "bdcf67a7b3e47029a6e0f66df2c1dcc1cfa98f14519b3d7935d94c3e5364d0bc"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_secret_room3.nbt"
+hash = "1a60ba9226ce0b1a15aff74b969fc259e33263242698954d38ad45222ce0b3ee"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_secret_room4.nbt"
+hash = "fa137b163b58d891e548401b167b3630b691171fd258db7775ee64c93eaae278"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_secret_room5.nbt"
+hash = "c460424edb5a2ff221a98917d479005ac4e0dca984de3302d0fc9f7537c805d7"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_secret_room6.nbt"
+hash = "9f5b28453f03b064a544cce850fb2c3cb83a5fd18f75773eca32d569c78844c7"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_secret_room7.nbt"
+hash = "edc9289f6777231e55fcb54cfc4cacc6bed73033616cb92a09c7150e27cfa72f"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_secret_room8.nbt"
+hash = "04d410ab0225345db4d94cd079be28106191201b9097d4a8930e31bf74f12cde"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x1_secret_room9.nbt"
+hash = "9c8ddcdd3ae0fb80e8db29f32263a5d878f07772f10a791d294447e9f49e69c4"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room1.nbt"
+hash = "2d32de805196f0fb54cc1fae93e224c95e4c71a8eb7f4f39912256a3e690912c"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room10.nbt"
+hash = "66e2865e5d903de8d00bbbd11468caf3347794b8cd9398bc6e2124e134567f7e"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room11.nbt"
+hash = "8d95ad1d6bb896799dc3a52d407ac8a7fbb836271a739eb5c7cb3b2c463f7870"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room12.nbt"
+hash = "1befbda136dcaa0dc2efea48ab02f8b8bdf454b764661b507ed626775f02b3e7"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room13.nbt"
+hash = "b5542a0f9467bbc02e961480f8a0f5bc77d25fe92fda1a44be95dcb645ff7af3"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room14.nbt"
+hash = "410360504071a482ff8e3c1b953797ca82d025d4eb4d513018caa9301cccd6bf"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room15.nbt"
+hash = "90c34b8558ee1a9999d28a0743717c74ad41707fdfd8bbcfd795f3e1d07eadc8"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room16.nbt"
+hash = "7796d37ef2e5c2f82855c06ffe5c6caeff4d4f6f2bc892b4b648986d52b7cca6"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room17.nbt"
+hash = "6410a15c4d67d7288dcf4b67ee5a6fee395dd87a8edbe694a07f24cbdd78efa5"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room18.nbt"
+hash = "ba26d269087bc893579026b348d6af7010d4ccd963d4660bf5d6421f40a61f4b"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room19.nbt"
+hash = "5d00ae4f7fdebdc188f97e3d9e4da693f1be8402fed462dff7cdb894f919bafa"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room2.nbt"
+hash = "b05b944361fbb756df8b9e6f297bef3c5465b952683dc851c16b09db6c6165db"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room3.nbt"
+hash = "287f5962f7d9c9bb59710920cc747a09c8b6393242a85ced65d0f4c64fb0e43f"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room4.nbt"
+hash = "6daa2de4c8e26912743da9e0d6b8883bcc98d2064cb510c32889cf36ba586796"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room5.nbt"
+hash = "d7275dc58ae2dfb817b9c1810b6cfb7a455d8f828e0c4f5927c937301044e20c"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room6.nbt"
+hash = "4e6aa36ef51a8113a174f7d1589884fc70a93f7a00eca6a4327af2e0e4fb419f"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room7.nbt"
+hash = "8c04851facfb959be727865f49c17d092f68af7eb1f129320eebe97671600efa"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room8.nbt"
+hash = "9c579941d2963bee272f939b8b063a9949143ee3eea2398cb7039025a699fe52"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room9.nbt"
+hash = "44ed6129d7ff88eb0f2e72f710fe2fd7898cedc148c8e7e53ddc1c152728b608"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room_basement1.nbt"
+hash = "15df23124d0259c1582a7d3992afb5409549dba4b53e28c07460c14ca2c99a4e"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room_basement10.nbt"
+hash = "3496b14ebead6680cc4f0c56206b969aea62e210973f0e30c8068829e1a2b543"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room_basement11.nbt"
+hash = "4f380a91b7b71aaec6d759e044521937581cfe19933b7a2f1a0fcbd3b1ff810c"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room_basement12.nbt"
+hash = "e6961c27a38ae5871ea3f1f29680c1ca16b73ca8e7ce263aa84af7b8885ee511"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room_basement13.nbt"
+hash = "b538b6e54744ca6a21a778c7c3d27c4172f6ae947540ea6986ceacdf97d93b71"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room_basement14.nbt"
+hash = "c41489bc2892a20eeac040c1f95419a24c601e6557add04f0b87567ec9fc5b00"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room_basement15.nbt"
+hash = "55e522ed700302c9c9f2c12eb33bafccc6509e877d64c633c1a24488fd368f2b"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room_basement16.nbt"
+hash = "6c6ec5f6ba1057643455e17126e9c7c3b9d79c49f709f09abe21e040a15fd22d"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room_basement17.nbt"
+hash = "be3482a5e76a79830d4fcb93863fddb08419df0cc3ad4965814e087c4fb8278e"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room_basement18.nbt"
+hash = "303fbb752d2b9cddecaa4e436738153ad63af3c1058774c98124a578970b7d62"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room_basement19.nbt"
+hash = "29eaaaa2ba7f19986985be6424cdc4cd605f13a4e9ce4400dda8c505799c2441"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room_basement2.nbt"
+hash = "446c159779d8d116c6a8b341b95e954fbc871680521cfc33800bdcc8aba07ccd"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room_basement3.nbt"
+hash = "7e7fa1e9c0024b8ef4a96217fb7ff7016988ad216aac903c453054f129ade1b1"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room_basement4.nbt"
+hash = "d35fef6ac6fed780133446d35cbbc5062b3b96a0260e862a41b89d32f02498c0"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room_basement5.nbt"
+hash = "6cb0597fada9f215e0d8c65a2e0a992edcb18d29562ffc7ba9f8bbe9ad105e29"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room_basement6.nbt"
+hash = "f72111581bf6e5f549fbcf993acb46d4914f228ab1e80bb19e064d3725ed2ddc"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room_basement7.nbt"
+hash = "da7f4b0a8c6618f3a2d00c6206eb25d0a2ea356fde8f2773a29afb32c231bf23"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room_basement8.nbt"
+hash = "547f2edf0542398a01d9f175ea692e14a9cd9719e990872c2e4cc96befa4d30d"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_1x2_room_basement9.nbt"
+hash = "6fd913f254c67a073c0d589b0bd07761b848ba1b6857e87a1187ec62115a840b"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_3x3_basement_room_1.nbt"
+hash = "c27c56eb94e6e3bb10e2b42739f738f5d4dcb4be5306c57038b955f1c5d27b15"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_3x3_basement_room_2.nbt"
+hash = "3e94e883a325d0f7306520d1bc17486a1d93cc3fdf3e4e698b1ae1785d0eca66"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_3x3_basement_room_3.nbt"
+hash = "032dba90cf9829882a614e1b0164adf10f9996528643b9079a254bc3dce13f37"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_3x3_basement_room_4.nbt"
+hash = "648cb5b070f4a893ad7d6af4527f187a64cd560d63b4eb3804ef7b665216beb5"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_3x3_basement_room_5.nbt"
+hash = "89a3382d630be7aeff8827ba4c2ed2cfcfdcf17b5e9a3ef03dc39db759a8e906"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_3x3_basement_room_6.nbt"
+hash = "6a7a8e0c371bf1d38464cf358e5b0472b6851ea4c90abcb5e630ed7c8d63e25c"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_3x3_basement_room_7.nbt"
+hash = "7ca7f02569cd4b1afdc6bc5795f3f26b270f17450be776302dc4cff7360145b3"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_3x3_basement_room_8.nbt"
+hash = "7e8fa96d554112c4163c07bcb036140f900e7d3e2076c9a5b71137767a88d3f9"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_3x3_basement_room_9.nbt"
+hash = "6a9769a9bb08ce4f91e8144f518733ac435419e8f50ce1e617ed256a7e31ef1a"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_3x3_room1.nbt"
+hash = "5f67e70bab69bfa14ceea6a8b2fa5727f48caa34c7cd9fb71c53d85a8d3ba2d9"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_3x3_room2.nbt"
+hash = "5a4fef7ba15b7bf7984212ccfd885a28aecc4a9248f283d471aec750b75bd6da"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_3x3_room3.nbt"
+hash = "d5d6acb5fe128616f5a45327561f6797c521d3ef12abb0bacdbe757664822622"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_3x3_room4.nbt"
+hash = "82bdfb60426a084ee30b40640d554e5573eff057e848cd441622a14dff55f6a2"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_3x3_room5.nbt"
+hash = "8fb1f15d05f88cfe62aee87356c4d8b553cdffe0af482c213e039aafe1735376"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_3x3_room6.nbt"
+hash = "73c76f84153fbf056b0b2e28569dac0a2d30b081f49386783b17c06ac57dcd23"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_3x3_room7.nbt"
+hash = "68b6c4702f8faac692b27e55048606add8634db1034352b73295caa161105315"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_3x3_room8.nbt"
+hash = "c1e9ebc6ee4c9fbd1d5be9f91f255aef28bf2e1e30790a84a50fbcaa3110b616"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_3x3_room9.nbt"
+hash = "2359b42bf85e8a5a8e991dfb78829946369cf6d723cb82831619cfbab73fb0a9"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room1.nbt"
+hash = "0da9b1986cda8e8352cf678ad20573c39289359e2acfbc3fd7319d078d1c64d9"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room10.nbt"
+hash = "516b8dcd797925a263d46bf341c240a785e8129a1002d366f3802a59c4c1b641"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room11.nbt"
+hash = "173696d11f8a5665f3b6edcee2aa4c7dab5c6cc7f18a032a17e2039b701d87df"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room12.nbt"
+hash = "525aca08c2e84cd604192e71b4166a459d03ed8df71b221965683518107cffdd"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room13.nbt"
+hash = "b7b12741664668e3dad668401f3efba6fceed84206742ef4dbe65be0793c141f"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room14.nbt"
+hash = "58a709fa9eadf485f1b95d269b260d86fcdfa4cea1453b7e02590c3a056c4dcc"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room15.nbt"
+hash = "afdaa3e96972bbdab114d62bb5c2d17c442bd65e395672244ecede292747d99d"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room16.nbt"
+hash = "3143e080129a25ffea54050aa63714f42c5553f0751542918685d7f4058b0107"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room17.nbt"
+hash = "fbd87c80c6dab2ec6947329aa22c1f045eac6421517f6951b47688b2c9924e6e"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room18.nbt"
+hash = "48a858d651ef28c7ed8d4e6a57c3238213e9fc8fda276336ef4667f9e54ff658"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room19.nbt"
+hash = "b0af4d461ed28fadfc86d875e356f54bd711471816fd06b1a6c86bdf3ced8ab4"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room2.nbt"
+hash = "448566e2766e8803f8a146e796cc2ca7e05ecd2074abd531a2fdea88b3a6c383"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room20.nbt"
+hash = "3ed8e402996849297e7af8f7c8f9af30f6407dc7e61bb29a9d0cec7df1d8080b"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room21.nbt"
+hash = "066e849822f17b762c1c2c3566f675cf136536fd003197348fb57f11178b978a"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room22.nbt"
+hash = "515bf73f31e7b48ae55c838ec9ea49271452a516ff826d5127d194365c5a2345"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room23.nbt"
+hash = "add9fcdc7a23834311abf9a285f409bde93ebb3384ca0dcf51a16624815bf25d"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room24.nbt"
+hash = "61e1f987310b4fd95f9840e8a1973a6c8ec480378845fcbfb178c95e9e4a25b7"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room25.nbt"
+hash = "7341302318e735bc39b22e0d41c51c4b3a9cd1097b941e12bffe23bcf925056b"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room26.nbt"
+hash = "1d972415d4e3cda2174778c57e58cd1e352a5a7b6d987ebfdfc0f72f5b3b9def"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room27.nbt"
+hash = "5aa4176a58a781cbad3bbae46c74283e291361cae4da6627e55f4e5bd08d3652"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room28.nbt"
+hash = "aa481d145f49916af5292acdcc8d66943babe26ff6301bd58ff6781417c62525"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room29.nbt"
+hash = "8d4d5f3d4a58edf6b275d417d8ad899b266613af7debbcd463750e51f8156e4a"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room3.nbt"
+hash = "3c35e4f4ea5be4c6df4b32066816228af8a7767bb58b0144879f574d4bc2247e"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room30.nbt"
+hash = "3564d4907391ab1acc278b7a437dc2284ef95b4cd9186b95a2c369b918104670"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room4.nbt"
+hash = "9985833d5409fa065563387b5f287df0cf7833dc92efa4a671377b7c113f619f"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room5.nbt"
+hash = "270149494f9f079565c50bd4d05fefe8c2e2bbcb3303cfb1d4d46f4952826c09"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room6.nbt"
+hash = "2ca19a5e7dd56afec3fd15c6c6aca389e830ecd893f1bc897080ae07737260da"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room7.nbt"
+hash = "b38d39ddc970c3467ddb1fda8a7feb8f16a1df0d4b4e233bbd9304ccbe5890a6"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room8.nbt"
+hash = "ad81eae69e99f28072de1ec68510b567682141507765c909873f66e02d6ea6b5"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_large_room9.nbt"
+hash = "06b53252f030bd9353dcf29e302dc84b37cee791269821bce21f862a2a8d82ba"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_long_room.nbt"
+hash = "175529ab56c78ec33d093bfa4e135186703b9b298a292913b44bd8e71d1773aa"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_long_room1.nbt"
+hash = "8945e4d8fc715264a71e31f1385c2ae852672875b1364a4c744f0f57971d2a68"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_long_room10.nbt"
+hash = "23b00c9be34a485102e095c19cb55054d88d602045351e535b4456f62352c043"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_long_room11.nbt"
+hash = "94acf342e713ce2b65d557de5d8c7407a647cf7b1c88f9124d4cf7e3386bba9f"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_long_room12.nbt"
+hash = "38c1607219c191ab73458e03b23eaa67a165c3e568482c5e18b55ccb957a99e1"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_long_room13.nbt"
+hash = "52072e1553912dd4c40247928fed0cd2df7c7618421a1e179c1ec1a737d844da"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_long_room14.nbt"
+hash = "c821b3dea192d98cbffdbe90089e534070a78fd59346772d19cabe3beaf0bc32"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_long_room15.nbt"
+hash = "10ec83b1fc44ee252c8191ba0ada21e83496cb2a5afe0ae0afe25060c849b2ef"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_long_room16.nbt"
+hash = "eba1b24980127fd1ee7d61dfb7446cb27d4021b219ae8bdfc7e2b4bd40f0b472"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_long_room2.nbt"
+hash = "4ae00b2b4054496ea374e9ffedb1a64ae0df8263095325e1b07f7b9253ff7e48"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_long_room3.nbt"
+hash = "4539fa99312c4aa59097d3761c917e3c1faab2e8fa57cc1c336c201b5611726c"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_long_room4.nbt"
+hash = "fa4fa329a209eb007a2f3a2fdff7e3ebc935989325cb74c92d23b02d1c5ba64e"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_long_room5.nbt"
+hash = "321559f922b2ea7cab03a88f6b417f12cd4dbbd2b9c136a97db8e462fbba3022"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_long_room6.nbt"
+hash = "7167097344634e12cd981f44568d999481750fa8789c966fdcfea6460fdb7bf5"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_long_room7.nbt"
+hash = "c820a130ec8b413670c7e2adeed505704a00c0358281eb446ea0eaa2030e1ca9"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_long_room8.nbt"
+hash = "5551aed33225f0bad0f07448f7cdd916d210ae6732ef063901962ff3afc9face"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/structure/mansion_overhaul/rooms/mansion_long_room9.nbt"
+hash = "a24880d010b933182e835f27b8d316847bafab5b4fcf154615675293bccc3fc9"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/tags/block/support_goes_through.json"
+hash = "4699dce1aff02116f40cd1577c1e9dd1b3988a63411e57b5056ca38a845a8152"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/tags/instrument/illager_horn.json"
+hash = "6f693ea8908ba729e03c67552ffb549fee35081f442624772426a526834ed487"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/configured_feature/mansion_cobblestone_base.json"
+hash = "ca273b7315f79d47bed4e397728f4201de17bc54fde85904ca93df15b8efdab6"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/configured_feature/mansion_dark_oak_log_base.json"
+hash = "8343d6ab15b2dd10b3b79133a191fbcb20bf6df052f57e0694dd1ae30a0f93d6"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/configured_feature/mansion_outpost_base.json"
+hash = "fb8a4d412ddaf6944bcc00a1569a4c2253c314c07f78633cac11e1c97dc15669"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/placed_feature/mansion_cobblestone_base.json"
+hash = "296ddcc56c13e40a30c7681ca5ef80bf929cdc33ed03b20b1f521b79791ca1e6"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/placed_feature/mansion_dark_oak_log_base.json"
+hash = "0b2e4e88e1c1baed353b6f5b07060c06ef2b20154ec24b59ee861bcde3d772e1"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/placed_feature/mansion_outpost_base.json"
+hash = "2f515d98642c1f1ae97a4bd0fc425d83df8842172c2f97a5c13219d06e7b6b95"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/processor_list/mansion_overhaul_generic_degradation.json"
+hash = "8eddfdeb6747bc947356d03108e887183b639faf9ef93fe2f227eecb7deb904a"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/template_pool/mansion_overhaul/deco.json"
+hash = "4a92dc63ac2b51b0f34da4e63eb49a3e4afd0949aa3cd31fdad1191322faef69"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/template_pool/mansion_overhaul/foundation.json"
+hash = "a8f4e2672799c9b5bcda391250d7d99a2d189770d4e0d1a105c795ba749670bc"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/template_pool/mansion_overhaul/foundation_log.json"
+hash = "a820807bec08b234a03fa6bba6cf4495be0cf2a9ffc52b528548e6e38cae43c9"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/template_pool/mansion_overhaul/foundation_outpost.json"
+hash = "9fa9347ca54b07088d02cf2902224597e049361fa73f5bfbc4d243a26805a0b4"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/template_pool/mansion_overhaul/house_shell.json"
+hash = "64fe3d3f0a5fd6fc61b208959633bf0e7a6f3ba28ab0f4059deb9ac230753bea"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/template_pool/mansion_overhaul/house_shell_no_alt.json"
+hash = "c7a7c955eaf3400cae2094bb3595599ce0c5d63af2f1bbaf643cb1f714d96a0e"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/template_pool/mansion_overhaul/loot.json"
+hash = "179daea70f1706b703d76ad043c71d82736d7397aa64a1f194c56c20d1ee7cc1"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/template_pool/mansion_overhaul/mob.json"
+hash = "3971922776e2b2ae89af1e83b7a4e08a1dbfe20e589904d80f64a072d913ca81"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/template_pool/mansion_overhaul/path.json"
+hash = "a3a980424187234224c3f8c024ac77594fb725edb5a457041e8a3650194b285b"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/template_pool/mansion_overhaul/path_deco.json"
+hash = "95d89f8d7356f6420e1c37a98e635968ea27e9e11c15ccfa3b823d12b38eacd9"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/template_pool/mansion_overhaul/path_fallback.json"
+hash = "78f7748b060c9106bdf14912471a57303aafd4df9d810fc1f96dd7339d61ad66"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/template_pool/mansion_overhaul/path_straight.json"
+hash = "43366cf102066a2e80bbfb657054f31addc11f0f9fb935a4883ca0350d76609e"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/template_pool/mansion_overhaul/rooms.json"
+hash = "d696a2819d55f3bc159176e295f3df71032b221565757f41f977aee66178677f"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/template_pool/mansion_overhaul/rooms_central.json"
+hash = "eaebfbc105a0448b6b1c0479a15fddda9696ba1c9aa4b7481d3959df46f38588"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/template_pool/mansion_overhaul/rooms_transform.json"
+hash = "d816f4a60fff5491afcdfe96ad141ff20a3641e9ac8c0457db1968561e2a412d"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/template_pool/mansion_overhaul/rooms_windows.json"
+hash = "3937d164c57d77a4b4078ce96ee51ec4cf9114af0b5c183c67342df60dd64f39"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/data/nova_structures/worldgen/template_pool/mansion_overhaul/start.json"
+hash = "c3ae35b85b192b1da84193d969bd1386b5b54e41cc4f8a36c891d79043ef4766"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/pack.mcmeta"
+hash = "b6ad09e7f2bde9eece75ec386671e21084a273052dd269dc6559e2864b6fedd9"
+
+[[files]]
+file = "datapacks/DnT Woodland Mansion Overhual v2.1/pack.png"
+hash = "5c68fb3355b5a9aa0d48f58d1a431cb1c7dea6a2f1a862a94111984b8fa14af8"
 
 [[files]]
 file = "icon.png"
