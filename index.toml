@@ -54,7 +54,7 @@ hash = "ba4503ebc69b390604ea62fb406c52ccdb6cd76f9b899c642f733cb2d36f557b"
 
 [[files]]
 file = "config/undergroundworlds-common.toml"
-hash = "6c2866fc0aa9f34baaee74b46f3e16f37ab9b13691bc972d9bac42eadf971b52"
+hash = "7268b2cf8f3137a8f68b1815da93452978a8d24cce0963d385fdf274774845e9"
 
 [[files]]
 file = "config/wilderwild/entity.json5"
@@ -571,6 +571,18 @@ hash = "047d209b3489379d4e49b86f099431b62da2137e49c7a1ca39427c503ed845c4"
 [[files]]
 file = "datapacks/DefaultChanges/data/mynethersdelight/recipe/powdery_trapdoor_stonecut.json"
 hash = "57f8f5c80461c8984b9daf3814c4b9b8a19b781f2da94bfc957bc42d3259bd45"
+
+[[files]]
+file = "datapacks/DefaultChanges/data/nova_structures/enchantment/boss_behaviour.json"
+hash = "57218cef82ee9620a7ad301eea6b7b9f0b5ebfaad98727491fa3f57661f84144"
+
+[[files]]
+file = "datapacks/DefaultChanges/data/nova_structures/enchantment/shulker_boss.json"
+hash = "57218cef82ee9620a7ad301eea6b7b9f0b5ebfaad98727491fa3f57661f84144"
+
+[[files]]
+file = "datapacks/DefaultChanges/data/nova_structures/enchantment/shulker_miniboss.json"
+hash = "57218cef82ee9620a7ad301eea6b7b9f0b5ebfaad98727491fa3f57661f84144"
 
 [[files]]
 file = "datapacks/DefaultChanges/data/pyrellium/recipe/burning_button.json"
@@ -1409,8 +1421,8 @@ hash = "5682a89c9cfb14bb005157c7c472e1615c23c6468c8b3a529de21be8f4079101"
 metafile = true
 
 [[files]]
-file = "mods/better-archeology.pw.toml"
-hash = "f6dde00965d11938aa025000fb76ab1b695be0627e08f503857ba9ee871a172d"
+file = "mods/better-archeology-fixed.pw.toml"
+hash = "85d49f335a0510a414eb235c9e5bbd63d43cc2445ab06f7cfab4dc95c7924207"
 metafile = true
 
 [[files]]
