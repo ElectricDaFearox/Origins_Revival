@@ -21,7 +21,9 @@
     "beansbackpacks:vanilla_bundle",
     "beansbackpacks:bundle",
     "fixedminecraft:redstone_lantern",
-    "friendsandfoes:crab_claw"
+    "friendsandfoes:crab_claw",
+    "beansbackpacks:lunch_box",
+    "beansbackpacks:netherite_lunch_box"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain Component Data. If the whole entry (or expression) is present, the item gets removed.

@@ -1401,6 +1401,10 @@ file = "datapacks/DefaultChanges/pack.mcmeta"
 hash = "3cd5d272629ce3bc1f2393214a282ae9ea85a493411a83b9497f3c6cb22b8c43"
 
 [[files]]
+file = "icon.png"
+hash = "f8212b6a47f0d3f8d62b3df537da81b1cfefe036e61a035c62fc3ad0736375ff"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
@@ -1478,16 +1482,6 @@ metafile = true
 [[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "d24b4c566bc19ae176a234d17ea0cc4753d64e0ac26c0eba175aceaff0454dde"
-metafile = true
-
-[[files]]
-file = "mods/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
-hash = "8871b4b7d923cd526413949f1883fc8aac3d561be78f033eeeb960a6cecd519d"
-metafile = true
-
-[[files]]
-file = "mods/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
-hash = "6336b1ead4a86cd67173e6d33f5677b2d00e7f24bf660d030f2d0c36dbba1c9c"
 metafile = true
 
 [[files]]
@@ -1616,6 +1610,16 @@ hash = "2793f9f15f7909cef30f45532de3870b68cdd7f8320424b1cf27f674acd36313"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "3a6886d5a63de318cdaaf40586b45a8262ee50473a82643ed4fd22a004a4a2f7"
+metafile = true
+
+[[files]]
+file = "mods/lenient-death.pw.toml"
+hash = "f075e4a3e7b8bf2a9847eedf8c49ca8c6100f7c6c221ae21314dc6f32338caf9"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-herbalbrews.pw.toml"
 hash = "a1192043e4afbe464b82ffd422a1dbd28b2c943e1614a80b5e276678c1ba7ecf"
 metafile = true
@@ -1682,7 +1686,7 @@ metafile = true
 
 [[files]]
 file = "mods/prickle.pw.toml"
-hash = "c3490210c7027217a3d78039d6ac38582bbe6ed39c649fdac8f18d971ce1106b"
+hash = "cf8df6ff91617772897a07ce06b6b383d45933bafee2b31893b38e33e2d97e41"
 metafile = true
 
 [[files]]
@@ -1794,3 +1798,7 @@ metafile = true
 file = "mods/yungs-better-nether-fortresses.pw.toml"
 hash = "a33c822c6525c8b708475161e263cb18883332383a6b25e2b5915623f0e5b85c"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "431996d542cbf6d331b8212d64169ac7555f509fb38cddbd805f892535f54a25"
